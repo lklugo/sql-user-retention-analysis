@@ -1,0 +1,3001 @@
+user_id,signup_date,country,city,device_type,marketing_channel
+770487,2025-02-01,Mexico,Puebla,Web,Instagram
+216739,2025-12-06,Mexico,Tijuana,iPhone,Organic
+126225,2025-09-30,Brazil,Salvador,iPhone,Organic
+877572,2025-12-15,USA,Dallas,Android,Google Ads
+388389,2025-05-07,Mexico,Cancún,iPhone,TikTok
+356787,2025-06-02,USA,Miami,iPhone,Referral
+334053,2025-06-12,UK,Glasgow,iPhone,Instagram
+246316,2025-05-21,Brazil,Belo Horizonte,Web,Google Ads
+872246,2025-07-22,USA,Boston,Android,TikTok
+207473,2025-02-10,UK,Manchester,iPhone,Organic
+809570,2025-04-20,USA,Seattle,Android,Google Ads
+876646,2025-05-20,USA,San Francisco,iPhone,Instagram
+671858,2025-01-26,USA,Boston,Android,Organic
+191161,2025-02-21,Mexico,Tijuana,iPhone,Organic
+719176,2025-03-12,Brazil,Curitiba,Android,Instagram
+542417,2025-12-01,USA,San Francisco,Web,Organic
+133326,2025-05-28,Canada,Calgary,Android,Organic
+131244,2025-10-21,USA,New York,Web,Organic
+198246,2025-04-01,USA,New York,Web,Organic
+329258,2025-09-11,Canada,Toronto,Web,TikTok
+343962,2025-10-18,USA,Miami,Web,Organic
+629903,2025-10-06,Mexico,Monterrey,iPhone,Referral
+731262,2025-04-09,Brazil,Rio de Janeiro,Web,TikTok
+127824,2025-05-12,UK,Birmingham,iPhone,TikTok
+688508,2025-10-18,Mexico,Mexico City,Android,Google Ads
+308496,2025-07-27,Mexico,Guadalajara,iPhone,Google Ads
+850800,2025-02-18,UK,Leeds,iPhone,TikTok
+781453,2025-01-04,USA,Chicago,Android,Referral
+835392,2025-06-18,USA,Houston,Android,Organic
+671412,2025-12-21,USA,Boston,iPhone,Instagram
+539898,2025-12-18,USA,Los Angeles,Android,Organic
+331148,2025-11-24,Brazil,Curitiba,Android,Instagram
+571029,2025-03-10,Canada,Montreal,iPhone,Organic
+717889,2025-08-01,Brazil,Salvador,Android,Instagram
+391704,2025-04-22,Mexico,Puebla,Android,Google Ads
+948749,2025-02-11,UK,Glasgow,Android,Google Ads
+106814,2025-10-16,Brazil,Belo Horizonte,Android,Organic
+895667,2025-10-02,USA,San Francisco,Web,Organic
+944962,2025-12-15,USA,Dallas,Web,TikTok
+267414,2025-08-17,USA,Boston,Android,Google Ads
+832052,2025-10-16,UK,Liverpool,iPhone,TikTok
+543143,2025-01-12,USA,Seattle,Android,Organic
+456778,2025-01-24,Brazil,São Paulo,Android,Instagram
+391369,2025-02-05,Brazil,Curitiba,iPhone,Referral
+263032,2025-03-11,Canada,Calgary,iPhone,TikTok
+325772,2025-07-15,UK,Glasgow,Android,TikTok
+900581,2025-12-05,Brazil,Salvador,iPhone,Instagram
+452944,2025-04-02,UK,Manchester,Android,TikTok
+207175,2025-04-25,Canada,Calgary,Android,Instagram
+197251,2025-10-06,UK,London,Web,TikTok
+498382,2025-06-27,Brazil,Salvador,Web,Organic
+201414,2025-02-27,USA,Houston,Web,Instagram
+476417,2025-01-09,USA,Atlanta,Android,Referral
+988662,2025-11-03,USA,Los Angeles,iPhone,Organic
+460663,2025-08-13,Mexico,Mexico City,iPhone,Organic
+733052,2025-03-13,USA,Houston,Android,Google Ads
+377370,2025-10-22,Brazil,Brasília,iPhone,Referral
+946335,2025-05-02,USA,Boston,Android,Google Ads
+145561,2025-07-31,USA,Chicago,Web,TikTok
+865179,2025-03-31,USA,New York,Android,Instagram
+581741,2025-06-26,Mexico,Puebla,Android,Organic
+662275,2025-12-23,Canada,Edmonton,iPhone,TikTok
+230889,2025-10-03,Brazil,Rio de Janeiro,iPhone,Organic
+496922,2025-08-26,Brazil,Rio de Janeiro,iPhone,Instagram
+182627,2025-09-29,Canada,Ottawa,iPhone,TikTok
+678856,2025-02-10,USA,Houston,iPhone,Organic
+407419,2025-04-08,Canada,Montreal,iPhone,Instagram
+969693,2025-02-07,USA,Atlanta,Android,Instagram
+759176,2025-09-03,USA,Boston,Android,TikTok
+748564,2025-04-19,USA,Dallas,iPhone,Referral
+479201,2025-09-03,Canada,Edmonton,iPhone,Referral
+705397,2025-05-03,Canada,Edmonton,Android,Organic
+301629,2025-07-03,Brazil,Brasília,iPhone,TikTok
+838797,2025-02-20,USA,Dallas,Android,TikTok
+172933,2025-04-15,UK,Glasgow,Android,Google Ads
+148050,2025-03-16,USA,Atlanta,iPhone,Google Ads
+793384,2025-08-02,USA,San Francisco,Web,Instagram
+338968,2025-05-06,USA,Houston,iPhone,TikTok
+910620,2025-09-08,Brazil,Curitiba,Web,Organic
+403445,2025-06-30,Canada,Edmonton,Android,TikTok
+183667,2025-10-05,USA,San Francisco,Android,Referral
+996865,2025-02-08,Canada,Toronto,Android,Google Ads
+344098,2025-03-12,Canada,Edmonton,iPhone,Organic
+205907,2025-04-22,UK,Manchester,iPhone,Organic
+498591,2025-11-12,Brazil,Brasília,iPhone,Instagram
+391476,2025-10-10,Canada,Edmonton,Android,Organic
+575435,2025-05-27,Brazil,São Paulo,Android,Organic
+766563,2025-02-24,USA,Atlanta,Android,Referral
+974628,2025-09-27,Canada,Ottawa,iPhone,Organic
+482554,2025-07-11,USA,Dallas,iPhone,TikTok
+270555,2025-04-26,Canada,Calgary,Android,Referral
+488162,2025-01-17,USA,Los Angeles,Android,Google Ads
+472528,2025-11-23,USA,Atlanta,iPhone,TikTok
+319684,2025-11-27,USA,Chicago,iPhone,Google Ads
+802729,2025-09-28,UK,Leeds,Web,Referral
+379946,2025-10-18,Canada,Vancouver,iPhone,Google Ads
+835911,2025-05-24,Brazil,São Paulo,Web,Instagram
+816751,2025-06-11,UK,Leeds,Android,Organic
+779514,2025-12-31,USA,Houston,Android,Google Ads
+174870,2025-10-18,UK,London,iPhone,Instagram
+738720,2025-07-16,UK,Liverpool,Android,TikTok
+765822,2025-02-10,Mexico,Guadalajara,Android,Instagram
+279451,2025-02-08,Brazil,Brasília,iPhone,TikTok
+660086,2025-06-17,USA,Boston,Web,TikTok
+864544,2025-04-27,USA,Miami,Android,TikTok
+356702,2025-12-05,USA,Atlanta,Android,Instagram
+271339,2025-02-07,Brazil,Belo Horizonte,iPhone,Organic
+584714,2025-03-20,USA,Chicago,iPhone,Google Ads
+497887,2025-06-07,Mexico,Monterrey,iPhone,Organic
+383060,2025-08-09,Brazil,Brasília,iPhone,Organic
+771088,2025-02-15,Brazil,Belo Horizonte,Android,Organic
+821590,2025-07-17,USA,Los Angeles,Android,Google Ads
+684004,2025-10-14,USA,Atlanta,iPhone,Organic
+330283,2025-07-14,Canada,Vancouver,Android,Organic
+817870,2025-02-02,USA,Miami,iPhone,TikTok
+440035,2025-02-09,USA,Miami,iPhone,TikTok
+983794,2025-11-12,USA,Houston,Android,TikTok
+905635,2025-07-22,USA,Los Angeles,iPhone,Organic
+913694,2025-08-14,USA,Boston,iPhone,Google Ads
+158655,2025-12-22,USA,Boston,iPhone,Organic
+340174,2025-06-13,USA,Dallas,iPhone,TikTok
+961722,2025-06-16,USA,Seattle,Web,Google Ads
+133659,2025-04-13,USA,Atlanta,iPhone,Referral
+944151,2025-01-14,Mexico,Tijuana,iPhone,Google Ads
+430776,2025-05-30,Canada,Calgary,Web,Organic
+520651,2025-07-29,UK,London,Android,Google Ads
+380746,2025-12-04,Mexico,Guadalajara,Android,Organic
+169403,2025-11-03,USA,Atlanta,Android,Organic
+321231,2025-12-21,Brazil,Salvador,Android,Referral
+694731,2025-10-02,Brazil,São Paulo,Android,TikTok
+852787,2025-12-07,Mexico,Mexico City,iPhone,Organic
+429963,2025-12-13,USA,Boston,iPhone,Referral
+322955,2025-01-06,Mexico,Monterrey,Web,TikTok
+787277,2025-10-25,USA,Houston,Android,TikTok
+623481,2025-12-14,Mexico,Guadalajara,Android,TikTok
+514850,2025-09-05,Mexico,Tijuana,iPhone,Referral
+774079,2025-03-14,USA,Atlanta,Web,Organic
+581141,2025-09-05,USA,Dallas,Android,Organic
+249811,2025-06-13,USA,Los Angeles,Android,Instagram
+377746,2025-06-25,USA,New York,Android,Organic
+246413,2025-05-05,Mexico,Cancún,Android,Referral
+358607,2025-08-25,Brazil,Belo Horizonte,iPhone,TikTok
+881177,2025-12-03,USA,Atlanta,Android,Organic
+688637,2025-08-19,Brazil,São Paulo,Android,Google Ads
+665158,2025-05-23,Mexico,Puebla,iPhone,Organic
+375504,2025-10-02,Mexico,Mexico City,Android,Google Ads
+883300,2025-12-10,USA,Dallas,iPhone,Organic
+712982,2025-07-18,UK,Leeds,Web,Organic
+549245,2025-08-23,Mexico,Tijuana,iPhone,TikTok
+711878,2025-11-11,Mexico,Cancún,Android,Organic
+518801,2025-06-06,Mexico,Cancún,iPhone,Organic
+479580,2025-08-03,USA,Dallas,Android,TikTok
+329974,2025-11-22,Mexico,Tijuana,iPhone,Organic
+245051,2025-03-27,Brazil,Curitiba,Web,Organic
+634277,2025-11-14,Brazil,Rio de Janeiro,iPhone,Google Ads
+617488,2025-04-10,USA,Dallas,Web,TikTok
+195325,2025-12-17,UK,Leeds,Android,TikTok
+892495,2025-02-12,Brazil,Curitiba,Web,TikTok
+149405,2025-10-03,Brazil,Rio de Janeiro,iPhone,Organic
+214975,2025-09-11,USA,Seattle,Android,Google Ads
+260265,2025-10-06,Brazil,São Paulo,Android,Organic
+757924,2025-08-14,UK,Birmingham,Android,Google Ads
+267753,2025-05-07,Brazil,Salvador,iPhone,Google Ads
+930555,2025-02-14,USA,New York,Android,TikTok
+813536,2025-10-29,Brazil,São Paulo,Android,Organic
+542666,2025-11-12,Mexico,Cancún,Android,TikTok
+725380,2025-10-19,USA,Houston,Android,Google Ads
+166613,2025-12-27,USA,Miami,Android,Organic
+503457,2025-12-14,USA,Boston,iPhone,Google Ads
+500156,2025-01-31,UK,Manchester,Web,Google Ads
+724834,2025-05-08,Canada,Edmonton,iPhone,Google Ads
+590785,2025-12-13,USA,Dallas,Web,Google Ads
+654816,2025-08-01,Brazil,Rio de Janeiro,Android,Organic
+363626,2025-02-17,USA,Los Angeles,Android,Google Ads
+680099,2025-07-08,Brazil,Curitiba,iPhone,Referral
+112038,2025-02-17,Brazil,Salvador,iPhone,Organic
+813328,2025-02-02,Mexico,Puebla,Android,Instagram
+855731,2025-04-19,UK,Liverpool,iPhone,TikTok
+220116,2025-10-23,Brazil,Brasília,Web,Organic
+814825,2025-01-25,USA,Seattle,Android,Google Ads
+663054,2025-03-22,USA,Seattle,iPhone,Referral
+887352,2025-12-19,Brazil,São Paulo,Web,TikTok
+379786,2025-05-21,Canada,Edmonton,iPhone,Google Ads
+905934,2025-11-29,USA,Dallas,iPhone,TikTok
+772097,2025-04-30,USA,Atlanta,Android,Instagram
+456699,2025-09-02,Brazil,São Paulo,Android,Organic
+216970,2025-01-05,USA,Boston,iPhone,Instagram
+407757,2025-08-05,USA,Dallas,Android,Referral
+555884,2025-02-22,Mexico,Puebla,iPhone,TikTok
+265840,2025-03-10,USA,Dallas,Web,Organic
+575763,2025-01-05,Mexico,Cancún,iPhone,TikTok
+103402,2025-11-18,Mexico,Guadalajara,Android,Instagram
+857168,2025-04-22,Mexico,Puebla,Android,TikTok
+854639,2025-07-16,USA,Los Angeles,iPhone,Organic
+376183,2025-05-22,USA,Atlanta,iPhone,Organic
+624902,2025-11-08,Mexico,Guadalajara,Android,Instagram
+898975,2025-06-04,USA,New York,Web,Instagram
+287330,2025-06-01,USA,Boston,Android,Google Ads
+632342,2025-09-13,Mexico,Guadalajara,Android,Organic
+211579,2025-07-04,Mexico,Mexico City,Android,Referral
+755674,2025-08-04,Canada,Vancouver,iPhone,Google Ads
+412942,2025-02-07,USA,Chicago,Android,Referral
+982554,2025-01-31,USA,Los Angeles,iPhone,Organic
+769987,2025-09-14,Canada,Calgary,Android,Instagram
+632323,2025-10-02,UK,Liverpool,Android,Organic
+738551,2025-09-19,Brazil,Rio de Janeiro,iPhone,Organic
+308573,2025-11-21,Canada,Vancouver,Android,TikTok
+260263,2025-12-24,UK,Glasgow,Android,Organic
+492077,2025-08-11,Brazil,Rio de Janeiro,iPhone,Organic
+899550,2025-12-03,USA,Boston,Android,Organic
+269396,2025-01-06,Mexico,Mexico City,iPhone,Organic
+665579,2025-05-13,USA,Dallas,Android,Google Ads
+916449,2025-03-02,USA,Chicago,Android,Google Ads
+656116,2025-09-26,UK,London,iPhone,TikTok
+100599,2025-09-19,USA,Boston,Android,TikTok
+728038,2025-03-22,USA,Seattle,Web,Organic
+439902,2025-03-01,USA,Los Angeles,Web,Instagram
+612340,2025-01-07,USA,San Francisco,iPhone,Google Ads
+120422,2025-04-02,USA,Seattle,iPhone,Referral
+217301,2025-12-02,Canada,Toronto,Android,Referral
+480612,2025-06-13,Brazil,Brasília,iPhone,Referral
+972064,2025-12-11,USA,Los Angeles,Android,Organic
+945964,2025-01-24,Canada,Vancouver,iPhone,TikTok
+422451,2025-06-09,Canada,Toronto,Web,Google Ads
+351083,2025-05-30,USA,San Francisco,Android,TikTok
+160738,2025-07-08,Brazil,Brasília,Android,Organic
+352572,2025-10-07,Mexico,Puebla,Web,Google Ads
+694916,2025-01-13,UK,Manchester,iPhone,Referral
+182582,2025-01-05,USA,Dallas,Android,Instagram
+189814,2025-06-07,Canada,Toronto,Android,TikTok
+867460,2025-01-31,USA,San Francisco,Web,TikTok
+609597,2025-04-29,Canada,Vancouver,Android,Organic
+955662,2025-08-23,UK,Leeds,iPhone,Google Ads
+172574,2025-11-23,Canada,Toronto,Android,TikTok
+897549,2025-12-06,UK,London,Android,Organic
+658582,2025-07-21,Canada,Vancouver,iPhone,Google Ads
+903035,2025-04-30,Mexico,Cancún,iPhone,TikTok
+231869,2025-02-25,USA,Houston,iPhone,Google Ads
+234628,2025-03-03,USA,Chicago,Android,Organic
+791798,2025-03-03,Brazil,Rio de Janeiro,Android,TikTok
+598369,2025-01-21,USA,Miami,Web,Instagram
+676510,2025-07-02,USA,Dallas,iPhone,Instagram
+273148,2025-03-31,Brazil,São Paulo,Android,Organic
+377932,2025-10-09,USA,Atlanta,Web,TikTok
+653306,2025-03-04,USA,Seattle,iPhone,Google Ads
+736059,2025-07-10,USA,Houston,iPhone,Google Ads
+543692,2025-02-08,Mexico,Cancún,iPhone,Instagram
+322086,2025-03-07,USA,Los Angeles,iPhone,Instagram
+665492,2025-01-26,USA,Dallas,iPhone,Referral
+891952,2025-09-12,USA,Boston,Android,Instagram
+865388,2025-04-06,USA,Atlanta,iPhone,Organic
+823378,2025-11-14,USA,Seattle,Web,Organic
+310922,2025-10-09,Mexico,Cancún,iPhone,TikTok
+847581,2025-04-13,Brazil,São Paulo,iPhone,Organic
+426858,2025-10-06,Mexico,Tijuana,iPhone,Referral
+518373,2025-10-06,UK,Liverpool,Android,TikTok
+804314,2025-07-18,UK,Birmingham,Web,TikTok
+781446,2025-05-24,USA,New York,iPhone,Organic
+491559,2025-04-30,USA,Seattle,Android,Google Ads
+559381,2025-10-01,Canada,Toronto,iPhone,Organic
+642717,2025-04-23,UK,Glasgow,iPhone,Referral
+573417,2025-03-30,Brazil,Salvador,iPhone,Google Ads
+226882,2025-07-03,USA,Boston,iPhone,Instagram
+359947,2025-10-18,Canada,Toronto,Android,TikTok
+335612,2025-09-10,Brazil,Belo Horizonte,Web,Google Ads
+167136,2025-04-30,Brazil,Rio de Janeiro,Android,Organic
+454508,2025-11-11,Mexico,Mexico City,Android,Organic
+122056,2025-06-15,USA,Chicago,iPhone,Organic
+716886,2025-02-26,USA,Chicago,Android,Referral
+680828,2025-12-06,UK,Birmingham,Web,TikTok
+341292,2025-03-22,Brazil,São Paulo,iPhone,Organic
+717024,2025-11-29,Mexico,Puebla,Android,Referral
+330914,2025-07-02,USA,San Francisco,Android,Referral
+107540,2025-12-19,USA,Boston,Android,TikTok
+174441,2025-10-21,USA,Chicago,Android,Referral
+842225,2025-11-10,Brazil,Belo Horizonte,iPhone,Instagram
+761759,2025-06-19,USA,Boston,iPhone,TikTok
+161733,2025-11-22,Mexico,Guadalajara,iPhone,Organic
+340062,2025-06-21,UK,London,Web,Instagram
+170674,2025-06-29,Brazil,Brasília,iPhone,Instagram
+132938,2025-08-13,USA,Los Angeles,Android,Organic
+446479,2025-07-13,Mexico,Guadalajara,Web,TikTok
+174299,2025-10-23,USA,Atlanta,iPhone,TikTok
+639131,2025-01-18,Mexico,Cancún,iPhone,TikTok
+349565,2025-06-25,USA,Dallas,iPhone,Organic
+392004,2025-02-17,USA,Atlanta,iPhone,Organic
+801474,2025-08-09,USA,Boston,Web,Instagram
+608993,2025-01-28,Canada,Vancouver,Android,TikTok
+324643,2025-10-11,USA,Houston,Web,TikTok
+665427,2025-06-02,Mexico,Cancún,Android,Instagram
+238739,2025-09-09,USA,New York,iPhone,TikTok
+858490,2025-12-05,USA,Dallas,iPhone,Organic
+698782,2025-03-29,Mexico,Puebla,iPhone,Organic
+704201,2025-07-23,Mexico,Mexico City,Android,Organic
+595631,2025-07-18,Brazil,Curitiba,iPhone,Instagram
+354801,2025-05-15,USA,Atlanta,iPhone,TikTok
+922733,2025-02-01,Brazil,Brasília,iPhone,Organic
+595948,2025-10-05,USA,Los Angeles,iPhone,TikTok
+946721,2025-07-18,Brazil,Belo Horizonte,iPhone,Organic
+526833,2025-09-01,UK,Liverpool,Web,Instagram
+299659,2025-01-18,Brazil,Rio de Janeiro,Android,Organic
+198907,2025-11-14,Brazil,Belo Horizonte,Android,Instagram
+201639,2025-04-19,USA,Seattle,iPhone,Referral
+790993,2025-12-16,UK,Manchester,iPhone,Organic
+551989,2025-06-13,Brazil,Curitiba,iPhone,Instagram
+471507,2025-10-10,Canada,Toronto,iPhone,TikTok
+544154,2025-01-07,USA,Miami,Android,Referral
+531071,2025-02-27,UK,Leeds,Android,Google Ads
+589710,2025-02-21,Brazil,Rio de Janeiro,Android,Instagram
+864491,2025-10-02,Canada,Ottawa,Android,Google Ads
+156802,2025-10-20,UK,Liverpool,iPhone,Instagram
+806073,2025-11-13,Mexico,Mexico City,iPhone,TikTok
+785197,2025-06-19,Mexico,Cancún,iPhone,TikTok
+777568,2025-07-10,Mexico,Mexico City,Android,Referral
+203198,2025-12-23,USA,Miami,iPhone,Google Ads
+163556,2025-08-15,Mexico,Guadalajara,iPhone,Referral
+522179,2025-11-27,UK,Birmingham,iPhone,TikTok
+863587,2025-09-06,USA,Seattle,iPhone,Google Ads
+455784,2025-03-23,Mexico,Monterrey,Web,TikTok
+939482,2025-09-26,USA,San Francisco,iPhone,Google Ads
+214576,2025-04-13,UK,London,iPhone,Google Ads
+360735,2025-07-04,UK,Manchester,iPhone,Organic
+300896,2025-07-23,Mexico,Monterrey,iPhone,TikTok
+299448,2025-09-08,Mexico,Mexico City,Android,Organic
+662336,2025-10-10,Mexico,Guadalajara,Web,TikTok
+570405,2025-12-19,USA,Chicago,Web,Organic
+246991,2025-10-20,USA,New York,iPhone,Organic
+542374,2025-12-13,UK,Manchester,Web,Instagram
+292401,2025-12-16,USA,Atlanta,Android,Google Ads
+392075,2025-01-05,USA,Chicago,Android,Instagram
+585100,2025-12-30,USA,Boston,Android,Organic
+361941,2025-08-24,Mexico,Puebla,Web,Google Ads
+179046,2025-11-16,USA,Seattle,iPhone,TikTok
+564656,2025-07-11,Brazil,São Paulo,iPhone,Referral
+947272,2025-02-25,Brazil,Belo Horizonte,Android,Organic
+997546,2025-05-22,Brazil,Brasília,Web,Instagram
+677057,2025-05-04,USA,Miami,iPhone,TikTok
+202664,2025-03-13,UK,Leeds,iPhone,Organic
+153045,2025-08-03,Mexico,Cancún,Android,Organic
+783823,2025-10-20,Brazil,Curitiba,iPhone,Instagram
+666847,2025-10-01,UK,Birmingham,Android,Organic
+976638,2025-09-17,Mexico,Puebla,Web,Instagram
+115474,2025-04-03,USA,Chicago,Web,Google Ads
+197793,2025-10-14,USA,Seattle,iPhone,Organic
+890170,2025-12-02,UK,Manchester,Web,Google Ads
+989921,2025-08-04,USA,Dallas,iPhone,Google Ads
+347861,2025-08-26,UK,Birmingham,iPhone,Instagram
+274389,2025-10-25,UK,Liverpool,iPhone,Instagram
+526156,2025-03-03,Canada,Toronto,Android,Organic
+609231,2025-03-19,UK,Liverpool,Android,TikTok
+604740,2025-08-23,USA,Houston,iPhone,Referral
+324130,2025-11-20,USA,Chicago,Android,TikTok
+520521,2025-05-21,Canada,Montreal,Android,Organic
+161483,2025-02-15,USA,Chicago,Android,Organic
+272634,2025-09-02,USA,Atlanta,Android,TikTok
+497382,2025-01-08,Brazil,São Paulo,Android,Instagram
+102260,2025-11-17,UK,Leeds,iPhone,Instagram
+509386,2025-03-08,Mexico,Guadalajara,Android,TikTok
+378085,2025-01-24,USA,San Francisco,Android,Organic
+922157,2025-09-26,USA,Miami,Android,TikTok
+923267,2025-07-03,USA,Chicago,iPhone,Referral
+577110,2025-07-26,Mexico,Guadalajara,Web,Referral
+399105,2025-01-12,USA,Houston,Android,Organic
+543555,2025-01-20,Mexico,Guadalajara,iPhone,Instagram
+830429,2025-11-01,USA,Miami,Android,Instagram
+865990,2025-01-25,Canada,Edmonton,iPhone,Google Ads
+921414,2025-05-10,Mexico,Puebla,Android,Organic
+682765,2025-01-05,Brazil,Rio de Janeiro,iPhone,Instagram
+794022,2025-11-07,USA,Los Angeles,Android,Organic
+853305,2025-11-13,Mexico,Puebla,Web,Organic
+610311,2025-11-08,USA,Los Angeles,Android,TikTok
+262316,2025-07-03,USA,Miami,Web,Referral
+299122,2025-04-17,Mexico,Monterrey,iPhone,TikTok
+411120,2025-12-10,Mexico,Puebla,iPhone,Organic
+328275,2025-03-18,USA,Los Angeles,Web,Instagram
+161324,2025-05-12,Canada,Ottawa,iPhone,Instagram
+707314,2025-08-26,Mexico,Puebla,Web,Organic
+871476,2025-07-04,USA,Chicago,Web,Google Ads
+668532,2025-01-24,UK,Birmingham,iPhone,Organic
+163918,2025-07-03,USA,Chicago,Android,Organic
+884309,2025-07-10,UK,Leeds,iPhone,Instagram
+428838,2025-08-22,UK,Manchester,iPhone,TikTok
+159942,2025-08-04,USA,Atlanta,Android,TikTok
+152578,2025-01-31,Mexico,Guadalajara,iPhone,Instagram
+712554,2025-09-05,Canada,Vancouver,iPhone,Referral
+599948,2025-07-03,UK,Glasgow,Android,Instagram
+627276,2025-03-08,Mexico,Cancún,Web,Instagram
+994141,2025-01-24,Brazil,Salvador,iPhone,TikTok
+656926,2025-09-26,USA,Dallas,iPhone,Google Ads
+265080,2025-12-09,UK,Leeds,Android,Organic
+159642,2025-02-18,UK,Leeds,Android,Instagram
+632496,2025-12-13,Brazil,Curitiba,iPhone,TikTok
+184002,2025-11-10,Mexico,Guadalajara,Web,TikTok
+992697,2025-09-11,USA,Chicago,Android,TikTok
+294851,2025-06-19,UK,London,Android,Organic
+171849,2025-07-13,Canada,Toronto,Android,TikTok
+723939,2025-10-21,Brazil,Rio de Janeiro,iPhone,TikTok
+171262,2025-09-12,Brazil,Salvador,Android,Organic
+808011,2025-10-13,Mexico,Mexico City,iPhone,TikTok
+346629,2025-11-23,Brazil,São Paulo,Android,Referral
+523389,2025-08-22,USA,San Francisco,Android,Instagram
+225710,2025-08-21,Canada,Montreal,Web,Google Ads
+697347,2025-07-06,USA,Boston,Android,Instagram
+358175,2025-01-02,Mexico,Mexico City,iPhone,Instagram
+707040,2025-02-24,USA,Miami,Android,TikTok
+723398,2025-07-29,USA,Chicago,Android,Google Ads
+141672,2025-07-21,USA,Boston,iPhone,Organic
+749468,2025-08-01,USA,Houston,Android,Organic
+185965,2025-08-23,USA,Boston,iPhone,Google Ads
+539589,2025-09-29,Mexico,Tijuana,iPhone,TikTok
+789305,2025-09-05,Mexico,Tijuana,Web,Google Ads
+712024,2025-03-07,Canada,Vancouver,Android,Organic
+692683,2025-07-16,USA,Boston,Android,Organic
+648177,2025-05-21,Brazil,Belo Horizonte,Web,Google Ads
+431737,2025-03-10,Brazil,Brasília,Web,TikTok
+373432,2025-06-03,USA,Boston,Android,Google Ads
+314181,2025-10-11,UK,Leeds,Web,Instagram
+802258,2025-12-18,Mexico,Guadalajara,iPhone,Instagram
+850981,2025-04-02,USA,Chicago,Web,Instagram
+429445,2025-06-30,Brazil,Curitiba,Android,Instagram
+350280,2025-08-02,Brazil,Belo Horizonte,Android,Instagram
+378517,2025-01-07,Mexico,Tijuana,iPhone,Google Ads
+515011,2025-01-29,Brazil,São Paulo,iPhone,Organic
+237235,2025-03-16,USA,Chicago,Web,Instagram
+804318,2025-10-05,UK,Glasgow,Android,Organic
+776856,2025-10-15,USA,Seattle,iPhone,Google Ads
+414569,2025-09-19,UK,Glasgow,Android,TikTok
+579434,2025-07-15,UK,Glasgow,iPhone,Instagram
+431535,2025-01-07,Brazil,Curitiba,iPhone,TikTok
+888387,2025-08-15,Mexico,Guadalajara,Android,Google Ads
+176066,2025-10-29,UK,Glasgow,Android,Instagram
+109767,2025-04-10,Brazil,Belo Horizonte,iPhone,Instagram
+580547,2025-03-30,USA,Chicago,Web,Organic
+751332,2025-10-12,Mexico,Mexico City,iPhone,TikTok
+690341,2025-06-19,USA,Chicago,Android,Organic
+204837,2025-11-02,Brazil,Rio de Janeiro,iPhone,Referral
+176819,2025-10-21,USA,Boston,Web,Organic
+663750,2025-04-23,Brazil,São Paulo,Android,Organic
+323508,2025-08-01,Canada,Ottawa,iPhone,TikTok
+630458,2025-04-20,Brazil,Salvador,iPhone,Organic
+378082,2025-11-13,Mexico,Monterrey,iPhone,Organic
+238890,2025-01-05,Brazil,Belo Horizonte,Web,Referral
+465962,2025-11-11,USA,Dallas,Android,Referral
+172132,2025-06-14,Canada,Vancouver,Web,Instagram
+356150,2025-05-25,Brazil,São Paulo,iPhone,TikTok
+487477,2025-09-18,USA,San Francisco,Web,TikTok
+398830,2025-06-14,Brazil,São Paulo,iPhone,Instagram
+265409,2025-10-03,Brazil,São Paulo,iPhone,Referral
+559469,2025-04-20,Brazil,Curitiba,iPhone,Instagram
+974244,2025-12-26,UK,Liverpool,Web,Organic
+669605,2025-02-06,UK,Glasgow,Android,Instagram
+837715,2025-01-20,Mexico,Guadalajara,iPhone,Instagram
+417212,2025-02-06,USA,New York,iPhone,Organic
+741390,2025-08-19,Brazil,Rio de Janeiro,Web,TikTok
+946305,2025-03-02,Mexico,Puebla,iPhone,TikTok
+785743,2025-10-27,Brazil,Curitiba,Android,Organic
+654634,2025-05-29,USA,Los Angeles,iPhone,TikTok
+108203,2025-08-13,UK,Birmingham,Android,Organic
+800305,2025-04-23,Brazil,Curitiba,iPhone,Organic
+956795,2025-06-01,USA,Atlanta,Android,Google Ads
+681542,2025-11-28,Canada,Vancouver,iPhone,Google Ads
+413921,2025-03-05,USA,New York,Android,TikTok
+795613,2025-02-13,USA,Boston,Android,TikTok
+208618,2025-09-20,USA,Dallas,iPhone,Referral
+240814,2025-04-10,USA,Chicago,iPhone,Google Ads
+377312,2025-10-09,USA,Boston,Web,Google Ads
+221035,2025-05-09,Brazil,Belo Horizonte,iPhone,Instagram
+212235,2025-03-07,USA,Boston,Android,Organic
+878480,2025-04-10,Mexico,Guadalajara,iPhone,Instagram
+680097,2025-12-22,USA,Seattle,iPhone,Instagram
+262998,2025-08-08,Mexico,Tijuana,Android,Google Ads
+385577,2025-11-25,USA,Dallas,iPhone,Organic
+395442,2025-09-03,Brazil,Brasília,iPhone,Instagram
+734210,2025-02-25,Brazil,Brasília,Android,TikTok
+320861,2025-03-13,USA,Boston,iPhone,Organic
+852470,2025-02-09,UK,Manchester,iPhone,Google Ads
+459536,2025-10-25,Mexico,Mexico City,Web,Instagram
+313487,2025-05-14,Brazil,Belo Horizonte,iPhone,Organic
+820892,2025-07-07,Brazil,Belo Horizonte,Android,Google Ads
+765046,2025-08-26,Brazil,Belo Horizonte,Android,Organic
+994343,2025-12-06,Brazil,São Paulo,iPhone,TikTok
+376807,2025-03-13,USA,Boston,Android,Google Ads
+629959,2025-03-16,Brazil,Rio de Janeiro,Android,Instagram
+612262,2025-09-07,Mexico,Puebla,Web,Organic
+363319,2025-04-16,USA,Miami,iPhone,Organic
+987204,2025-01-24,Brazil,Brasília,iPhone,Referral
+153266,2025-11-21,USA,Dallas,iPhone,Referral
+196781,2025-03-31,UK,Glasgow,iPhone,TikTok
+765095,2025-02-09,USA,Atlanta,iPhone,Instagram
+544151,2025-07-27,Brazil,Salvador,Web,Organic
+969634,2025-11-06,USA,Dallas,Android,TikTok
+390120,2025-09-21,USA,Chicago,Android,Organic
+146228,2025-11-05,Mexico,Guadalajara,iPhone,Organic
+103717,2025-06-19,Mexico,Mexico City,Android,TikTok
+449759,2025-10-30,Mexico,Puebla,Android,TikTok
+908577,2025-10-21,USA,Atlanta,iPhone,Organic
+237174,2025-10-21,Mexico,Guadalajara,Android,Organic
+768061,2025-07-27,USA,Chicago,iPhone,Organic
+374680,2025-12-05,Mexico,Tijuana,Android,Google Ads
+269430,2025-08-30,UK,London,iPhone,Instagram
+877236,2025-03-15,UK,Manchester,iPhone,TikTok
+563298,2025-03-27,UK,Manchester,Android,TikTok
+678478,2025-02-05,Mexico,Monterrey,Web,Instagram
+839945,2025-09-25,USA,Atlanta,iPhone,Organic
+548462,2025-11-07,UK,Leeds,Android,Google Ads
+688153,2025-09-30,USA,Seattle,Web,Instagram
+110139,2025-11-05,Brazil,São Paulo,iPhone,Instagram
+217308,2025-11-29,Brazil,São Paulo,Web,Google Ads
+178898,2025-09-29,Brazil,Salvador,iPhone,Organic
+824586,2025-10-29,Brazil,Salvador,Android,TikTok
+256294,2025-05-11,UK,Glasgow,Android,TikTok
+672092,2025-11-03,Brazil,Rio de Janeiro,Web,Organic
+137778,2025-01-04,UK,Liverpool,iPhone,Organic
+975136,2025-04-16,Brazil,São Paulo,Android,TikTok
+487151,2025-08-07,Mexico,Monterrey,iPhone,Organic
+710805,2025-10-17,Mexico,Monterrey,iPhone,TikTok
+679364,2025-04-15,USA,Miami,Web,TikTok
+255287,2025-10-12,Brazil,Belo Horizonte,Android,TikTok
+550664,2025-07-23,Brazil,Brasília,Android,Google Ads
+233636,2025-12-25,Mexico,Cancún,iPhone,Organic
+143860,2025-06-23,Canada,Toronto,iPhone,TikTok
+423232,2025-03-24,UK,Leeds,Android,Instagram
+482364,2025-03-16,Brazil,Curitiba,iPhone,Organic
+934794,2025-04-24,Brazil,Belo Horizonte,Android,Organic
+141832,2025-07-25,USA,Boston,iPhone,TikTok
+475190,2025-01-30,Mexico,Tijuana,iPhone,Referral
+320281,2025-04-14,Canada,Vancouver,Android,TikTok
+815198,2025-11-03,UK,Leeds,iPhone,Organic
+361650,2025-01-19,Brazil,Curitiba,iPhone,Organic
+799330,2025-05-22,USA,New York,Web,Organic
+207786,2025-04-13,UK,Birmingham,Android,TikTok
+470858,2025-10-09,Brazil,Curitiba,Android,Referral
+918011,2025-05-22,USA,San Francisco,Web,TikTok
+687080,2025-01-03,USA,Houston,Android,TikTok
+526117,2025-09-15,USA,Atlanta,Android,TikTok
+750810,2025-10-03,USA,Los Angeles,Android,Referral
+885884,2025-07-13,UK,Leeds,iPhone,TikTok
+262060,2025-08-23,Brazil,Rio de Janeiro,Android,Referral
+348237,2025-05-13,Mexico,Tijuana,Web,TikTok
+270395,2025-06-11,USA,Houston,Android,Organic
+938742,2025-05-15,Brazil,Brasília,Android,Organic
+950155,2025-06-25,USA,Los Angeles,iPhone,Google Ads
+285652,2025-10-21,USA,Chicago,Android,TikTok
+532322,2025-05-04,USA,Houston,Android,Organic
+125990,2025-11-13,UK,Manchester,iPhone,Google Ads
+288073,2025-12-06,USA,Los Angeles,iPhone,Organic
+872343,2025-01-22,Brazil,São Paulo,Android,TikTok
+448321,2025-10-22,UK,Birmingham,Android,TikTok
+920391,2025-09-19,UK,Liverpool,iPhone,Google Ads
+531712,2025-09-27,USA,Houston,Android,Organic
+941204,2025-06-27,UK,Liverpool,Web,Organic
+802448,2025-03-03,Brazil,Curitiba,Android,TikTok
+870763,2025-12-12,Mexico,Puebla,iPhone,Organic
+950132,2025-05-13,USA,Boston,iPhone,TikTok
+360222,2025-11-10,USA,Miami,iPhone,TikTok
+379766,2025-12-25,USA,Chicago,Android,Organic
+266931,2025-04-03,Mexico,Monterrey,Web,Organic
+925622,2025-05-19,Brazil,Belo Horizonte,Android,Google Ads
+835343,2025-03-16,UK,Leeds,Android,TikTok
+213346,2025-04-01,UK,Glasgow,iPhone,Google Ads
+501124,2025-09-22,Brazil,Rio de Janeiro,Web,Google Ads
+140605,2025-10-15,Brazil,Brasília,Android,Organic
+593554,2025-01-31,UK,London,iPhone,Instagram
+333238,2025-08-19,USA,Miami,Android,Instagram
+309267,2025-05-12,Mexico,Monterrey,iPhone,Instagram
+956253,2025-11-07,USA,Atlanta,iPhone,Google Ads
+582662,2025-05-26,USA,Boston,Android,TikTok
+466643,2025-02-10,USA,San Francisco,Android,Instagram
+420015,2025-03-27,Brazil,Brasília,Android,Referral
+960394,2025-07-27,Mexico,Monterrey,iPhone,Instagram
+933980,2025-06-10,UK,London,iPhone,TikTok
+338651,2025-07-22,USA,Miami,Android,Instagram
+333752,2025-10-28,USA,Seattle,Android,Referral
+124813,2025-01-12,Brazil,Salvador,iPhone,Organic
+792094,2025-12-25,USA,Houston,Android,Referral
+302511,2025-02-02,Mexico,Guadalajara,iPhone,Organic
+517821,2025-07-23,Canada,Calgary,Android,Organic
+444207,2025-02-13,Brazil,São Paulo,iPhone,Instagram
+392136,2025-05-26,Mexico,Puebla,iPhone,Organic
+172792,2025-01-15,Brazil,Rio de Janeiro,iPhone,Google Ads
+910891,2025-09-01,USA,Dallas,Web,Organic
+392683,2025-03-11,Brazil,Belo Horizonte,Web,TikTok
+468203,2025-08-22,Canada,Edmonton,Android,Instagram
+772642,2025-11-24,Mexico,Cancún,Web,TikTok
+634150,2025-04-27,Mexico,Monterrey,Web,TikTok
+519093,2025-03-21,UK,Liverpool,iPhone,TikTok
+812526,2025-03-11,USA,New York,Android,Google Ads
+984642,2025-09-09,USA,Seattle,Android,Instagram
+662262,2025-05-30,Canada,Calgary,iPhone,Google Ads
+447235,2025-10-15,Mexico,Mexico City,Android,Organic
+128941,2025-07-19,Brazil,Rio de Janeiro,iPhone,Instagram
+220944,2025-05-03,UK,Manchester,iPhone,TikTok
+373903,2025-05-26,Brazil,Belo Horizonte,Android,Instagram
+287241,2025-02-05,Mexico,Tijuana,Android,TikTok
+708792,2025-08-20,USA,Miami,iPhone,TikTok
+378361,2025-03-19,USA,Boston,Android,Organic
+140115,2025-05-25,USA,San Francisco,iPhone,Referral
+213668,2025-03-19,USA,Seattle,Android,Organic
+725550,2025-09-13,USA,Houston,iPhone,Organic
+555673,2025-02-11,Canada,Calgary,Android,Organic
+462479,2025-02-06,UK,Manchester,iPhone,Google Ads
+863934,2025-07-15,Brazil,Rio de Janeiro,iPhone,Google Ads
+924629,2025-07-17,UK,London,Web,Instagram
+428914,2025-04-12,UK,Liverpool,iPhone,Referral
+557592,2025-08-31,Brazil,São Paulo,Android,Referral
+735656,2025-01-22,Brazil,Brasília,Web,Organic
+636265,2025-11-23,Mexico,Tijuana,Android,Organic
+221263,2025-04-22,USA,Dallas,Web,Google Ads
+503906,2025-03-27,Canada,Vancouver,Android,Organic
+704596,2025-01-05,UK,Leeds,iPhone,Google Ads
+299312,2025-11-02,Canada,Ottawa,Android,TikTok
+367095,2025-12-18,USA,Los Angeles,iPhone,TikTok
+146542,2025-03-20,Mexico,Cancún,iPhone,TikTok
+843215,2025-10-13,Mexico,Mexico City,iPhone,Organic
+557239,2025-04-09,UK,Birmingham,Android,TikTok
+101773,2025-01-21,USA,Atlanta,iPhone,Organic
+645175,2025-09-08,Brazil,Salvador,Android,TikTok
+945687,2025-08-28,USA,Chicago,Android,Organic
+664607,2025-02-05,USA,Boston,Web,TikTok
+820221,2025-07-07,Brazil,Salvador,iPhone,Organic
+854377,2025-01-10,Brazil,Curitiba,Android,Instagram
+877991,2025-02-02,Mexico,Monterrey,Android,Organic
+872840,2025-12-16,Mexico,Tijuana,Android,Organic
+803204,2025-07-29,Brazil,Belo Horizonte,iPhone,Organic
+306606,2025-01-23,Mexico,Mexico City,iPhone,Instagram
+481913,2025-02-24,UK,Manchester,iPhone,Organic
+552248,2025-07-18,Brazil,São Paulo,iPhone,Instagram
+173372,2025-01-26,Mexico,Tijuana,Android,Instagram
+796503,2025-04-17,USA,Boston,Android,Organic
+446239,2025-07-04,Mexico,Mexico City,Android,Instagram
+753425,2025-01-30,Brazil,Salvador,Web,Google Ads
+429164,2025-06-05,UK,Birmingham,Android,Instagram
+795612,2025-04-29,USA,Houston,Web,Organic
+989208,2025-10-19,Brazil,Rio de Janeiro,iPhone,Instagram
+230679,2025-02-24,Mexico,Guadalajara,Android,TikTok
+854717,2025-12-07,UK,Leeds,iPhone,TikTok
+414910,2025-07-25,Brazil,São Paulo,iPhone,Organic
+631756,2025-08-15,Brazil,Curitiba,iPhone,Referral
+424308,2025-07-10,Canada,Montreal,Android,Referral
+799287,2025-11-08,Brazil,Curitiba,Android,Instagram
+528231,2025-05-11,USA,San Francisco,iPhone,Google Ads
+442027,2025-01-18,USA,Seattle,Android,TikTok
+521947,2025-06-04,Canada,Ottawa,iPhone,Organic
+831076,2025-12-20,USA,Houston,iPhone,Organic
+410016,2025-10-20,UK,Leeds,Android,Instagram
+681343,2025-05-16,USA,New York,Android,Organic
+233470,2025-06-03,USA,Boston,iPhone,Organic
+301158,2025-02-09,USA,Atlanta,Android,Organic
+540869,2025-12-20,Mexico,Puebla,iPhone,Google Ads
+797229,2025-10-23,Mexico,Mexico City,Android,Organic
+497562,2025-08-11,Brazil,São Paulo,Web,Organic
+810219,2025-12-01,Brazil,São Paulo,Web,Organic
+884475,2025-01-28,UK,London,Android,Instagram
+282480,2025-06-17,USA,New York,iPhone,Instagram
+745414,2025-07-21,Brazil,Rio de Janeiro,iPhone,Instagram
+696750,2025-08-10,Canada,Ottawa,Android,Organic
+415568,2025-09-01,USA,Atlanta,iPhone,Organic
+525800,2025-07-24,Brazil,São Paulo,Android,Organic
+674553,2025-10-14,Brazil,Curitiba,iPhone,Organic
+974224,2025-11-12,USA,Atlanta,Android,Organic
+100425,2025-08-09,Canada,Ottawa,iPhone,Organic
+418635,2025-08-05,USA,Boston,iPhone,Instagram
+400850,2025-01-13,USA,Houston,iPhone,Instagram
+320392,2025-08-15,UK,Manchester,Web,Instagram
+550770,2025-04-13,Mexico,Puebla,iPhone,Google Ads
+923927,2025-02-27,Mexico,Guadalajara,Android,Google Ads
+708158,2025-05-28,Mexico,Guadalajara,Web,Referral
+736130,2025-06-19,USA,Los Angeles,iPhone,TikTok
+786508,2025-05-13,USA,San Francisco,iPhone,TikTok
+437902,2025-12-24,Brazil,Belo Horizonte,Android,Organic
+587575,2025-01-23,Mexico,Puebla,Android,Instagram
+563246,2025-11-13,USA,New York,iPhone,Google Ads
+563638,2025-07-18,USA,Seattle,Android,Organic
+808446,2025-02-25,Mexico,Cancún,Web,Instagram
+324082,2025-12-30,USA,Atlanta,iPhone,TikTok
+636004,2025-02-15,USA,Dallas,Android,Instagram
+596171,2025-12-31,USA,San Francisco,Web,Instagram
+932291,2025-09-08,USA,Houston,Web,Organic
+934692,2025-07-01,Brazil,Rio de Janeiro,iPhone,Instagram
+871711,2025-05-22,Mexico,Guadalajara,Web,Referral
+277934,2025-01-16,UK,Glasgow,iPhone,TikTok
+790855,2025-07-21,Canada,Montreal,iPhone,TikTok
+188914,2025-12-14,Mexico,Mexico City,Android,TikTok
+397571,2025-10-21,Mexico,Cancún,Android,TikTok
+640490,2025-10-05,USA,Miami,Web,Organic
+796101,2025-04-14,USA,Chicago,Android,Instagram
+763686,2025-03-11,UK,Birmingham,Android,Google Ads
+749342,2025-03-22,Brazil,Rio de Janeiro,Android,Instagram
+451470,2025-04-05,USA,San Francisco,Android,Instagram
+197923,2025-07-31,USA,Chicago,Android,Google Ads
+958179,2025-11-23,Canada,Montreal,Android,Referral
+887625,2025-03-09,Canada,Montreal,iPhone,Organic
+346277,2025-11-10,USA,Boston,Android,Instagram
+805477,2025-02-10,USA,Houston,iPhone,Organic
+425498,2025-08-29,Mexico,Puebla,iPhone,Google Ads
+335552,2025-08-31,Mexico,Monterrey,iPhone,TikTok
+945742,2025-01-08,USA,Houston,iPhone,TikTok
+308802,2025-04-14,Canada,Calgary,iPhone,Instagram
+254511,2025-08-13,Mexico,Mexico City,iPhone,Referral
+125611,2025-05-07,UK,Liverpool,Android,Google Ads
+148458,2025-06-10,Brazil,São Paulo,Android,Google Ads
+356736,2025-11-25,Brazil,Curitiba,Android,TikTok
+598216,2025-01-22,UK,London,Android,TikTok
+740967,2025-01-21,UK,Manchester,Android,TikTok
+991014,2025-04-08,Brazil,Belo Horizonte,Android,Referral
+905819,2025-05-27,USA,Atlanta,Web,Google Ads
+176365,2025-12-20,Brazil,Salvador,iPhone,Referral
+577538,2025-02-16,Brazil,Rio de Janeiro,Android,Instagram
+534572,2025-12-23,Mexico,Mexico City,iPhone,Instagram
+760356,2025-04-02,Brazil,Salvador,iPhone,TikTok
+703634,2025-02-16,Brazil,Curitiba,Web,Google Ads
+303880,2025-02-28,USA,Chicago,Android,Organic
+853240,2025-07-16,Mexico,Cancún,iPhone,TikTok
+830180,2025-10-09,Mexico,Tijuana,Android,Organic
+502630,2025-12-04,Brazil,Rio de Janeiro,Web,Instagram
+618392,2025-12-31,UK,Manchester,Web,Organic
+519066,2025-08-17,USA,Miami,iPhone,Google Ads
+355836,2025-04-14,USA,Chicago,iPhone,Organic
+254739,2025-09-13,USA,Miami,iPhone,TikTok
+787926,2025-04-22,Brazil,São Paulo,Android,TikTok
+821024,2025-11-04,Mexico,Puebla,Android,TikTok
+105814,2025-11-18,Mexico,Guadalajara,Web,Organic
+887443,2025-12-01,Brazil,Rio de Janeiro,iPhone,Organic
+907451,2025-11-05,USA,Chicago,Web,Instagram
+211764,2025-04-02,USA,Los Angeles,iPhone,TikTok
+916232,2025-11-01,USA,Miami,Android,Instagram
+545798,2025-10-24,Brazil,Belo Horizonte,iPhone,TikTok
+329471,2025-07-08,USA,New York,iPhone,Organic
+284430,2025-02-03,UK,London,Android,Google Ads
+943170,2025-06-18,USA,Chicago,iPhone,Google Ads
+829716,2025-01-30,Brazil,Belo Horizonte,iPhone,Organic
+643118,2025-12-19,USA,San Francisco,Web,TikTok
+587115,2025-06-12,Mexico,Cancún,iPhone,Instagram
+152657,2025-03-08,USA,Boston,Web,TikTok
+684482,2025-09-10,Mexico,Puebla,Android,Instagram
+361303,2025-04-10,UK,Leeds,iPhone,Organic
+989545,2025-04-17,USA,New York,Android,Google Ads
+227253,2025-10-14,UK,Liverpool,iPhone,Organic
+578634,2025-05-25,UK,Manchester,iPhone,Organic
+239816,2025-06-15,USA,Los Angeles,iPhone,TikTok
+940346,2025-10-19,UK,London,Android,TikTok
+587213,2025-06-23,Mexico,Mexico City,Web,Organic
+800005,2025-11-27,Canada,Calgary,Web,Google Ads
+656932,2025-10-02,USA,Chicago,Android,Google Ads
+686075,2025-01-29,UK,Liverpool,Android,TikTok
+724377,2025-10-12,UK,Birmingham,Android,Instagram
+432711,2025-07-01,Brazil,Rio de Janeiro,Android,Organic
+891937,2025-07-12,USA,Chicago,iPhone,Organic
+564071,2025-11-01,Mexico,Guadalajara,Android,TikTok
+742412,2025-01-17,USA,Miami,Android,Organic
+954596,2025-08-20,USA,Los Angeles,Android,Organic
+854213,2025-02-27,UK,Birmingham,iPhone,Organic
+629298,2025-08-16,USA,New York,Android,Referral
+547470,2025-06-24,Brazil,Salvador,Web,Organic
+970914,2025-06-17,Canada,Edmonton,Web,Organic
+674485,2025-12-13,USA,Los Angeles,Web,Referral
+567574,2025-09-25,Canada,Vancouver,Android,TikTok
+266889,2025-11-01,USA,Miami,Web,Instagram
+879779,2025-09-24,UK,Birmingham,Android,Organic
+597732,2025-06-09,UK,Glasgow,iPhone,Instagram
+571932,2025-05-22,Mexico,Guadalajara,iPhone,Organic
+371782,2025-03-22,Brazil,Salvador,Android,Organic
+888295,2025-02-22,USA,New York,Web,TikTok
+359249,2025-12-27,USA,Dallas,Android,Organic
+980660,2025-11-10,UK,Leeds,iPhone,Organic
+768636,2025-08-30,UK,Leeds,Android,Organic
+390782,2025-08-07,Canada,Toronto,iPhone,Organic
+903013,2025-12-20,Brazil,Curitiba,Android,Instagram
+915451,2025-04-12,Mexico,Tijuana,iPhone,Organic
+646622,2025-08-27,Mexico,Cancún,Android,Organic
+608136,2025-08-28,Brazil,São Paulo,Android,Referral
+757193,2025-08-27,USA,Miami,Android,Instagram
+350867,2025-05-13,Brazil,Rio de Janeiro,iPhone,Google Ads
+387936,2025-06-19,Canada,Calgary,iPhone,Referral
+561239,2025-09-01,UK,Birmingham,Android,Organic
+181247,2025-06-28,USA,Seattle,Android,Organic
+848206,2025-02-24,Mexico,Guadalajara,Android,TikTok
+399607,2025-07-25,USA,Los Angeles,Android,TikTok
+345884,2025-09-04,Mexico,Guadalajara,Android,TikTok
+384913,2025-08-09,Brazil,Brasília,iPhone,Instagram
+452161,2025-12-22,UK,Liverpool,Android,TikTok
+435239,2025-09-07,USA,Los Angeles,Android,Instagram
+666390,2025-08-16,USA,Boston,Android,TikTok
+184491,2025-11-02,USA,Atlanta,iPhone,Organic
+245095,2025-02-01,UK,Liverpool,iPhone,Instagram
+258157,2025-11-22,USA,Chicago,Web,Referral
+342495,2025-05-30,UK,Manchester,Android,TikTok
+501641,2025-06-12,Brazil,Belo Horizonte,Android,Organic
+827659,2025-06-26,USA,Miami,Web,Referral
+260227,2025-07-26,Canada,Ottawa,iPhone,Referral
+840734,2025-01-28,UK,Birmingham,iPhone,Referral
+324345,2025-05-25,USA,San Francisco,Web,TikTok
+167348,2025-11-17,UK,Manchester,Android,Instagram
+535020,2025-04-19,USA,Atlanta,iPhone,TikTok
+527398,2025-07-04,Mexico,Puebla,iPhone,TikTok
+446954,2025-03-06,UK,Manchester,iPhone,Google Ads
+668969,2025-09-07,USA,Los Angeles,Android,Organic
+588557,2025-08-01,Mexico,Guadalajara,iPhone,Instagram
+535970,2025-04-03,UK,Glasgow,Android,TikTok
+165290,2025-07-01,Brazil,Salvador,Android,TikTok
+316881,2025-05-02,USA,Atlanta,Android,Instagram
+973349,2025-07-07,Mexico,Monterrey,iPhone,TikTok
+540552,2025-02-27,USA,New York,Android,Instagram
+508396,2025-09-27,Mexico,Cancún,iPhone,Instagram
+907189,2025-11-09,Canada,Montreal,Android,Organic
+712451,2025-12-09,USA,Seattle,Android,Instagram
+829308,2025-01-28,USA,San Francisco,Android,Organic
+120480,2025-09-20,Canada,Ottawa,Android,TikTok
+998348,2025-05-31,Canada,Ottawa,Android,TikTok
+902784,2025-06-05,USA,New York,Android,Instagram
+703655,2025-10-24,Mexico,Tijuana,iPhone,Instagram
+498858,2025-11-16,USA,New York,Android,Organic
+600149,2025-05-23,USA,Seattle,iPhone,TikTok
+106182,2025-01-08,USA,Boston,iPhone,Google Ads
+468845,2025-03-19,Mexico,Tijuana,iPhone,Instagram
+413118,2025-12-25,Mexico,Monterrey,Android,Organic
+890075,2025-06-25,USA,Chicago,Android,Google Ads
+508930,2025-09-11,Canada,Vancouver,Android,Google Ads
+994905,2025-08-14,Mexico,Puebla,Android,Organic
+976325,2025-06-26,Mexico,Guadalajara,iPhone,Instagram
+539375,2025-03-27,USA,Miami,Android,Organic
+664365,2025-09-30,Brazil,Salvador,iPhone,Google Ads
+883826,2025-08-11,USA,Atlanta,Android,Organic
+870319,2025-09-29,USA,Seattle,iPhone,Organic
+672661,2025-07-01,Mexico,Mexico City,iPhone,TikTok
+938722,2025-05-20,Canada,Calgary,Android,Instagram
+732556,2025-10-27,USA,Miami,Android,Organic
+331251,2025-10-29,Brazil,Curitiba,Android,Instagram
+611945,2025-04-03,UK,Leeds,iPhone,Instagram
+330080,2025-01-07,USA,New York,Android,Google Ads
+386193,2025-04-23,Brazil,Belo Horizonte,iPhone,TikTok
+557007,2025-02-17,Mexico,Monterrey,iPhone,Organic
+609232,2025-11-03,USA,Boston,Android,Google Ads
+130434,2025-11-06,Mexico,Cancún,Web,Organic
+507746,2025-02-26,USA,Boston,Android,Organic
+452457,2025-02-08,Mexico,Monterrey,iPhone,Instagram
+801364,2025-12-08,Mexico,Monterrey,Android,Instagram
+812131,2025-05-22,UK,Birmingham,iPhone,Google Ads
+936912,2025-05-13,UK,Liverpool,iPhone,Referral
+523956,2025-04-13,Canada,Montreal,iPhone,Organic
+859359,2025-10-04,Mexico,Guadalajara,Android,Organic
+273061,2025-08-15,UK,Manchester,Android,Organic
+981334,2025-05-09,Mexico,Mexico City,iPhone,Organic
+590094,2025-11-24,UK,London,Web,Organic
+233827,2025-12-25,USA,New York,Android,Organic
+752483,2025-09-09,USA,Atlanta,Android,TikTok
+660069,2025-02-05,Brazil,Salvador,Web,Google Ads
+128276,2025-09-04,Brazil,São Paulo,iPhone,Instagram
+513160,2025-12-16,USA,San Francisco,Web,TikTok
+720644,2025-02-16,USA,New York,Android,Referral
+691807,2025-05-29,USA,Dallas,iPhone,TikTok
+795205,2025-12-05,Mexico,Guadalajara,Android,Referral
+128418,2025-07-03,USA,Atlanta,Web,Instagram
+188025,2025-01-19,Brazil,Curitiba,Android,Organic
+773971,2025-10-04,USA,Boston,iPhone,TikTok
+549433,2025-08-19,Mexico,Puebla,Android,Google Ads
+242291,2025-01-22,Canada,Toronto,iPhone,Organic
+584125,2025-08-23,Brazil,Rio de Janeiro,Android,Instagram
+290556,2025-02-06,Canada,Ottawa,iPhone,Instagram
+152727,2025-11-13,USA,Chicago,Android,Organic
+372793,2025-06-07,USA,Chicago,iPhone,Instagram
+497519,2025-10-30,UK,London,Android,Organic
+443254,2025-11-12,USA,Los Angeles,iPhone,Instagram
+321941,2025-12-14,USA,Houston,iPhone,Google Ads
+576786,2025-03-12,Brazil,São Paulo,Web,Instagram
+442722,2025-06-21,USA,Houston,Android,Instagram
+453894,2025-12-23,USA,Miami,iPhone,TikTok
+898207,2025-01-21,USA,Chicago,Android,Referral
+497542,2025-09-07,USA,Boston,iPhone,Organic
+391773,2025-11-30,USA,New York,iPhone,Organic
+888539,2025-09-01,Mexico,Monterrey,iPhone,Google Ads
+972335,2025-08-19,Mexico,Guadalajara,iPhone,Organic
+542042,2025-04-03,Brazil,Rio de Janeiro,Android,Organic
+364525,2025-06-04,Mexico,Tijuana,Web,Instagram
+975467,2025-09-29,USA,New York,Android,Organic
+185884,2025-10-04,Canada,Ottawa,iPhone,Google Ads
+593152,2025-05-22,Brazil,Salvador,Android,Instagram
+120324,2025-08-31,USA,Los Angeles,Android,Instagram
+885408,2025-11-27,Brazil,Rio de Janeiro,Android,Organic
+665621,2025-08-21,USA,Houston,Android,Organic
+154615,2025-01-15,USA,New York,Web,Organic
+466960,2025-08-16,Brazil,São Paulo,iPhone,Organic
+335113,2025-06-16,Mexico,Monterrey,iPhone,Google Ads
+781725,2025-07-31,USA,Los Angeles,iPhone,Organic
+171951,2025-10-27,UK,Liverpool,Web,Organic
+919182,2025-08-21,Brazil,Salvador,iPhone,Referral
+783414,2025-11-20,USA,Dallas,iPhone,Instagram
+142213,2025-12-21,USA,Miami,iPhone,Organic
+890870,2025-08-23,Brazil,Brasília,iPhone,Google Ads
+132537,2025-03-22,Brazil,Brasília,iPhone,Organic
+359295,2025-10-23,UK,Glasgow,Web,Referral
+309044,2025-09-08,Canada,Vancouver,iPhone,Google Ads
+979995,2025-05-23,UK,Manchester,Android,Google Ads
+121369,2025-06-17,USA,Atlanta,Android,Organic
+751517,2025-03-18,Brazil,Rio de Janeiro,Web,Instagram
+259784,2025-08-29,Canada,Toronto,iPhone,Organic
+350132,2025-09-03,Mexico,Tijuana,iPhone,TikTok
+232352,2025-05-04,UK,Glasgow,Web,TikTok
+596564,2025-04-22,USA,New York,Android,TikTok
+801978,2025-01-09,USA,Miami,iPhone,Referral
+219946,2025-10-20,Brazil,Brasília,iPhone,TikTok
+691364,2025-03-12,Mexico,Mexico City,Web,TikTok
+328552,2025-11-17,UK,Liverpool,iPhone,Google Ads
+587623,2025-07-17,Brazil,Curitiba,iPhone,Instagram
+833442,2025-05-19,UK,Birmingham,Android,Organic
+368690,2025-12-17,Mexico,Tijuana,Android,Google Ads
+904150,2025-12-12,USA,Dallas,Android,Organic
+486814,2025-11-13,USA,New York,iPhone,TikTok
+275939,2025-02-04,USA,Dallas,iPhone,TikTok
+735324,2025-10-04,Brazil,Rio de Janeiro,iPhone,Organic
+736745,2025-12-26,USA,Seattle,Android,Google Ads
+884256,2025-09-15,USA,Houston,iPhone,Google Ads
+853252,2025-08-20,Mexico,Monterrey,iPhone,TikTok
+220096,2025-09-30,Brazil,Belo Horizonte,Web,TikTok
+915573,2025-07-08,Mexico,Tijuana,Web,TikTok
+959099,2025-02-03,UK,Glasgow,Android,Referral
+271720,2025-04-02,USA,Seattle,iPhone,TikTok
+426147,2025-12-23,USA,Los Angeles,iPhone,Organic
+213349,2025-11-18,USA,Chicago,Web,TikTok
+706794,2025-03-09,USA,Atlanta,Web,TikTok
+126925,2025-05-30,Brazil,Salvador,Android,Instagram
+427110,2025-09-24,USA,New York,Web,Organic
+703766,2025-06-17,Mexico,Puebla,Android,Instagram
+810250,2025-08-16,Brazil,Curitiba,Android,Google Ads
+493537,2025-03-29,Brazil,Belo Horizonte,iPhone,Google Ads
+515922,2025-01-25,UK,Manchester,Android,Referral
+849747,2025-03-24,USA,Miami,Android,Organic
+307963,2025-12-29,Mexico,Monterrey,iPhone,Organic
+179688,2025-03-01,Mexico,Cancún,Android,Organic
+720859,2025-07-09,USA,Dallas,Android,TikTok
+824161,2025-06-26,USA,San Francisco,Android,Instagram
+970917,2025-06-04,USA,Seattle,Android,Organic
+757711,2025-03-16,USA,New York,iPhone,TikTok
+354646,2025-10-07,Canada,Montreal,iPhone,Referral
+206851,2025-05-29,Canada,Montreal,Android,Organic
+831059,2025-08-15,Canada,Ottawa,Android,Google Ads
+910004,2025-03-13,USA,Los Angeles,Android,Referral
+416232,2025-04-23,Mexico,Mexico City,iPhone,TikTok
+991597,2025-04-10,Brazil,São Paulo,iPhone,Instagram
+817497,2025-04-11,Mexico,Guadalajara,Android,Google Ads
+729577,2025-02-14,USA,San Francisco,Web,Instagram
+944657,2025-11-06,Canada,Calgary,iPhone,Organic
+226935,2025-03-17,Brazil,São Paulo,Web,TikTok
+934904,2025-05-26,Mexico,Puebla,iPhone,TikTok
+693423,2025-02-14,USA,Miami,Web,Google Ads
+920652,2025-08-15,USA,Seattle,Android,TikTok
+143064,2025-10-28,USA,Atlanta,Android,TikTok
+464069,2025-09-26,Mexico,Guadalajara,iPhone,TikTok
+658623,2025-07-12,Canada,Toronto,Web,Instagram
+549186,2025-03-31,USA,Atlanta,Android,Organic
+793655,2025-04-13,Brazil,Curitiba,Android,Referral
+488571,2025-06-04,USA,Atlanta,iPhone,TikTok
+172306,2025-04-25,UK,Birmingham,Android,Instagram
+630538,2025-11-24,USA,New York,iPhone,Organic
+778998,2025-05-28,UK,Liverpool,iPhone,Instagram
+457806,2025-01-15,Brazil,Salvador,Web,Instagram
+113266,2025-11-03,USA,Miami,Android,Referral
+990844,2025-05-13,Mexico,Tijuana,Android,TikTok
+540463,2025-07-11,Mexico,Puebla,Web,Google Ads
+962276,2025-10-25,Brazil,Belo Horizonte,iPhone,Organic
+614013,2025-07-02,USA,Dallas,Android,Instagram
+210665,2025-07-02,USA,Miami,iPhone,Instagram
+554582,2025-09-21,USA,Miami,Android,Referral
+479781,2025-03-27,USA,Chicago,Android,Instagram
+766459,2025-06-04,Brazil,Brasília,Web,Instagram
+968962,2025-03-15,USA,Dallas,iPhone,Instagram
+582071,2025-07-30,USA,San Francisco,iPhone,Google Ads
+841666,2025-04-24,USA,Chicago,iPhone,Organic
+260422,2025-09-27,UK,Leeds,Android,Google Ads
+556641,2025-02-28,UK,Glasgow,Android,Google Ads
+284692,2025-01-09,Brazil,São Paulo,iPhone,Organic
+869440,2025-08-15,Brazil,Brasília,Android,Organic
+647091,2025-03-30,UK,Leeds,Android,Referral
+782054,2025-03-07,Mexico,Mexico City,Android,Organic
+383201,2025-04-18,UK,Manchester,Android,Organic
+745830,2025-02-27,USA,Los Angeles,iPhone,Google Ads
+947458,2025-02-25,USA,Seattle,Android,Organic
+664315,2025-05-10,USA,San Francisco,Android,TikTok
+912270,2025-03-05,USA,Miami,Android,Google Ads
+606983,2025-12-10,Canada,Vancouver,Android,Organic
+587455,2025-05-23,USA,Los Angeles,iPhone,Google Ads
+556732,2025-11-10,Canada,Montreal,iPhone,Google Ads
+965845,2025-01-08,USA,Boston,iPhone,Google Ads
+866536,2025-10-03,Brazil,Curitiba,iPhone,Organic
+721254,2025-12-29,USA,Los Angeles,Web,Referral
+381433,2025-02-24,Brazil,Curitiba,Android,TikTok
+437960,2025-09-21,USA,Dallas,Web,TikTok
+993085,2025-08-27,USA,Los Angeles,Android,Organic
+357420,2025-05-28,USA,Chicago,Android,TikTok
+971084,2025-07-17,Brazil,São Paulo,iPhone,TikTok
+190872,2025-08-16,USA,Boston,Android,Instagram
+392477,2025-04-07,USA,Atlanta,iPhone,Google Ads
+572700,2025-01-07,UK,Liverpool,Web,TikTok
+355709,2025-09-25,Canada,Calgary,Android,TikTok
+886931,2025-12-22,Mexico,Mexico City,iPhone,TikTok
+587282,2025-03-28,Mexico,Mexico City,Android,Google Ads
+697530,2025-07-26,USA,Houston,iPhone,Instagram
+739979,2025-10-25,USA,Atlanta,Android,Organic
+800646,2025-12-08,Mexico,Cancún,Web,TikTok
+497399,2025-03-17,Mexico,Puebla,Web,TikTok
+452737,2025-04-29,UK,London,iPhone,TikTok
+130094,2025-02-04,Mexico,Guadalajara,iPhone,Instagram
+618317,2025-12-14,Brazil,São Paulo,Web,TikTok
+992288,2025-02-09,USA,Miami,Android,Organic
+440802,2025-04-14,Mexico,Tijuana,Android,Google Ads
+290672,2025-06-25,USA,Seattle,Android,Organic
+611233,2025-01-17,UK,Leeds,Android,Referral
+322423,2025-07-12,Canada,Toronto,iPhone,Organic
+472060,2025-06-05,Brazil,São Paulo,iPhone,TikTok
+936587,2025-07-19,UK,Manchester,Android,Organic
+370902,2025-10-11,Brazil,São Paulo,Android,TikTok
+456871,2025-03-22,Mexico,Tijuana,Android,Instagram
+393243,2025-07-13,Brazil,Salvador,iPhone,Instagram
+725113,2025-02-01,Mexico,Monterrey,Android,Organic
+835244,2025-10-26,USA,New York,iPhone,TikTok
+389688,2025-07-02,USA,Dallas,iPhone,TikTok
+682789,2025-11-28,Brazil,São Paulo,Android,Organic
+110644,2025-06-06,USA,Los Angeles,Web,Organic
+641722,2025-08-24,USA,Chicago,iPhone,Organic
+300337,2025-05-17,Mexico,Puebla,Android,Referral
+189771,2025-07-13,USA,Seattle,Android,Referral
+353080,2025-02-21,Brazil,Brasília,Android,Google Ads
+855053,2025-12-08,Mexico,Guadalajara,iPhone,TikTok
+526170,2025-04-14,USA,Boston,iPhone,Referral
+612311,2025-05-28,Brazil,São Paulo,Web,TikTok
+682144,2025-04-26,USA,Miami,Web,TikTok
+894993,2025-10-31,Mexico,Mexico City,Android,Instagram
+351997,2025-08-07,USA,Los Angeles,Android,TikTok
+824156,2025-06-03,USA,Los Angeles,Android,Organic
+599219,2025-05-09,Brazil,Belo Horizonte,iPhone,TikTok
+777278,2025-01-10,Mexico,Puebla,Android,TikTok
+846420,2025-04-20,Mexico,Tijuana,Web,Instagram
+614663,2025-11-23,Mexico,Cancún,Web,Organic
+569945,2025-10-17,Brazil,Belo Horizonte,Web,Referral
+931450,2025-03-17,Mexico,Mexico City,Android,TikTok
+118080,2025-02-02,USA,Miami,Web,TikTok
+197573,2025-03-24,Mexico,Puebla,iPhone,Organic
+408528,2025-03-18,USA,Boston,iPhone,Organic
+332360,2025-09-06,USA,Houston,Android,Organic
+524045,2025-04-14,Brazil,Salvador,iPhone,Referral
+825391,2025-05-23,USA,Chicago,iPhone,Google Ads
+355123,2025-09-06,Mexico,Guadalajara,Android,Organic
+421080,2025-11-05,UK,London,Web,Organic
+796212,2025-07-06,USA,Los Angeles,Web,TikTok
+709805,2025-03-13,Mexico,Mexico City,iPhone,Google Ads
+486945,2025-09-25,USA,Boston,Android,Referral
+596249,2025-05-09,Mexico,Tijuana,Web,Referral
+680358,2025-06-10,Brazil,São Paulo,iPhone,Organic
+656711,2025-05-01,USA,Boston,Android,Google Ads
+460455,2025-05-21,Canada,Vancouver,iPhone,Organic
+546173,2025-10-01,Brazil,Brasília,Web,Organic
+882169,2025-12-16,USA,Los Angeles,iPhone,TikTok
+677124,2025-07-05,USA,Miami,Web,Referral
+446859,2025-11-07,Brazil,Brasília,Web,Organic
+468900,2025-05-03,USA,New York,Android,Google Ads
+836996,2025-07-05,USA,Atlanta,iPhone,Referral
+575786,2025-08-15,Canada,Edmonton,iPhone,Google Ads
+384076,2025-06-04,Brazil,Salvador,Web,Referral
+421517,2025-03-24,USA,Houston,iPhone,Google Ads
+363615,2025-11-26,Canada,Edmonton,iPhone,Google Ads
+341736,2025-09-09,Brazil,São Paulo,iPhone,Organic
+226516,2025-08-05,Brazil,Salvador,Web,Organic
+856321,2025-09-17,UK,London,Web,Instagram
+301939,2025-06-17,USA,Atlanta,Android,Google Ads
+430876,2025-04-05,Brazil,São Paulo,Android,Instagram
+225362,2025-11-18,Mexico,Cancún,iPhone,TikTok
+878967,2025-09-22,USA,Boston,iPhone,Organic
+661894,2025-12-18,Mexico,Cancún,Android,Google Ads
+899213,2025-03-10,Brazil,Brasília,Android,Google Ads
+823688,2025-04-12,USA,Boston,Web,Google Ads
+294143,2025-10-20,USA,Dallas,iPhone,Google Ads
+300845,2025-11-17,USA,New York,Web,Instagram
+326895,2025-12-26,USA,Los Angeles,Web,Organic
+874483,2025-05-14,UK,London,iPhone,TikTok
+607719,2025-01-08,USA,Dallas,iPhone,Instagram
+389930,2025-12-11,Mexico,Puebla,Android,Referral
+859782,2025-05-17,Brazil,Rio de Janeiro,Android,Organic
+718226,2025-04-16,USA,Seattle,iPhone,TikTok
+897135,2025-04-03,Mexico,Monterrey,Android,Organic
+650121,2025-05-01,Brazil,Rio de Janeiro,iPhone,Referral
+725780,2025-08-23,Mexico,Guadalajara,iPhone,Instagram
+396745,2025-12-21,USA,Seattle,iPhone,Organic
+205409,2025-11-02,Brazil,Rio de Janeiro,Android,Instagram
+973074,2025-05-01,USA,Los Angeles,Android,Organic
+303547,2025-11-03,Brazil,Brasília,Web,Referral
+410636,2025-07-15,Mexico,Mexico City,iPhone,TikTok
+338533,2025-10-14,USA,Atlanta,Android,Organic
+478411,2025-06-23,USA,Chicago,iPhone,TikTok
+288158,2025-08-10,UK,Manchester,iPhone,Instagram
+416950,2025-09-13,USA,Los Angeles,iPhone,Referral
+114835,2025-05-25,UK,Birmingham,Android,Referral
+842411,2025-05-16,Canada,Montreal,Android,Google Ads
+660081,2025-09-09,Brazil,Salvador,Web,Organic
+232731,2025-11-22,UK,Manchester,Android,Referral
+387636,2025-04-04,UK,London,iPhone,Organic
+147726,2025-03-01,USA,Miami,iPhone,TikTok
+157174,2025-12-30,Canada,Calgary,iPhone,TikTok
+680238,2025-03-17,Brazil,Salvador,Android,Google Ads
+406327,2025-03-28,USA,Los Angeles,iPhone,Organic
+831295,2025-04-19,Mexico,Monterrey,Android,Instagram
+232413,2025-08-02,Mexico,Mexico City,Android,Instagram
+768854,2025-06-18,Canada,Vancouver,Android,Instagram
+889359,2025-02-24,USA,Los Angeles,iPhone,Instagram
+614723,2025-12-29,UK,Manchester,iPhone,TikTok
+207570,2025-12-03,Mexico,Puebla,Android,Organic
+112861,2025-06-16,USA,New York,Android,Referral
+701949,2025-03-08,Canada,Edmonton,Web,Google Ads
+398151,2025-01-29,USA,New York,Android,Organic
+592198,2025-07-24,Mexico,Tijuana,Web,TikTok
+601968,2025-02-15,USA,Houston,Web,Google Ads
+561865,2025-05-26,USA,Houston,iPhone,Google Ads
+457256,2025-08-10,Mexico,Cancún,iPhone,Organic
+293319,2025-07-03,Mexico,Monterrey,Web,Instagram
+153872,2025-07-18,Mexico,Monterrey,Android,TikTok
+364742,2025-08-05,Brazil,Belo Horizonte,Android,Organic
+600935,2025-02-17,UK,Leeds,iPhone,Instagram
+219629,2025-11-28,USA,Dallas,Web,Instagram
+962050,2025-11-28,Mexico,Guadalajara,Web,TikTok
+168517,2025-09-02,Brazil,Brasília,Android,Organic
+520172,2025-05-08,USA,Chicago,Android,Organic
+615633,2025-01-24,Brazil,Brasília,Android,TikTok
+177680,2025-12-05,Brazil,Belo Horizonte,iPhone,Organic
+705050,2025-09-15,Mexico,Monterrey,iPhone,Instagram
+760021,2025-07-21,USA,Seattle,iPhone,Organic
+819796,2025-10-28,USA,Atlanta,Web,Organic
+156213,2025-06-24,Mexico,Cancún,Android,Google Ads
+259097,2025-11-06,Canada,Vancouver,iPhone,Organic
+256445,2025-07-22,USA,Los Angeles,Android,Organic
+950544,2025-07-27,USA,Chicago,Android,TikTok
+690180,2025-11-13,UK,Glasgow,Android,TikTok
+418594,2025-12-20,UK,Leeds,iPhone,Instagram
+189318,2025-04-08,Mexico,Monterrey,iPhone,Organic
+360247,2025-01-14,USA,New York,Android,Organic
+224205,2025-11-17,USA,Chicago,Android,TikTok
+685181,2025-08-26,UK,Leeds,iPhone,Organic
+901577,2025-03-20,USA,Atlanta,iPhone,Organic
+536390,2025-08-19,Mexico,Puebla,Web,TikTok
+735770,2025-07-20,Mexico,Guadalajara,iPhone,Google Ads
+725084,2025-08-10,USA,New York,iPhone,Google Ads
+929151,2025-10-11,Canada,Calgary,Android,Instagram
+748458,2025-10-30,Canada,Toronto,Android,TikTok
+336650,2025-04-29,Mexico,Cancún,Web,Google Ads
+913373,2025-10-11,Mexico,Tijuana,iPhone,Instagram
+647957,2025-11-15,USA,Atlanta,Web,Organic
+498855,2025-03-24,Canada,Montreal,Android,TikTok
+572398,2025-09-17,USA,Houston,Android,TikTok
+564226,2025-12-03,USA,Dallas,Web,Google Ads
+411797,2025-08-02,Brazil,Brasília,Android,TikTok
+717113,2025-08-30,UK,Glasgow,Android,TikTok
+549660,2025-02-14,UK,Manchester,Android,Organic
+420214,2025-09-09,Mexico,Guadalajara,iPhone,Organic
+696251,2025-05-01,USA,Atlanta,Web,TikTok
+751194,2025-05-14,USA,New York,Web,TikTok
+163156,2025-09-15,USA,Chicago,iPhone,Google Ads
+739244,2025-04-27,USA,Los Angeles,iPhone,Organic
+876039,2025-07-01,USA,Houston,Android,Referral
+204053,2025-12-20,UK,Leeds,iPhone,Organic
+899787,2025-08-13,UK,Leeds,Android,Instagram
+317881,2025-11-09,UK,London,Web,Google Ads
+755900,2025-02-23,UK,London,Web,Organic
+321275,2025-03-22,USA,Los Angeles,Web,Referral
+377501,2025-02-20,Mexico,Cancún,Android,TikTok
+792509,2025-04-14,USA,Dallas,iPhone,Organic
+185131,2025-08-31,Brazil,Salvador,Android,Organic
+264686,2025-08-01,USA,San Francisco,iPhone,Organic
+351516,2025-08-04,USA,Houston,iPhone,Google Ads
+282256,2025-07-29,UK,Manchester,Android,TikTok
+678805,2025-01-16,UK,Leeds,Android,TikTok
+178711,2025-02-05,Brazil,São Paulo,Android,TikTok
+264136,2025-08-11,USA,Dallas,iPhone,Google Ads
+102805,2025-10-22,USA,New York,Android,Instagram
+528361,2025-12-15,USA,San Francisco,Web,TikTok
+572387,2025-06-26,Mexico,Monterrey,Android,Organic
+822858,2025-03-17,USA,Miami,Web,Instagram
+722656,2025-11-16,Mexico,Puebla,Android,Google Ads
+592738,2025-11-29,UK,Glasgow,Android,TikTok
+405407,2025-10-03,Brazil,Rio de Janeiro,Web,Organic
+134225,2025-04-20,USA,Chicago,Android,TikTok
+342720,2025-11-22,USA,San Francisco,iPhone,TikTok
+402099,2025-05-13,USA,New York,Web,TikTok
+841296,2025-02-26,USA,Miami,Android,Referral
+396451,2025-03-05,Mexico,Monterrey,iPhone,TikTok
+837135,2025-01-03,USA,Los Angeles,Android,Instagram
+576086,2025-10-17,Brazil,Rio de Janeiro,Android,Referral
+174637,2025-04-30,Mexico,Cancún,Android,Google Ads
+820775,2025-10-21,USA,Miami,Android,Google Ads
+344762,2025-02-23,Mexico,Cancún,iPhone,Instagram
+377405,2025-08-21,USA,Boston,iPhone,Google Ads
+926097,2025-02-01,USA,Atlanta,Web,Organic
+929683,2025-07-09,Brazil,Rio de Janeiro,Android,TikTok
+755420,2025-07-22,Mexico,Puebla,Android,TikTok
+718439,2025-08-14,UK,Leeds,Android,TikTok
+793300,2025-03-25,Mexico,Puebla,Android,TikTok
+942956,2025-12-27,USA,Chicago,Android,TikTok
+307428,2025-08-31,Brazil,Belo Horizonte,iPhone,Organic
+545790,2025-03-02,USA,Chicago,Web,TikTok
+220351,2025-05-29,Mexico,Puebla,iPhone,TikTok
+671015,2025-07-11,USA,Chicago,iPhone,Organic
+335729,2025-10-29,USA,Seattle,iPhone,Organic
+779094,2025-09-08,Brazil,Brasília,Web,Organic
+256226,2025-08-02,USA,San Francisco,iPhone,Google Ads
+378535,2025-07-13,Brazil,Brasília,Android,Referral
+966785,2025-03-12,Brazil,Curitiba,Web,Organic
+249145,2025-03-18,Brazil,Salvador,Android,Instagram
+174878,2025-11-16,UK,Birmingham,iPhone,Instagram
+162535,2025-01-24,Brazil,Rio de Janeiro,Web,Organic
+273982,2025-03-26,Canada,Calgary,Android,Instagram
+931131,2025-06-08,Mexico,Tijuana,Android,Google Ads
+422554,2025-11-13,Brazil,São Paulo,Android,Organic
+723948,2025-09-01,Brazil,São Paulo,Web,TikTok
+885339,2025-04-03,Brazil,São Paulo,iPhone,Referral
+964278,2025-12-28,Canada,Montreal,Android,Organic
+696856,2025-11-07,UK,Leeds,Android,Google Ads
+402630,2025-01-12,USA,Boston,iPhone,Google Ads
+560485,2025-06-12,USA,Chicago,iPhone,Google Ads
+230394,2025-03-28,Brazil,São Paulo,iPhone,Organic
+591465,2025-06-07,USA,Chicago,iPhone,Organic
+822131,2025-06-16,Canada,Edmonton,iPhone,Instagram
+418862,2025-03-14,USA,New York,iPhone,Organic
+833723,2025-03-03,Brazil,Brasília,iPhone,Referral
+522060,2025-09-10,USA,Houston,Android,Instagram
+385470,2025-02-01,Brazil,Belo Horizonte,iPhone,Organic
+624783,2025-07-28,USA,San Francisco,iPhone,TikTok
+666211,2025-12-12,Mexico,Mexico City,iPhone,Referral
+617781,2025-10-18,USA,San Francisco,Android,Organic
+559023,2025-03-14,Brazil,São Paulo,Web,TikTok
+184349,2025-08-05,USA,Chicago,Android,TikTok
+727086,2025-08-26,Canada,Ottawa,Android,Organic
+141797,2025-01-01,Canada,Ottawa,iPhone,Referral
+553014,2025-12-15,USA,Seattle,iPhone,Organic
+870214,2025-09-19,Brazil,Brasília,Web,Organic
+437978,2025-06-03,USA,Chicago,Android,Instagram
+733039,2025-05-24,USA,Los Angeles,Web,Instagram
+362529,2025-06-12,UK,Manchester,Android,Referral
+127121,2025-12-29,UK,Birmingham,Android,Referral
+195763,2025-04-18,Brazil,Rio de Janeiro,Android,Organic
+340044,2025-03-10,Brazil,Belo Horizonte,iPhone,Referral
+807053,2025-01-05,Mexico,Mexico City,Android,Organic
+976566,2025-09-08,Mexico,Puebla,Android,Instagram
+703139,2025-11-30,UK,Leeds,iPhone,Google Ads
+715643,2025-08-16,USA,New York,Web,Google Ads
+121753,2025-11-04,Mexico,Monterrey,Web,TikTok
+901909,2025-01-05,USA,Chicago,Web,Google Ads
+804938,2025-04-24,USA,Dallas,Web,TikTok
+961322,2025-04-09,Mexico,Monterrey,Android,Instagram
+382602,2025-04-24,USA,Boston,Android,Google Ads
+704238,2025-09-10,USA,Seattle,Web,Organic
+142185,2025-11-23,Canada,Edmonton,Android,Organic
+900177,2025-10-10,Brazil,Brasília,Android,TikTok
+893005,2025-03-31,USA,Boston,Android,Instagram
+283700,2025-10-19,USA,Chicago,Android,Organic
+593355,2025-12-14,UK,Leeds,Android,Organic
+644173,2025-08-21,USA,San Francisco,Android,Instagram
+783157,2025-01-27,USA,Atlanta,Android,Referral
+563711,2025-05-21,UK,Birmingham,Android,Referral
+391668,2025-01-23,USA,San Francisco,Android,TikTok
+290305,2025-09-30,UK,Manchester,iPhone,Referral
+713762,2025-10-20,Brazil,São Paulo,iPhone,Organic
+557058,2025-02-08,UK,Glasgow,iPhone,Instagram
+765620,2025-11-17,Canada,Vancouver,iPhone,Organic
+953797,2025-10-31,Mexico,Mexico City,Android,Google Ads
+615611,2025-08-31,UK,Birmingham,Web,Organic
+195674,2025-09-24,USA,Dallas,Web,Google Ads
+592841,2025-02-18,UK,London,Android,Instagram
+464863,2025-01-18,Mexico,Tijuana,iPhone,Referral
+528184,2025-08-15,USA,Los Angeles,Android,Organic
+449499,2025-12-13,USA,Boston,Android,Organic
+436653,2025-02-19,USA,New York,iPhone,TikTok
+802685,2025-12-04,Mexico,Puebla,iPhone,Instagram
+209680,2025-11-14,Mexico,Puebla,iPhone,Google Ads
+999398,2025-01-14,Mexico,Monterrey,Android,Instagram
+268637,2025-01-07,Brazil,Brasília,Android,Organic
+445824,2025-10-21,Mexico,Mexico City,Android,Google Ads
+531641,2025-11-14,USA,San Francisco,iPhone,TikTok
+827369,2025-03-07,Brazil,Rio de Janeiro,iPhone,Organic
+619536,2025-07-03,USA,Atlanta,Android,Instagram
+402218,2025-06-08,USA,San Francisco,Android,Organic
+794769,2025-10-28,Mexico,Monterrey,iPhone,Organic
+519904,2025-10-14,Mexico,Guadalajara,iPhone,TikTok
+953085,2025-11-24,UK,Liverpool,iPhone,Referral
+897441,2025-12-22,Canada,Toronto,iPhone,Instagram
+676818,2025-10-24,Mexico,Puebla,Android,Organic
+138479,2025-03-25,Brazil,Brasília,Android,TikTok
+576919,2025-11-24,USA,New York,Android,Referral
+192337,2025-09-04,USA,Houston,Android,Organic
+429795,2025-07-24,Mexico,Monterrey,Android,TikTok
+364659,2025-01-16,USA,New York,iPhone,Organic
+438977,2025-10-27,Brazil,Rio de Janeiro,iPhone,Organic
+221552,2025-04-12,Canada,Montreal,iPhone,Organic
+910075,2025-06-23,USA,Houston,Web,Instagram
+523808,2025-05-15,UK,Manchester,iPhone,Organic
+639593,2025-12-02,Canada,Toronto,Web,Organic
+964998,2025-08-22,UK,London,iPhone,Organic
+101206,2025-11-16,USA,Dallas,Android,Referral
+789606,2025-03-08,UK,Glasgow,iPhone,Organic
+668950,2025-06-12,UK,Manchester,Android,Instagram
+584417,2025-11-12,Mexico,Cancún,iPhone,Organic
+533321,2025-05-07,Mexico,Tijuana,iPhone,Organic
+156837,2025-10-27,USA,Miami,Web,Google Ads
+296694,2025-12-06,UK,Manchester,Android,Google Ads
+643623,2025-11-27,Mexico,Guadalajara,Android,Google Ads
+479353,2025-06-14,Mexico,Monterrey,Android,TikTok
+752878,2025-09-11,Mexico,Tijuana,Android,Instagram
+893188,2025-10-26,Brazil,Belo Horizonte,iPhone,Referral
+622707,2025-05-01,Mexico,Guadalajara,iPhone,Organic
+755788,2025-03-22,Brazil,Brasília,iPhone,TikTok
+563513,2025-02-13,Canada,Montreal,iPhone,Organic
+896907,2025-08-27,USA,San Francisco,iPhone,Instagram
+154118,2025-07-29,Brazil,Brasília,iPhone,TikTok
+313446,2025-04-02,USA,Seattle,iPhone,TikTok
+380028,2025-02-12,Brazil,Brasília,Android,TikTok
+675898,2025-05-22,USA,San Francisco,Android,Instagram
+237377,2025-10-07,Canada,Toronto,iPhone,TikTok
+402020,2025-12-16,USA,Houston,Android,Organic
+559398,2025-10-06,UK,Manchester,Android,Referral
+832168,2025-06-27,Canada,Toronto,Android,Organic
+608257,2025-12-02,UK,Liverpool,Web,Google Ads
+227324,2025-07-23,USA,San Francisco,Web,Referral
+130271,2025-10-10,USA,Houston,Android,TikTok
+760626,2025-02-13,Mexico,Cancún,Android,TikTok
+738448,2025-08-02,USA,Houston,iPhone,Referral
+938141,2025-03-13,USA,Seattle,Web,Organic
+350921,2025-09-13,Brazil,Rio de Janeiro,iPhone,Instagram
+844261,2025-12-18,UK,Birmingham,iPhone,TikTok
+266071,2025-01-12,Mexico,Cancún,Android,Organic
+425845,2025-06-19,Brazil,São Paulo,Web,Organic
+677596,2025-07-20,Brazil,Belo Horizonte,Web,Instagram
+114338,2025-07-17,Canada,Vancouver,Web,Organic
+679077,2025-11-24,USA,Los Angeles,iPhone,Referral
+527809,2025-04-01,UK,London,iPhone,Instagram
+197736,2025-02-05,USA,Boston,Android,Organic
+335615,2025-12-04,Canada,Calgary,iPhone,Organic
+982277,2025-03-29,Brazil,Salvador,iPhone,TikTok
+218972,2025-03-08,USA,Atlanta,iPhone,Referral
+583863,2025-04-16,Brazil,Salvador,Android,TikTok
+223172,2025-12-07,USA,Houston,iPhone,Google Ads
+779172,2025-04-14,Brazil,Belo Horizonte,Android,Organic
+972565,2025-03-15,Brazil,Curitiba,Android,Organic
+261450,2025-06-18,Brazil,Salvador,Android,Organic
+622584,2025-02-16,Canada,Calgary,Android,Instagram
+851413,2025-06-02,USA,Seattle,iPhone,Google Ads
+406039,2025-11-13,Brazil,Rio de Janeiro,iPhone,Organic
+633590,2025-12-24,Mexico,Puebla,iPhone,Instagram
+839677,2025-03-22,Brazil,Salvador,Android,Organic
+386706,2025-12-24,USA,San Francisco,iPhone,Referral
+535673,2025-10-11,Mexico,Guadalajara,Web,TikTok
+975271,2025-06-16,USA,Dallas,iPhone,Organic
+605937,2025-08-25,Brazil,Rio de Janeiro,iPhone,TikTok
+595158,2025-04-10,USA,Seattle,iPhone,Google Ads
+355570,2025-03-11,Brazil,São Paulo,iPhone,Instagram
+578975,2025-10-08,USA,Seattle,Android,Organic
+678043,2025-05-23,Mexico,Cancún,Web,Organic
+251668,2025-04-01,UK,Manchester,Web,Instagram
+502219,2025-12-10,USA,San Francisco,Android,Organic
+299869,2025-04-02,UK,Glasgow,iPhone,TikTok
+728492,2025-08-15,USA,New York,Web,TikTok
+632929,2025-12-04,Mexico,Cancún,Android,Instagram
+882544,2025-11-03,UK,Liverpool,Android,TikTok
+243139,2025-07-11,USA,Atlanta,Android,Referral
+173201,2025-01-08,Canada,Vancouver,iPhone,TikTok
+389666,2025-02-19,USA,Houston,Android,Organic
+910208,2025-08-01,UK,Glasgow,iPhone,Organic
+928381,2025-11-16,Brazil,Brasília,iPhone,Instagram
+995916,2025-04-29,USA,San Francisco,iPhone,TikTok
+535098,2025-12-01,USA,Dallas,iPhone,Organic
+456385,2025-12-03,USA,Atlanta,iPhone,Organic
+925981,2025-04-22,UK,Glasgow,Android,Organic
+632401,2025-12-31,Brazil,Belo Horizonte,Android,Referral
+380150,2025-11-04,Brazil,Belo Horizonte,iPhone,Referral
+960408,2025-12-22,USA,Atlanta,Android,Referral
+102689,2025-06-12,USA,Chicago,Android,Google Ads
+396578,2025-11-08,Canada,Edmonton,Android,Organic
+861319,2025-04-30,Canada,Calgary,iPhone,Instagram
+413058,2025-11-12,Brazil,Curitiba,Web,Organic
+978157,2025-05-05,Mexico,Mexico City,iPhone,Instagram
+715448,2025-04-14,Mexico,Mexico City,iPhone,TikTok
+708093,2025-11-03,USA,Houston,Android,Organic
+791998,2025-05-23,Canada,Calgary,Android,Organic
+613425,2025-11-28,USA,New York,Android,Referral
+255813,2025-06-25,UK,London,iPhone,Instagram
+568238,2025-05-08,USA,San Francisco,iPhone,Referral
+664742,2025-07-15,UK,Glasgow,Android,Instagram
+607868,2025-09-09,Brazil,Rio de Janeiro,Android,Organic
+461888,2025-04-15,USA,Houston,iPhone,Referral
+448588,2025-04-15,USA,Chicago,Android,Google Ads
+678727,2025-03-26,USA,Los Angeles,iPhone,TikTok
+899929,2025-06-05,Mexico,Guadalajara,iPhone,Instagram
+669827,2025-09-04,USA,Seattle,Web,Organic
+495533,2025-08-14,USA,Dallas,iPhone,Organic
+577463,2025-09-04,Brazil,Belo Horizonte,Android,Google Ads
+437408,2025-06-03,USA,Atlanta,iPhone,Organic
+297816,2025-07-14,Mexico,Guadalajara,Android,Organic
+831380,2025-09-04,Brazil,Salvador,iPhone,Instagram
+350405,2025-04-08,USA,Chicago,Android,Organic
+699573,2025-07-27,USA,San Francisco,Android,TikTok
+501574,2025-09-08,Canada,Calgary,Web,TikTok
+344907,2025-03-05,USA,Boston,iPhone,Google Ads
+997594,2025-05-11,Brazil,Belo Horizonte,iPhone,Google Ads
+913217,2025-11-22,UK,Glasgow,iPhone,Instagram
+530728,2025-08-06,Mexico,Cancún,iPhone,TikTok
+145767,2025-07-05,Mexico,Guadalajara,Android,Referral
+433632,2025-03-17,Mexico,Cancún,iPhone,Instagram
+880879,2025-05-07,USA,Seattle,Web,Organic
+595951,2025-02-17,Mexico,Cancún,Web,Organic
+839485,2025-02-11,Mexico,Puebla,iPhone,Instagram
+950823,2025-08-07,Brazil,Rio de Janeiro,Web,Organic
+499749,2025-07-15,USA,Miami,Android,TikTok
+504832,2025-02-15,Mexico,Cancún,iPhone,Google Ads
+795928,2025-03-15,USA,Boston,Android,TikTok
+930884,2025-06-07,USA,Houston,Web,TikTok
+960616,2025-02-05,USA,Chicago,Android,Organic
+783691,2025-08-09,UK,Liverpool,Android,Instagram
+259493,2025-09-07,USA,Dallas,iPhone,Organic
+619389,2025-04-06,USA,Los Angeles,Android,Google Ads
+138817,2025-07-29,USA,Chicago,Android,Organic
+232378,2025-02-10,Brazil,Belo Horizonte,iPhone,Instagram
+626690,2025-01-16,USA,Atlanta,iPhone,Organic
+718849,2025-01-05,Mexico,Puebla,Android,Google Ads
+448121,2025-01-22,USA,New York,Android,Google Ads
+205239,2025-09-24,USA,San Francisco,Android,TikTok
+986088,2025-06-22,Canada,Montreal,Web,TikTok
+561694,2025-06-11,Mexico,Monterrey,iPhone,Google Ads
+204555,2025-01-30,UK,Birmingham,Android,TikTok
+651499,2025-12-24,Canada,Montreal,Android,Organic
+579123,2025-09-29,Brazil,Rio de Janeiro,iPhone,Organic
+116093,2025-12-04,USA,Houston,iPhone,Instagram
+857537,2025-11-23,UK,Leeds,iPhone,Organic
+251157,2025-01-24,Canada,Montreal,iPhone,TikTok
+529893,2025-11-07,Canada,Edmonton,iPhone,TikTok
+786587,2025-08-08,Brazil,Curitiba,Android,Organic
+261859,2025-02-21,Canada,Calgary,Web,Google Ads
+178463,2025-09-24,Mexico,Monterrey,Android,Instagram
+592296,2025-02-14,UK,Glasgow,Android,Organic
+919488,2025-08-17,USA,San Francisco,Web,TikTok
+377896,2025-04-19,Canada,Calgary,Android,Organic
+455007,2025-01-15,USA,Los Angeles,iPhone,Referral
+753534,2025-04-23,USA,Dallas,Web,Google Ads
+826353,2025-03-05,Mexico,Cancún,Android,Google Ads
+516791,2025-12-21,Mexico,Tijuana,Android,TikTok
+781403,2025-11-04,USA,Houston,Web,Google Ads
+184216,2025-07-15,USA,Dallas,iPhone,Instagram
+993140,2025-04-30,Mexico,Tijuana,Web,TikTok
+444525,2025-06-24,USA,Los Angeles,iPhone,Organic
+993744,2025-07-08,Mexico,Guadalajara,Android,Organic
+807115,2025-01-01,USA,Dallas,Web,Instagram
+659543,2025-08-05,USA,Boston,Android,Google Ads
+498468,2025-03-06,USA,Dallas,Android,Referral
+432043,2025-01-05,Brazil,Belo Horizonte,Android,Organic
+757246,2025-06-01,Brazil,Salvador,iPhone,Google Ads
+853629,2025-05-26,UK,Liverpool,Android,Organic
+896290,2025-12-19,USA,New York,Android,Organic
+611650,2025-09-11,USA,Boston,Android,Google Ads
+667296,2025-03-20,USA,Atlanta,iPhone,Google Ads
+137642,2025-04-26,UK,Manchester,Web,Referral
+747453,2025-09-07,Mexico,Mexico City,Web,Google Ads
+171744,2025-03-23,Mexico,Monterrey,Web,Instagram
+346174,2025-08-31,Canada,Ottawa,iPhone,TikTok
+761820,2025-05-25,Canada,Calgary,iPhone,TikTok
+817644,2025-02-19,USA,Houston,Android,TikTok
+401338,2025-12-30,USA,Boston,Web,Organic
+338536,2025-09-05,USA,Chicago,Android,TikTok
+883041,2025-04-11,USA,Chicago,iPhone,Google Ads
+194769,2025-02-22,Mexico,Mexico City,iPhone,Google Ads
+555052,2025-12-14,Mexico,Guadalajara,iPhone,Referral
+203225,2025-04-02,UK,London,iPhone,Referral
+897305,2025-10-31,Canada,Toronto,Web,Instagram
+764532,2025-01-18,Brazil,Rio de Janeiro,Android,TikTok
+838083,2025-03-30,USA,Atlanta,Android,Instagram
+205389,2025-12-10,Mexico,Puebla,Android,Referral
+565230,2025-05-21,Mexico,Puebla,Web,Instagram
+274446,2025-02-12,Mexico,Puebla,iPhone,Organic
+827712,2025-10-21,USA,San Francisco,iPhone,Instagram
+414012,2025-04-03,Brazil,Curitiba,Android,Google Ads
+130353,2025-03-06,Brazil,Curitiba,Android,Organic
+148225,2025-10-03,USA,Los Angeles,Android,Google Ads
+440131,2025-09-29,USA,New York,iPhone,Google Ads
+934816,2025-11-30,Brazil,Belo Horizonte,Web,TikTok
+158845,2025-04-03,USA,Houston,Web,Google Ads
+407618,2025-06-10,UK,Glasgow,iPhone,TikTok
+475876,2025-02-14,USA,Chicago,Android,Instagram
+493049,2025-06-02,Brazil,São Paulo,iPhone,Organic
+551607,2025-12-03,USA,San Francisco,iPhone,Referral
+252640,2025-05-31,USA,Miami,iPhone,Referral
+356059,2025-06-10,Mexico,Puebla,iPhone,TikTok
+656968,2025-12-19,Brazil,Brasília,Android,TikTok
+532067,2025-06-03,USA,New York,iPhone,Organic
+693418,2025-04-21,UK,Manchester,Web,Instagram
+814919,2025-02-08,Mexico,Monterrey,iPhone,Instagram
+931016,2025-07-24,Brazil,Brasília,iPhone,Referral
+288803,2025-03-15,Brazil,Brasília,Android,Referral
+278240,2025-11-21,Brazil,São Paulo,Android,Organic
+283573,2025-11-28,Mexico,Guadalajara,Android,Instagram
+182804,2025-06-11,UK,Leeds,iPhone,Google Ads
+739098,2025-05-07,Canada,Calgary,iPhone,Referral
+501126,2025-07-28,USA,Los Angeles,Android,Instagram
+749813,2025-05-20,USA,Los Angeles,iPhone,Organic
+816318,2025-04-24,USA,Houston,iPhone,Organic
+352528,2025-09-27,USA,Los Angeles,Android,Organic
+621841,2025-02-18,Mexico,Monterrey,Android,Google Ads
+711484,2025-05-19,Brazil,Curitiba,Android,Organic
+250069,2025-07-19,Mexico,Mexico City,iPhone,Referral
+343467,2025-07-26,USA,San Francisco,Android,Google Ads
+583550,2025-03-21,Brazil,Rio de Janeiro,iPhone,Instagram
+768891,2025-01-28,Mexico,Guadalajara,iPhone,Instagram
+366314,2025-05-08,Canada,Edmonton,Web,Instagram
+581894,2025-07-01,Mexico,Puebla,Android,Organic
+367729,2025-09-24,UK,Leeds,iPhone,Referral
+799233,2025-06-06,Canada,Vancouver,iPhone,Google Ads
+109853,2025-02-09,Brazil,Brasília,Web,Instagram
+943718,2025-05-27,Mexico,Mexico City,iPhone,Organic
+587853,2025-08-06,Brazil,Salvador,Android,Organic
+401603,2025-12-17,Mexico,Cancún,iPhone,TikTok
+810526,2025-11-12,Canada,Ottawa,Android,TikTok
+673149,2025-06-26,USA,New York,Android,Instagram
+265649,2025-08-18,USA,San Francisco,Android,Organic
+177449,2025-04-26,Canada,Edmonton,Web,Google Ads
+563187,2025-01-27,USA,Dallas,Web,TikTok
+462351,2025-06-23,Brazil,Salvador,iPhone,Referral
+716113,2025-03-02,Canada,Vancouver,Web,Google Ads
+413685,2025-11-20,USA,Seattle,iPhone,Organic
+769975,2025-11-26,Brazil,Rio de Janeiro,Web,Referral
+544920,2025-09-07,Brazil,São Paulo,Web,Google Ads
+823846,2025-07-01,USA,New York,Android,Organic
+362246,2025-07-01,USA,Dallas,Web,Organic
+579027,2025-09-21,USA,Atlanta,Android,Organic
+986365,2025-03-21,UK,Liverpool,iPhone,TikTok
+416797,2025-06-03,UK,Birmingham,iPhone,TikTok
+308894,2025-08-13,USA,Chicago,Android,Organic
+503380,2025-08-11,Mexico,Puebla,iPhone,TikTok
+994787,2025-03-10,USA,Houston,iPhone,Organic
+606680,2025-12-08,Brazil,Curitiba,iPhone,Organic
+211834,2025-03-02,USA,Seattle,Web,Referral
+348728,2025-03-07,Brazil,Belo Horizonte,Android,Instagram
+499889,2025-07-19,USA,Atlanta,Android,Referral
+699704,2025-06-26,USA,Los Angeles,Android,Organic
+476395,2025-06-25,Brazil,Curitiba,iPhone,Instagram
+702733,2025-05-29,Brazil,Belo Horizonte,Android,TikTok
+410244,2025-03-20,USA,Los Angeles,Android,Organic
+833247,2025-05-15,Mexico,Guadalajara,iPhone,Google Ads
+409571,2025-08-31,Canada,Vancouver,Android,TikTok
+123005,2025-04-03,Mexico,Mexico City,Android,TikTok
+970357,2025-03-03,USA,Boston,Android,Organic
+790203,2025-03-16,USA,New York,iPhone,Organic
+515032,2025-07-14,Brazil,Belo Horizonte,iPhone,Google Ads
+387813,2025-04-24,Brazil,Brasília,Android,Referral
+108491,2025-01-27,USA,Seattle,iPhone,TikTok
+693419,2025-12-31,USA,Miami,iPhone,Referral
+819112,2025-01-01,Brazil,Brasília,Web,Organic
+916118,2025-11-07,USA,Dallas,iPhone,TikTok
+880841,2025-06-21,USA,Chicago,iPhone,TikTok
+151426,2025-03-08,USA,Los Angeles,Android,Instagram
+735863,2025-11-06,USA,Dallas,Android,Instagram
+881369,2025-02-24,USA,Miami,iPhone,TikTok
+620856,2025-12-02,USA,Boston,iPhone,Instagram
+973294,2025-02-08,UK,Manchester,Android,Referral
+400096,2025-04-14,Canada,Ottawa,iPhone,Instagram
+913423,2025-10-09,Brazil,Rio de Janeiro,iPhone,Organic
+937665,2025-08-18,Mexico,Tijuana,Web,Google Ads
+341296,2025-08-03,Mexico,Mexico City,Web,Organic
+736553,2025-05-21,Brazil,Belo Horizonte,Android,Organic
+940886,2025-02-01,Mexico,Guadalajara,iPhone,Referral
+469435,2025-09-11,UK,Glasgow,iPhone,Google Ads
+329642,2025-09-18,Mexico,Tijuana,Web,Organic
+767542,2025-04-05,Brazil,Salvador,iPhone,Organic
+299367,2025-09-20,USA,Boston,iPhone,Instagram
+751051,2025-04-23,Brazil,Curitiba,Android,Organic
+362801,2025-01-24,USA,Miami,Android,Organic
+810687,2025-05-23,Brazil,Brasília,iPhone,Organic
+892280,2025-05-08,Canada,Montreal,Web,Organic
+855948,2025-06-27,Canada,Vancouver,Android,Organic
+904751,2025-10-09,Mexico,Monterrey,iPhone,Referral
+791201,2025-06-16,USA,Chicago,iPhone,Instagram
+813928,2025-04-23,Canada,Edmonton,Android,Google Ads
+979060,2025-10-03,Mexico,Monterrey,iPhone,Referral
+243423,2025-07-15,Mexico,Tijuana,iPhone,Google Ads
+758765,2025-10-10,Canada,Montreal,Web,Instagram
+201883,2025-10-25,USA,Seattle,iPhone,Organic
+757937,2025-08-11,Mexico,Puebla,iPhone,Organic
+777737,2025-04-05,USA,Seattle,iPhone,Organic
+141337,2025-04-03,UK,Manchester,iPhone,TikTok
+423939,2025-07-21,Mexico,Mexico City,iPhone,Google Ads
+926918,2025-05-06,Mexico,Guadalajara,iPhone,Organic
+562236,2025-09-27,Brazil,Curitiba,Web,Organic
+134985,2025-01-11,USA,New York,Android,TikTok
+707727,2025-01-23,USA,New York,Android,Instagram
+482584,2025-11-04,USA,Los Angeles,iPhone,Referral
+867934,2025-06-23,USA,New York,Web,Organic
+237795,2025-10-16,UK,London,iPhone,TikTok
+194511,2025-05-05,UK,Manchester,iPhone,TikTok
+409445,2025-01-23,USA,Miami,Android,Organic
+442589,2025-08-01,USA,Miami,iPhone,Google Ads
+883790,2025-03-17,USA,Houston,iPhone,TikTok
+535686,2025-07-16,USA,Miami,iPhone,Google Ads
+284171,2025-03-28,Mexico,Cancún,Web,Organic
+310548,2025-07-02,Canada,Vancouver,iPhone,Referral
+238579,2025-02-13,USA,Dallas,iPhone,Referral
+924718,2025-06-21,UK,Leeds,iPhone,TikTok
+665610,2025-12-18,Mexico,Cancún,iPhone,Google Ads
+483629,2025-09-13,USA,Miami,iPhone,Organic
+656639,2025-02-09,Mexico,Monterrey,Android,Instagram
+626169,2025-03-17,UK,Manchester,Android,Organic
+385765,2025-02-04,Brazil,Curitiba,Android,Referral
+970813,2025-02-16,USA,Atlanta,Web,Organic
+272537,2025-06-13,USA,Chicago,iPhone,TikTok
+369452,2025-11-22,Brazil,Salvador,Android,TikTok
+964749,2025-10-03,USA,Houston,iPhone,TikTok
+605254,2025-02-12,Brazil,Belo Horizonte,Android,Organic
+945664,2025-04-23,Mexico,Puebla,Android,Google Ads
+409478,2025-01-09,Mexico,Guadalajara,iPhone,Organic
+882824,2025-01-31,USA,Seattle,Web,Referral
+455168,2025-03-13,Canada,Montreal,Web,Google Ads
+943298,2025-08-04,USA,Chicago,Web,TikTok
+220764,2025-12-23,USA,Houston,iPhone,Organic
+591081,2025-08-06,Mexico,Puebla,Android,Instagram
+178957,2025-11-01,USA,Los Angeles,Android,Organic
+247594,2025-05-06,UK,London,iPhone,Organic
+890785,2025-04-04,USA,Boston,Web,TikTok
+336574,2025-06-03,Brazil,Rio de Janeiro,Android,Instagram
+809176,2025-12-22,Brazil,Curitiba,iPhone,Google Ads
+859396,2025-01-17,USA,Los Angeles,iPhone,Google Ads
+807166,2025-08-05,Mexico,Guadalajara,Android,Organic
+516716,2025-10-20,Mexico,Puebla,Android,Google Ads
+986827,2025-05-20,Brazil,Curitiba,iPhone,Referral
+943671,2025-04-19,Canada,Ottawa,iPhone,Referral
+684384,2025-10-14,Brazil,São Paulo,iPhone,Organic
+483542,2025-06-10,Mexico,Mexico City,Android,TikTok
+194689,2025-07-10,Mexico,Puebla,Web,Organic
+929090,2025-07-05,Mexico,Guadalajara,iPhone,Organic
+513741,2025-10-05,Mexico,Monterrey,iPhone,Organic
+114594,2025-06-08,USA,Houston,Android,Google Ads
+377304,2025-05-18,USA,Houston,Android,Organic
+662636,2025-09-05,USA,Boston,Android,Instagram
+229592,2025-07-02,USA,Dallas,iPhone,Organic
+576877,2025-07-20,Mexico,Puebla,Android,Organic
+486490,2025-07-28,Mexico,Guadalajara,Android,Organic
+805511,2025-03-18,UK,Leeds,iPhone,Google Ads
+885395,2025-01-20,USA,Atlanta,Android,Google Ads
+805000,2025-11-17,USA,Chicago,Android,Organic
+374896,2025-12-01,USA,Houston,Web,Google Ads
+712955,2025-11-08,USA,Chicago,Web,TikTok
+499534,2025-05-29,Mexico,Monterrey,Android,Organic
+962367,2025-12-16,USA,Atlanta,iPhone,Instagram
+769567,2025-03-20,Brazil,Rio de Janeiro,Web,Instagram
+489518,2025-06-08,Brazil,Salvador,iPhone,Organic
+213609,2025-03-28,Brazil,São Paulo,Android,TikTok
+807617,2025-06-30,Canada,Vancouver,iPhone,Instagram
+345180,2025-08-31,USA,Chicago,Android,TikTok
+594379,2025-03-05,Canada,Calgary,Android,Organic
+126240,2025-07-25,Canada,Calgary,iPhone,Google Ads
+749641,2025-07-07,Brazil,Belo Horizonte,Web,Organic
+688678,2025-12-16,Brazil,Belo Horizonte,Web,TikTok
+443939,2025-12-16,Brazil,Salvador,iPhone,Google Ads
+739717,2025-10-15,USA,New York,Android,Organic
+332120,2025-07-24,USA,Los Angeles,iPhone,Organic
+779112,2025-02-17,UK,Manchester,iPhone,TikTok
+166287,2025-08-27,USA,Seattle,Android,Referral
+766269,2025-07-23,USA,Chicago,Android,Referral
+963874,2025-06-25,UK,Manchester,iPhone,Organic
+586819,2025-02-28,Canada,Calgary,iPhone,Google Ads
+835132,2025-03-16,USA,New York,Android,Referral
+416869,2025-07-14,Mexico,Monterrey,Android,Referral
+780776,2025-04-20,USA,Dallas,Android,Referral
+528129,2025-05-19,USA,New York,Web,Instagram
+222343,2025-07-27,USA,Chicago,iPhone,Organic
+246566,2025-12-09,USA,Seattle,Web,TikTok
+147549,2025-08-08,UK,Manchester,Web,Organic
+139019,2025-08-03,USA,Miami,iPhone,TikTok
+419149,2025-12-23,Brazil,Belo Horizonte,Android,Organic
+616554,2025-10-15,Brazil,Curitiba,Android,Google Ads
+221761,2025-10-24,UK,Leeds,iPhone,Instagram
+201913,2025-06-12,Mexico,Monterrey,Android,Google Ads
+346205,2025-06-12,USA,Seattle,Web,TikTok
+663658,2025-08-19,USA,Atlanta,iPhone,Instagram
+242254,2025-10-24,Canada,Vancouver,Android,Instagram
+507524,2025-12-23,USA,Houston,Android,Organic
+575679,2025-04-18,Brazil,Rio de Janeiro,Android,Organic
+489033,2025-07-06,Canada,Edmonton,Android,Organic
+803055,2025-12-25,USA,Miami,Android,Google Ads
+879238,2025-10-05,Brazil,Salvador,iPhone,TikTok
+830316,2025-08-08,Brazil,Brasília,iPhone,Organic
+666432,2025-07-15,USA,San Francisco,Android,TikTok
+539486,2025-02-20,USA,Atlanta,Android,Instagram
+715870,2025-07-30,Canada,Toronto,iPhone,Organic
+878325,2025-08-16,USA,Boston,Web,Organic
+861894,2025-04-19,Brazil,São Paulo,Android,Google Ads
+262029,2025-08-29,USA,Seattle,Android,Organic
+535037,2025-07-31,Canada,Montreal,Web,Referral
+786735,2025-01-04,Canada,Edmonton,Android,Google Ads
+203831,2025-12-04,Canada,Vancouver,Android,Organic
+974190,2025-08-01,USA,Atlanta,Android,Organic
+613117,2025-09-23,USA,New York,iPhone,TikTok
+745558,2025-10-20,UK,Leeds,iPhone,Organic
+527940,2025-11-12,Canada,Vancouver,Android,TikTok
+393328,2025-03-07,Mexico,Mexico City,Android,Instagram
+134305,2025-06-12,Canada,Calgary,Web,Organic
+823811,2025-03-06,Brazil,Salvador,iPhone,Instagram
+488528,2025-11-18,Brazil,Curitiba,Android,TikTok
+327823,2025-02-17,Canada,Ottawa,iPhone,Organic
+564920,2025-03-20,USA,Atlanta,iPhone,Google Ads
+566297,2025-07-15,USA,San Francisco,Web,Organic
+347582,2025-07-03,USA,Chicago,Web,Instagram
+997004,2025-05-06,USA,Houston,iPhone,TikTok
+480303,2025-05-21,Mexico,Puebla,Android,Instagram
+204180,2025-10-24,USA,Chicago,Android,Instagram
+818987,2025-02-24,UK,London,Android,Instagram
+485178,2025-09-11,USA,Miami,Web,Organic
+670913,2025-01-12,UK,Manchester,iPhone,TikTok
+776149,2025-12-18,Brazil,Salvador,Web,Organic
+476096,2025-03-24,Brazil,Brasília,Android,TikTok
+163491,2025-11-20,USA,New York,Web,Instagram
+517479,2025-06-27,Mexico,Mexico City,iPhone,TikTok
+389282,2025-09-25,Brazil,Belo Horizonte,Android,Organic
+299028,2025-01-12,Mexico,Mexico City,iPhone,Organic
+228093,2025-04-22,Brazil,Rio de Janeiro,iPhone,TikTok
+989227,2025-03-06,USA,Chicago,iPhone,Instagram
+964226,2025-12-29,USA,Seattle,iPhone,Organic
+576805,2025-08-12,Brazil,Brasília,Android,Google Ads
+196126,2025-04-12,Brazil,Salvador,Web,Organic
+794963,2025-10-26,Mexico,Cancún,iPhone,TikTok
+322409,2025-09-07,UK,Leeds,iPhone,Google Ads
+772875,2025-06-13,Brazil,Salvador,iPhone,Google Ads
+770556,2025-06-30,Mexico,Tijuana,iPhone,Organic
+726152,2025-09-19,USA,Los Angeles,Android,Google Ads
+122394,2025-11-27,USA,Atlanta,iPhone,Google Ads
+153035,2025-04-03,Canada,Ottawa,iPhone,Organic
+925013,2025-02-07,UK,Liverpool,Android,TikTok
+449709,2025-03-04,USA,Dallas,iPhone,Google Ads
+355400,2025-10-18,USA,New York,Android,Organic
+232040,2025-11-05,UK,Manchester,Android,TikTok
+925206,2025-11-08,USA,Houston,iPhone,Organic
+692002,2025-08-04,Canada,Edmonton,iPhone,Google Ads
+315173,2025-04-11,Mexico,Puebla,iPhone,Organic
+171942,2025-08-04,USA,Seattle,Android,Referral
+970127,2025-07-16,USA,Seattle,iPhone,Organic
+902325,2025-10-22,USA,New York,iPhone,Instagram
+681128,2025-07-26,Canada,Calgary,iPhone,Google Ads
+317220,2025-11-27,USA,San Francisco,Web,Organic
+714867,2025-06-04,USA,Seattle,iPhone,Google Ads
+326441,2025-06-10,USA,Dallas,iPhone,TikTok
+952547,2025-08-21,Brazil,São Paulo,iPhone,Instagram
+344316,2025-07-11,Brazil,Curitiba,Web,Organic
+444519,2025-01-06,Canada,Toronto,iPhone,Organic
+911984,2025-04-26,USA,Dallas,Web,Instagram
+254721,2025-10-03,USA,Houston,Android,Google Ads
+926952,2025-01-23,Canada,Edmonton,Web,Organic
+724932,2025-11-10,USA,Miami,iPhone,Organic
+102973,2025-03-12,UK,Liverpool,iPhone,Organic
+390743,2025-10-27,Mexico,Mexico City,iPhone,Google Ads
+251716,2025-09-25,UK,Liverpool,Android,Instagram
+236306,2025-05-24,Brazil,Belo Horizonte,Android,TikTok
+666456,2025-06-01,USA,Seattle,iPhone,Organic
+362829,2025-12-04,Mexico,Monterrey,Android,Google Ads
+937302,2025-09-11,Mexico,Guadalajara,Android,Organic
+282973,2025-07-17,USA,New York,Android,TikTok
+215266,2025-09-28,USA,Los Angeles,iPhone,Google Ads
+793169,2025-08-21,Brazil,Brasília,Android,Organic
+127032,2025-07-06,Mexico,Tijuana,iPhone,Organic
+238205,2025-07-24,Brazil,Salvador,Web,TikTok
+115582,2025-10-23,USA,Miami,iPhone,Instagram
+475644,2025-02-26,Mexico,Guadalajara,Android,Organic
+928358,2025-12-05,USA,Seattle,iPhone,Organic
+926730,2025-02-13,Brazil,Brasília,iPhone,Referral
+349489,2025-09-18,USA,Houston,iPhone,TikTok
+717457,2025-11-29,USA,Seattle,iPhone,Organic
+439498,2025-04-01,Brazil,Salvador,iPhone,Organic
+116547,2025-02-25,Mexico,Tijuana,Android,TikTok
+282710,2025-02-28,Mexico,Cancún,iPhone,Organic
+378258,2025-09-30,USA,New York,Android,Organic
+154944,2025-07-27,USA,Houston,Web,Instagram
+232915,2025-12-21,Brazil,São Paulo,iPhone,Google Ads
+877747,2025-11-23,USA,Houston,iPhone,Organic
+541409,2025-04-05,USA,Boston,iPhone,Organic
+651640,2025-12-19,Brazil,Curitiba,Android,Instagram
+219169,2025-06-20,USA,Dallas,Android,Organic
+881886,2025-08-08,UK,Manchester,Web,Instagram
+166645,2025-03-29,USA,Chicago,Web,Google Ads
+599380,2025-10-26,Mexico,Mexico City,Android,Referral
+570050,2025-01-09,USA,Houston,Android,Organic
+915809,2025-03-27,Brazil,Brasília,Web,TikTok
+479625,2025-06-21,Mexico,Mexico City,iPhone,Google Ads
+638169,2025-12-06,Brazil,Curitiba,iPhone,TikTok
+722503,2025-06-04,Brazil,Brasília,Android,Google Ads
+214351,2025-11-02,Mexico,Tijuana,Android,Google Ads
+573962,2025-01-11,Brazil,Brasília,Android,Instagram
+628313,2025-03-14,USA,Atlanta,Web,Instagram
+332311,2025-08-09,USA,New York,iPhone,Google Ads
+744986,2025-11-24,USA,Los Angeles,iPhone,Referral
+145471,2025-08-19,USA,Miami,Web,Instagram
+862569,2025-06-28,Canada,Ottawa,iPhone,Referral
+921273,2025-05-22,UK,Liverpool,Android,Referral
+790909,2025-11-10,USA,New York,Android,Instagram
+646781,2025-06-27,USA,Seattle,Android,Google Ads
+416282,2025-08-27,USA,New York,Android,Instagram
+580292,2025-12-07,Mexico,Tijuana,Web,Instagram
+774591,2025-01-08,USA,Seattle,iPhone,Google Ads
+132663,2025-01-28,Brazil,Rio de Janeiro,iPhone,Instagram
+163780,2025-01-01,Brazil,São Paulo,Android,Instagram
+602248,2025-09-15,USA,Chicago,iPhone,Organic
+988456,2025-05-19,Mexico,Tijuana,iPhone,Organic
+521126,2025-05-29,USA,Houston,Android,Referral
+546980,2025-12-14,USA,Seattle,Web,Organic
+819425,2025-05-14,Mexico,Puebla,iPhone,Referral
+213206,2025-12-14,Canada,Ottawa,iPhone,Instagram
+614084,2025-05-09,UK,Leeds,iPhone,Google Ads
+847006,2025-06-02,USA,San Francisco,iPhone,Organic
+565108,2025-08-12,Brazil,Curitiba,Android,Organic
+177060,2025-12-17,USA,San Francisco,Android,Organic
+184714,2025-07-30,Mexico,Puebla,iPhone,TikTok
+437758,2025-02-15,Brazil,Belo Horizonte,iPhone,Google Ads
+737846,2025-10-25,Mexico,Tijuana,Web,Google Ads
+255539,2025-05-31,Brazil,Rio de Janeiro,Android,Google Ads
+168872,2025-08-25,USA,Atlanta,iPhone,Instagram
+232321,2025-01-29,UK,Leeds,Android,Organic
+388375,2025-05-29,USA,Los Angeles,iPhone,Organic
+754644,2025-10-27,Brazil,Curitiba,iPhone,Organic
+763829,2025-09-22,Mexico,Cancún,Android,Instagram
+713799,2025-11-24,USA,Seattle,iPhone,Google Ads
+674993,2025-01-04,UK,Birmingham,Android,Instagram
+846746,2025-01-01,UK,Leeds,Android,Organic
+440981,2025-02-23,USA,Los Angeles,Android,Organic
+499407,2025-03-04,Brazil,Belo Horizonte,Android,Organic
+726410,2025-10-07,USA,Seattle,Web,Google Ads
+656329,2025-11-12,USA,Boston,Android,Google Ads
+409222,2025-12-03,USA,Chicago,Android,Organic
+575755,2025-09-01,USA,San Francisco,Android,TikTok
+630108,2025-09-10,Brazil,Brasília,Android,Referral
+734836,2025-02-24,USA,Miami,iPhone,Instagram
+551096,2025-03-03,Brazil,Salvador,iPhone,Organic
+203996,2025-11-30,Brazil,São Paulo,Android,Organic
+931621,2025-07-01,UK,Leeds,Android,Referral
+835869,2025-01-05,Canada,Calgary,Web,TikTok
+219971,2025-04-18,Canada,Montreal,Android,Google Ads
+994217,2025-12-02,USA,San Francisco,iPhone,Organic
+786516,2025-03-13,USA,Boston,iPhone,Instagram
+782535,2025-11-27,USA,Miami,Web,Organic
+906315,2025-12-29,Brazil,Salvador,Android,Organic
+678116,2025-06-15,Canada,Edmonton,Android,Organic
+855855,2025-07-26,Mexico,Tijuana,iPhone,Instagram
+325468,2025-02-19,USA,New York,Web,Organic
+550961,2025-04-29,Mexico,Puebla,Web,TikTok
+573489,2025-03-31,Canada,Edmonton,Android,Organic
+339592,2025-02-02,Mexico,Puebla,Android,TikTok
+533914,2025-02-07,USA,Miami,iPhone,Google Ads
+455395,2025-03-31,Brazil,Brasília,Android,Google Ads
+967611,2025-10-21,USA,Seattle,iPhone,Referral
+575528,2025-05-27,Brazil,Rio de Janeiro,iPhone,TikTok
+518098,2025-04-09,USA,Chicago,Android,TikTok
+536196,2025-04-15,USA,New York,Android,Instagram
+865054,2025-07-28,USA,Chicago,Web,TikTok
+199704,2025-11-25,Brazil,São Paulo,iPhone,Instagram
+427730,2025-08-31,Brazil,Rio de Janeiro,Web,Instagram
+547494,2025-03-12,Brazil,Brasília,Android,TikTok
+427704,2025-02-06,UK,Liverpool,iPhone,TikTok
+797416,2025-03-02,Brazil,Rio de Janeiro,Android,Organic
+367271,2025-04-25,Brazil,São Paulo,Android,Organic
+492483,2025-12-27,UK,Birmingham,Web,Organic
+260053,2025-10-22,USA,Chicago,Web,Organic
+820184,2025-07-24,USA,San Francisco,Web,TikTok
+597305,2025-08-30,Mexico,Tijuana,Android,Organic
+170394,2025-08-04,Canada,Montreal,Android,Organic
+195656,2025-04-15,USA,Dallas,Web,Organic
+972176,2025-02-01,Brazil,Curitiba,iPhone,Google Ads
+189511,2025-11-09,USA,Los Angeles,Android,Instagram
+197758,2025-08-02,Mexico,Mexico City,iPhone,Organic
+552855,2025-09-03,Mexico,Tijuana,Web,Google Ads
+201255,2025-09-12,Canada,Montreal,Android,Organic
+880758,2025-04-27,Brazil,Curitiba,iPhone,TikTok
+874683,2025-04-11,USA,New York,iPhone,Google Ads
+490748,2025-10-10,Brazil,Salvador,Android,Instagram
+951201,2025-08-09,Brazil,Salvador,Android,Instagram
+236435,2025-11-12,Mexico,Tijuana,iPhone,TikTok
+683397,2025-01-30,Canada,Montreal,iPhone,TikTok
+162894,2025-10-02,USA,Los Angeles,Android,Organic
+714953,2025-01-30,Brazil,São Paulo,Web,Organic
+688866,2025-06-10,USA,Chicago,Android,Organic
+688967,2025-07-23,USA,Houston,Web,Organic
+445658,2025-10-06,Brazil,São Paulo,Android,Organic
+802559,2025-08-16,USA,Dallas,Web,Google Ads
+228168,2025-12-01,Mexico,Monterrey,Android,Organic
+530764,2025-02-23,USA,Miami,iPhone,TikTok
+470774,2025-05-24,USA,Atlanta,Android,Instagram
+797660,2025-06-06,USA,Chicago,Web,TikTok
+886730,2025-03-14,Mexico,Guadalajara,iPhone,Instagram
+543481,2025-08-21,USA,Houston,Android,Instagram
+856086,2025-05-23,Canada,Toronto,Android,Organic
+153945,2025-05-23,Mexico,Monterrey,Web,Organic
+401601,2025-07-16,UK,Liverpool,Android,Google Ads
+729575,2025-08-09,Brazil,Rio de Janeiro,iPhone,Organic
+427626,2025-06-28,Brazil,Curitiba,iPhone,TikTok
+468727,2025-05-15,Canada,Ottawa,Android,Organic
+208633,2025-11-15,UK,Leeds,iPhone,Organic
+705991,2025-01-30,Brazil,Salvador,Android,Referral
+632060,2025-12-14,UK,Leeds,iPhone,Instagram
+323072,2025-10-18,USA,San Francisco,Android,Instagram
+262246,2025-05-02,UK,Birmingham,iPhone,TikTok
+788637,2025-05-21,USA,New York,iPhone,Instagram
+605612,2025-10-20,USA,Houston,Android,Organic
+335137,2025-05-09,Brazil,Belo Horizonte,iPhone,Organic
+988432,2025-12-05,UK,Leeds,iPhone,Organic
+213475,2025-01-09,USA,Miami,Web,TikTok
+467121,2025-11-23,Brazil,Salvador,iPhone,TikTok
+986438,2025-02-10,UK,Manchester,iPhone,Instagram
+683286,2025-08-14,USA,Boston,Android,Referral
+485415,2025-04-27,USA,Miami,iPhone,TikTok
+220465,2025-04-30,Mexico,Guadalajara,Web,Instagram
+899649,2025-08-14,USA,New York,iPhone,TikTok
+392099,2025-05-13,Brazil,São Paulo,Android,Organic
+701987,2025-06-30,Canada,Toronto,Android,Google Ads
+337144,2025-02-09,Brazil,São Paulo,Android,TikTok
+946432,2025-06-16,Brazil,São Paulo,Android,Organic
+549956,2025-05-25,Brazil,Curitiba,iPhone,Instagram
+986209,2025-07-28,USA,Dallas,Android,TikTok
+688215,2025-11-15,UK,Birmingham,Android,Referral
+904711,2025-10-30,USA,Dallas,iPhone,Referral
+958182,2025-09-18,USA,Boston,iPhone,Organic
+751924,2025-10-26,UK,Glasgow,iPhone,Organic
+743378,2025-02-10,USA,Chicago,iPhone,Referral
+807764,2025-11-19,Canada,Vancouver,Android,Referral
+773918,2025-09-28,Brazil,Salvador,Android,Organic
+683783,2025-08-14,UK,Leeds,Android,TikTok
+127529,2025-05-05,USA,Houston,Web,Organic
+738577,2025-03-01,USA,Dallas,iPhone,Organic
+789786,2025-07-05,Mexico,Puebla,Android,Google Ads
+969752,2025-12-01,USA,San Francisco,Android,Referral
+827157,2025-10-19,Brazil,Rio de Janeiro,Android,TikTok
+380439,2025-07-28,UK,Manchester,Web,Organic
+130359,2025-05-27,Mexico,Cancún,iPhone,Organic
+289179,2025-03-17,USA,Los Angeles,iPhone,TikTok
+386544,2025-04-03,Brazil,Curitiba,Web,Organic
+836833,2025-10-11,UK,London,iPhone,TikTok
+899444,2025-01-18,Mexico,Puebla,Android,Organic
+423993,2025-03-09,UK,London,Android,Referral
+456331,2025-07-01,Brazil,Belo Horizonte,Web,Referral
+468074,2025-06-22,USA,San Francisco,iPhone,Organic
+106402,2025-01-24,UK,Birmingham,Android,Instagram
+290217,2025-11-19,USA,Dallas,Web,Referral
+250210,2025-03-10,Brazil,Salvador,iPhone,TikTok
+693830,2025-09-18,Mexico,Cancún,Android,Referral
+789275,2025-11-29,USA,New York,Android,TikTok
+520252,2025-10-29,Brazil,Brasília,Android,TikTok
+172965,2025-01-25,USA,Los Angeles,iPhone,TikTok
+248766,2025-08-07,Brazil,Belo Horizonte,Android,Google Ads
+876962,2025-03-15,USA,Atlanta,iPhone,Organic
+763928,2025-11-12,USA,Houston,Android,Organic
+132146,2025-05-21,USA,Dallas,iPhone,Organic
+196214,2025-05-13,Brazil,Rio de Janeiro,Web,Organic
+882354,2025-03-14,Canada,Toronto,Web,Instagram
+656251,2025-01-15,USA,San Francisco,Web,Google Ads
+325583,2025-04-10,Mexico,Mexico City,Web,TikTok
+494468,2025-10-20,USA,New York,iPhone,Organic
+540226,2025-06-01,Brazil,Salvador,Android,Google Ads
+575682,2025-08-16,Canada,Edmonton,Android,Google Ads
+457455,2025-05-23,UK,Liverpool,iPhone,Google Ads
+265055,2025-04-24,Mexico,Mexico City,Web,Google Ads
+488028,2025-08-21,Mexico,Monterrey,iPhone,Organic
+426775,2025-12-19,Mexico,Tijuana,Android,Organic
+856648,2025-09-24,USA,New York,Android,Referral
+440140,2025-01-19,USA,San Francisco,Android,Google Ads
+914571,2025-07-12,Canada,Edmonton,iPhone,Organic
+695164,2025-03-19,UK,Manchester,Android,Organic
+725185,2025-04-12,Brazil,Rio de Janeiro,Android,Organic
+189083,2025-04-20,Mexico,Mexico City,Web,Google Ads
+155164,2025-12-30,USA,Los Angeles,Android,Instagram
+263137,2025-11-20,USA,Atlanta,Android,Instagram
+265056,2025-04-03,Mexico,Cancún,iPhone,TikTok
+891083,2025-09-08,UK,Manchester,Web,Instagram
+747850,2025-06-01,UK,Liverpool,Android,TikTok
+152179,2025-05-28,USA,Los Angeles,Web,Google Ads
+806707,2025-03-01,Brazil,Salvador,iPhone,Instagram
+185544,2025-07-23,USA,Dallas,Android,TikTok
+385320,2025-11-04,Mexico,Puebla,Web,Google Ads
+564637,2025-04-21,Brazil,Rio de Janeiro,iPhone,Organic
+794093,2025-05-14,UK,Liverpool,iPhone,Google Ads
+544611,2025-07-24,Mexico,Puebla,iPhone,TikTok
+609253,2025-06-23,USA,New York,iPhone,Instagram
+736565,2025-10-21,Mexico,Mexico City,iPhone,TikTok
+563516,2025-11-11,UK,Leeds,iPhone,Instagram
+534303,2025-01-11,Mexico,Guadalajara,Android,Organic
+386436,2025-06-30,UK,London,Android,Organic
+326040,2025-04-18,UK,Leeds,iPhone,Organic
+891615,2025-07-22,USA,Houston,Web,Google Ads
+637234,2025-07-11,UK,Manchester,iPhone,Organic
+219346,2025-01-07,USA,Houston,Android,Organic
+461939,2025-09-14,USA,New York,Android,TikTok
+550797,2025-01-13,Brazil,Salvador,iPhone,Organic
+216276,2025-07-13,USA,Houston,iPhone,Google Ads
+397005,2025-02-13,Mexico,Guadalajara,Android,Google Ads
+811163,2025-08-01,USA,San Francisco,Android,Google Ads
+811444,2025-10-29,USA,San Francisco,Android,Organic
+721946,2025-06-15,UK,Manchester,Web,Google Ads
+610271,2025-04-14,Brazil,Curitiba,iPhone,Organic
+652530,2025-02-17,USA,Boston,Android,Organic
+799539,2025-12-26,USA,Atlanta,Android,TikTok
+423401,2025-07-21,Brazil,Rio de Janeiro,iPhone,Referral
+147623,2025-10-23,Canada,Ottawa,Android,TikTok
+331230,2025-09-02,Canada,Calgary,Android,TikTok
+514463,2025-11-19,Brazil,Curitiba,iPhone,Organic
+728437,2025-09-08,Canada,Toronto,Android,Organic
+157443,2025-08-31,Mexico,Mexico City,iPhone,Instagram
+108060,2025-09-10,Brazil,Belo Horizonte,Android,Organic
+314353,2025-01-19,USA,Miami,Android,Google Ads
+416061,2025-05-18,USA,Boston,Android,Google Ads
+321494,2025-06-10,Mexico,Tijuana,Android,TikTok
+904624,2025-09-21,Canada,Vancouver,iPhone,Instagram
+243901,2025-02-23,Brazil,Curitiba,Web,Organic
+901280,2025-03-24,Brazil,São Paulo,iPhone,Google Ads
+367931,2025-02-28,Brazil,São Paulo,iPhone,TikTok
+403507,2025-09-26,USA,Atlanta,Android,Instagram
+444061,2025-01-05,Brazil,Curitiba,Web,TikTok
+225812,2025-12-13,USA,Atlanta,Web,Instagram
+108105,2025-11-29,USA,Dallas,Android,TikTok
+621546,2025-11-11,USA,Miami,Android,Organic
+883301,2025-08-25,Canada,Montreal,Android,Organic
+551574,2025-03-11,USA,Dallas,Web,Instagram
+284229,2025-03-18,USA,Seattle,iPhone,TikTok
+235461,2025-12-22,Brazil,São Paulo,iPhone,Organic
+498676,2025-08-28,USA,Seattle,iPhone,Organic
+658453,2025-04-26,Mexico,Mexico City,iPhone,TikTok
+837852,2025-08-07,USA,New York,Web,Organic
+341288,2025-05-11,Mexico,Monterrey,iPhone,Google Ads
+624563,2025-03-20,Brazil,Curitiba,Android,Organic
+685864,2025-02-22,USA,Houston,iPhone,Organic
+973835,2025-06-19,USA,San Francisco,Android,Google Ads
+800499,2025-11-12,Brazil,Belo Horizonte,Android,Referral
+945362,2025-04-29,Mexico,Puebla,iPhone,Organic
+471371,2025-03-15,Canada,Toronto,Web,Instagram
+175576,2025-01-27,USA,New York,iPhone,Google Ads
+516359,2025-06-04,USA,Seattle,iPhone,TikTok
+878086,2025-07-17,Brazil,São Paulo,iPhone,TikTok
+144357,2025-09-29,Mexico,Monterrey,iPhone,TikTok
+557409,2025-11-21,USA,Boston,Web,Referral
+119651,2025-08-15,UK,Glasgow,iPhone,TikTok
+582087,2025-08-11,Brazil,Brasília,Android,TikTok
+181644,2025-08-27,Mexico,Guadalajara,iPhone,TikTok
+428267,2025-10-14,UK,Birmingham,Android,Organic
+703727,2025-01-06,UK,Manchester,iPhone,Organic
+550137,2025-06-08,USA,Dallas,Android,Organic
+701253,2025-01-07,USA,Dallas,Web,TikTok
+524068,2025-07-23,Mexico,Mexico City,Android,Instagram
+843963,2025-10-20,USA,Miami,iPhone,Organic
+771237,2025-11-20,UK,Glasgow,Web,Referral
+537983,2025-10-07,Brazil,Rio de Janeiro,Android,Google Ads
+403578,2025-03-20,UK,London,iPhone,Instagram
+220768,2025-08-03,Mexico,Guadalajara,Web,Organic
+524707,2025-02-01,UK,London,iPhone,Instagram
+121869,2025-12-02,USA,San Francisco,iPhone,Google Ads
+440544,2025-06-12,Mexico,Mexico City,iPhone,Instagram
+280222,2025-07-07,UK,Manchester,Web,Instagram
+940247,2025-12-09,Brazil,Curitiba,iPhone,Google Ads
+748151,2025-05-17,USA,Houston,Web,TikTok
+582446,2025-12-19,USA,Seattle,iPhone,Instagram
+972442,2025-01-02,Brazil,Rio de Janeiro,Android,Google Ads
+823108,2025-10-18,USA,San Francisco,iPhone,TikTok
+479430,2025-03-01,UK,London,Android,TikTok
+192410,2025-10-30,Canada,Vancouver,Android,Organic
+557925,2025-04-22,Mexico,Mexico City,Android,Google Ads
+985506,2025-05-07,Mexico,Puebla,iPhone,Instagram
+211005,2025-06-08,USA,Houston,Android,Instagram
+355135,2025-06-11,USA,Miami,iPhone,Organic
+556839,2025-06-01,Brazil,Rio de Janeiro,iPhone,Organic
+717476,2025-10-24,USA,Seattle,iPhone,TikTok
+519902,2025-03-29,USA,San Francisco,Android,Instagram
+649414,2025-04-18,USA,Boston,iPhone,TikTok
+182467,2025-05-28,Canada,Calgary,iPhone,Google Ads
+514991,2025-05-18,USA,San Francisco,Android,Google Ads
+425346,2025-01-17,USA,Houston,iPhone,TikTok
+882033,2025-03-13,Canada,Ottawa,Android,Organic
+456005,2025-10-29,Brazil,Brasília,iPhone,TikTok
+332335,2025-01-05,Canada,Montreal,Android,Instagram
+449247,2025-02-21,USA,Seattle,iPhone,Instagram
+916964,2025-04-06,USA,Dallas,iPhone,TikTok
+276299,2025-10-22,Mexico,Puebla,Android,TikTok
+180089,2025-05-10,Mexico,Cancún,iPhone,Google Ads
+635280,2025-06-03,Mexico,Tijuana,iPhone,Instagram
+763984,2025-09-17,USA,Houston,Android,Referral
+219565,2025-07-25,USA,Atlanta,Android,Referral
+656379,2025-11-02,Mexico,Guadalajara,Android,Referral
+634723,2025-03-13,Canada,Ottawa,iPhone,Referral
+303322,2025-02-16,USA,Dallas,Android,Organic
+913934,2025-03-26,USA,Chicago,Android,TikTok
+466346,2025-06-04,Brazil,Curitiba,iPhone,Google Ads
+468154,2025-02-16,USA,Chicago,iPhone,Organic
+862712,2025-07-11,Mexico,Guadalajara,Android,Google Ads
+958729,2025-12-18,USA,Chicago,iPhone,TikTok
+776796,2025-08-26,Brazil,Rio de Janeiro,Web,Instagram
+954628,2025-03-10,Mexico,Mexico City,iPhone,Organic
+254864,2025-08-06,Brazil,Brasília,Web,Google Ads
+347745,2025-10-28,Mexico,Tijuana,iPhone,TikTok
+207798,2025-07-05,USA,Boston,iPhone,Organic
+253557,2025-02-09,USA,New York,Android,Google Ads
+368402,2025-06-04,Mexico,Guadalajara,Android,Organic
+306854,2025-03-19,Brazil,Brasília,iPhone,Organic
+281926,2025-05-14,USA,Atlanta,Android,TikTok
+731661,2025-09-22,Canada,Calgary,iPhone,TikTok
+260295,2025-02-21,UK,Liverpool,Android,TikTok
+897143,2025-06-13,Mexico,Puebla,Android,Organic
+896028,2025-09-06,USA,San Francisco,iPhone,TikTok
+787351,2025-06-05,Mexico,Cancún,iPhone,Google Ads
+179013,2025-08-19,Brazil,Curitiba,Android,Instagram
+285751,2025-07-06,Brazil,Salvador,Android,Google Ads
+910389,2025-07-16,USA,Chicago,Web,TikTok
+758452,2025-12-29,UK,London,iPhone,Organic
+618119,2025-08-21,Mexico,Guadalajara,Android,Instagram
+586490,2025-09-08,Brazil,Salvador,iPhone,Organic
+891093,2025-05-10,Brazil,São Paulo,Web,Instagram
+691119,2025-10-05,Brazil,Curitiba,iPhone,Google Ads
+896788,2025-06-16,USA,Miami,iPhone,Organic
+707616,2025-01-19,USA,New York,Android,TikTok
+570711,2025-02-18,Brazil,Salvador,iPhone,Organic
+814220,2025-05-21,USA,Chicago,Android,TikTok
+691912,2025-09-26,USA,Seattle,Android,Organic
+774225,2025-03-17,Brazil,São Paulo,iPhone,TikTok
+766158,2025-07-15,Mexico,Cancún,Android,Google Ads
+754858,2025-06-04,Brazil,Curitiba,iPhone,Referral
+438908,2025-12-01,Brazil,São Paulo,iPhone,Google Ads
+757685,2025-03-01,Mexico,Mexico City,Web,TikTok
+431495,2025-09-21,UK,Leeds,iPhone,Organic
+258290,2025-10-21,Brazil,Rio de Janeiro,Android,Organic
+561124,2025-04-06,Brazil,Salvador,iPhone,Instagram
+171603,2025-12-14,USA,New York,Android,Referral
+591699,2025-08-01,USA,New York,iPhone,Organic
+563688,2025-11-22,Mexico,Monterrey,iPhone,Instagram
+762055,2025-04-24,USA,Houston,iPhone,Instagram
+417530,2025-08-24,USA,Miami,Android,Instagram
+935012,2025-09-01,Mexico,Cancún,Android,TikTok
+388016,2025-08-16,Canada,Toronto,iPhone,Organic
+720148,2025-12-11,USA,Seattle,iPhone,Instagram
+158900,2025-02-10,Brazil,Salvador,iPhone,Google Ads
+469038,2025-09-29,Mexico,Tijuana,Web,Organic
+631981,2025-08-28,USA,Miami,Android,TikTok
+177794,2025-10-17,USA,Boston,Android,Instagram
+425486,2025-09-09,Brazil,São Paulo,Android,Organic
+584172,2025-11-07,Canada,Calgary,Web,Organic
+573866,2025-02-26,Canada,Toronto,iPhone,Organic
+139434,2025-07-25,Brazil,Rio de Janeiro,Web,Google Ads
+159653,2025-11-03,Brazil,Brasília,Android,TikTok
+486649,2025-12-18,USA,Dallas,Android,Instagram
+972097,2025-07-20,Canada,Edmonton,iPhone,TikTok
+401022,2025-08-19,USA,Atlanta,Android,TikTok
+180458,2025-06-21,USA,Chicago,iPhone,Organic
+775981,2025-07-16,UK,Glasgow,iPhone,Referral
+996840,2025-11-22,Mexico,Puebla,Web,TikTok
+194682,2025-02-11,USA,Houston,iPhone,Instagram
+744883,2025-11-09,Mexico,Cancún,iPhone,Organic
+722937,2025-07-09,USA,Boston,Android,Instagram
+631699,2025-10-10,USA,Boston,Web,Instagram
+503159,2025-07-08,Brazil,Rio de Janeiro,Web,Organic
+585188,2025-04-13,Mexico,Guadalajara,iPhone,Referral
+708519,2025-10-23,USA,Miami,iPhone,Organic
+681242,2025-05-04,Brazil,Rio de Janeiro,Android,TikTok
+930281,2025-11-06,UK,Liverpool,Android,Organic
+874814,2025-02-05,UK,Manchester,iPhone,Instagram
+143015,2025-09-24,USA,New York,Android,TikTok
+571579,2025-05-14,Canada,Calgary,iPhone,TikTok
+949153,2025-11-28,UK,Leeds,iPhone,Google Ads
+699425,2025-01-31,Canada,Edmonton,iPhone,TikTok
+783501,2025-01-21,USA,Atlanta,Web,Instagram
+297383,2025-03-05,USA,San Francisco,Android,TikTok
+437145,2025-02-27,USA,Miami,Android,Instagram
+734394,2025-05-05,Mexico,Monterrey,iPhone,Organic
+598733,2025-12-22,UK,Manchester,iPhone,Organic
+625721,2025-06-25,USA,Seattle,Android,Google Ads
+258189,2025-05-13,USA,Seattle,iPhone,TikTok
+164879,2025-09-25,Brazil,Belo Horizonte,iPhone,Organic
+572407,2025-05-30,USA,Houston,Web,Instagram
+208529,2025-08-14,USA,Chicago,Android,Organic
+950360,2025-03-17,Mexico,Guadalajara,Android,Instagram
+978053,2025-04-19,Mexico,Puebla,iPhone,Organic
+460120,2025-09-18,Mexico,Guadalajara,Android,Organic
+849014,2025-03-29,Mexico,Tijuana,iPhone,Instagram
+188425,2025-06-10,Canada,Edmonton,iPhone,Google Ads
+629057,2025-03-28,Brazil,Salvador,Web,TikTok
+777513,2025-01-08,UK,Liverpool,iPhone,Google Ads
+280941,2025-04-25,Mexico,Mexico City,iPhone,Organic
+141043,2025-11-29,USA,Boston,Android,Google Ads
+359778,2025-01-07,USA,Seattle,Android,Referral
+841995,2025-07-06,UK,Leeds,Web,Google Ads
+559022,2025-09-17,Mexico,Puebla,Android,Referral
+560767,2025-10-03,USA,San Francisco,Web,Google Ads
+649525,2025-05-06,UK,London,Android,TikTok
+648141,2025-05-06,USA,Chicago,Android,Instagram
+739427,2025-05-17,USA,Seattle,iPhone,Referral
+266457,2025-02-02,Brazil,São Paulo,Android,Instagram
+481574,2025-04-27,Canada,Vancouver,Android,Organic
+490963,2025-01-27,USA,Boston,Android,Organic
+396635,2025-02-12,USA,Los Angeles,iPhone,Organic
+506235,2025-09-07,Brazil,São Paulo,Android,Organic
+528625,2025-02-27,USA,New York,Android,Google Ads
+912085,2025-11-22,Mexico,Puebla,Android,Organic
+454803,2025-07-28,Mexico,Puebla,Web,Organic
+811875,2025-09-05,Mexico,Puebla,Android,Organic
+726928,2025-05-08,Brazil,Curitiba,iPhone,Google Ads
+154909,2025-02-27,USA,San Francisco,Android,Instagram
+927564,2025-09-18,Canada,Vancouver,Android,Organic
+761532,2025-12-11,Brazil,Rio de Janeiro,iPhone,Google Ads
+778748,2025-04-04,USA,Seattle,iPhone,Instagram
+450905,2025-09-14,USA,Los Angeles,Android,Organic
+169113,2025-11-09,USA,San Francisco,Android,Instagram
+445705,2025-07-22,USA,Chicago,iPhone,Organic
+199096,2025-09-22,UK,Manchester,Android,Organic
+685066,2025-05-18,Canada,Edmonton,Android,TikTok
+811332,2025-06-05,USA,Miami,Android,Google Ads
+505341,2025-06-11,USA,Miami,iPhone,TikTok
+397949,2025-01-03,Brazil,Salvador,Android,Google Ads
+364236,2025-11-27,UK,Liverpool,iPhone,TikTok
+858889,2025-12-27,UK,Liverpool,Android,Organic
+992931,2025-06-14,USA,Miami,iPhone,TikTok
+788457,2025-04-13,Brazil,Salvador,iPhone,TikTok
+731977,2025-02-24,UK,Leeds,Android,Google Ads
+257677,2025-10-31,USA,Chicago,iPhone,TikTok
+449555,2025-12-28,Brazil,São Paulo,Android,TikTok
+185461,2025-01-31,Brazil,Brasília,Web,Instagram
+711046,2025-05-26,USA,Dallas,iPhone,TikTok
+795847,2025-07-31,USA,Chicago,Web,Organic
+248298,2025-10-15,UK,Manchester,Android,Instagram
+466813,2025-12-05,USA,Houston,iPhone,TikTok
+425301,2025-03-13,USA,San Francisco,Android,Instagram
+787923,2025-06-10,UK,London,Web,Instagram
+832409,2025-04-20,Canada,Montreal,Web,TikTok
+794299,2025-04-12,USA,Seattle,iPhone,TikTok
+510997,2025-01-12,Mexico,Cancún,iPhone,Instagram
+235215,2025-01-25,USA,Atlanta,iPhone,Google Ads
+723945,2025-01-09,UK,London,Web,TikTok
+843266,2025-06-17,Brazil,São Paulo,Web,Google Ads
+188834,2025-02-04,UK,Liverpool,iPhone,Organic
+424620,2025-02-27,Mexico,Tijuana,iPhone,TikTok
+686072,2025-08-28,Brazil,Belo Horizonte,Web,Organic
+494976,2025-08-09,Mexico,Guadalajara,Android,Google Ads
+774751,2025-03-19,UK,Liverpool,Android,Google Ads
+930117,2025-08-21,Mexico,Mexico City,iPhone,Instagram
+444432,2025-01-11,Brazil,Curitiba,Android,Referral
+952686,2025-01-10,Brazil,Brasília,iPhone,Google Ads
+234001,2025-04-25,USA,Dallas,iPhone,Organic
+802667,2025-04-13,Mexico,Monterrey,Android,Instagram
+836971,2025-10-23,UK,Leeds,Web,Google Ads
+969226,2025-01-14,USA,Chicago,iPhone,Organic
+874661,2025-02-05,Brazil,São Paulo,Android,TikTok
+818709,2025-04-14,USA,Dallas,Web,Instagram
+651963,2025-04-22,USA,Atlanta,Web,Organic
+197992,2025-08-14,UK,London,iPhone,Google Ads
+777406,2025-04-17,USA,Atlanta,iPhone,Google Ads
+803024,2025-07-14,Brazil,Salvador,Android,Organic
+543973,2025-10-24,Mexico,Mexico City,iPhone,Organic
+633188,2025-09-08,Mexico,Mexico City,iPhone,Organic
+479404,2025-04-08,Mexico,Monterrey,Android,Organic
+119116,2025-05-11,USA,Los Angeles,Android,TikTok
+480211,2025-08-04,Brazil,Salvador,iPhone,TikTok
+423869,2025-02-03,Brazil,São Paulo,iPhone,Referral
+289019,2025-02-13,Brazil,Curitiba,iPhone,Referral
+324597,2025-05-21,Mexico,Puebla,Web,Organic
+458332,2025-04-01,Mexico,Monterrey,iPhone,Google Ads
+903373,2025-08-29,Brazil,Rio de Janeiro,Android,Organic
+609892,2025-12-05,UK,London,Android,Organic
+301332,2025-03-30,USA,Boston,iPhone,Organic
+337547,2025-12-09,USA,San Francisco,Web,Google Ads
+244247,2025-04-15,USA,Los Angeles,Android,Organic
+262471,2025-06-14,USA,Dallas,Web,Organic
+180913,2025-01-18,USA,New York,iPhone,Google Ads
+410160,2025-07-13,Mexico,Guadalajara,Web,Organic
+985447,2025-01-08,UK,Glasgow,Android,Organic
+926403,2025-02-27,USA,Houston,iPhone,Referral
+206053,2025-10-02,Canada,Calgary,Web,Google Ads
+632351,2025-09-01,Brazil,Belo Horizonte,Android,Organic
+908320,2025-07-07,Brazil,Brasília,iPhone,Instagram
+665990,2025-10-20,Canada,Edmonton,Android,TikTok
+975686,2025-03-15,USA,Houston,Android,Google Ads
+874524,2025-05-25,USA,Los Angeles,Android,Instagram
+652108,2025-12-04,UK,London,iPhone,Organic
+139581,2025-10-23,USA,Seattle,Android,TikTok
+794083,2025-08-05,Canada,Montreal,Android,Organic
+453123,2025-01-18,USA,Chicago,Android,Referral
+903531,2025-04-04,Mexico,Puebla,Android,Google Ads
+748052,2025-07-23,USA,New York,Web,Organic
+237414,2025-04-07,USA,Boston,Android,Google Ads
+726258,2025-08-21,Mexico,Tijuana,iPhone,Referral
+495019,2025-12-02,Mexico,Tijuana,Android,Google Ads
+261745,2025-05-11,UK,Birmingham,iPhone,Google Ads
+270128,2025-02-19,USA,Seattle,Android,TikTok
+289630,2025-07-07,Mexico,Monterrey,Android,Organic
+971728,2025-04-27,Brazil,São Paulo,Web,Organic
+826501,2025-03-06,Canada,Toronto,iPhone,Instagram
+908554,2025-02-12,UK,Birmingham,Android,TikTok
+755087,2025-09-19,Canada,Ottawa,iPhone,Google Ads
+948343,2025-07-01,USA,Houston,Android,Organic
+273580,2025-01-25,Brazil,Rio de Janeiro,Android,TikTok
+856215,2025-09-29,UK,Birmingham,Android,Instagram
+558933,2025-11-21,USA,Chicago,iPhone,Organic
+145814,2025-03-19,UK,Manchester,Web,Google Ads
+530816,2025-01-26,Brazil,Belo Horizonte,iPhone,Organic
+481995,2025-08-04,Canada,Calgary,iPhone,Referral
+809217,2025-06-03,UK,Liverpool,iPhone,Instagram
+854540,2025-04-17,USA,Miami,Android,Instagram
+349068,2025-07-30,Canada,Ottawa,Android,Organic
+565776,2025-05-05,USA,Seattle,Web,Google Ads
+740255,2025-04-10,Brazil,Rio de Janeiro,Android,TikTok
+398768,2025-05-22,USA,Dallas,iPhone,Referral
+888939,2025-12-11,USA,Atlanta,iPhone,Instagram
+884897,2025-06-17,USA,Seattle,iPhone,Organic
+921874,2025-11-18,USA,Los Angeles,Android,TikTok
+570735,2025-03-05,Mexico,Guadalajara,Android,Organic
+345369,2025-06-24,Brazil,Belo Horizonte,Android,Organic
+659951,2025-02-27,UK,London,iPhone,Google Ads
+350786,2025-12-21,Mexico,Puebla,Android,Google Ads
+424500,2025-02-22,UK,Liverpool,Android,Organic
+947903,2025-05-04,USA,Boston,Web,Google Ads
+922471,2025-08-10,UK,Glasgow,Android,Instagram
+591798,2025-05-22,Brazil,Curitiba,iPhone,Google Ads
+975679,2025-05-09,Canada,Edmonton,Android,TikTok
+303440,2025-09-06,Canada,Toronto,iPhone,Instagram
+485709,2025-05-17,USA,Seattle,iPhone,TikTok
+811256,2025-07-12,USA,Seattle,Android,Google Ads
+698128,2025-10-30,Mexico,Cancún,iPhone,Instagram
+561999,2025-03-02,UK,Glasgow,Web,Instagram
+584106,2025-11-06,Canada,Vancouver,iPhone,Instagram
+906814,2025-11-28,Brazil,Salvador,Android,Organic
+395459,2025-07-24,UK,Liverpool,Android,TikTok
+915922,2025-01-14,UK,Glasgow,Android,TikTok
+500422,2025-02-20,USA,Chicago,iPhone,Referral
+627335,2025-05-10,USA,Atlanta,Android,Instagram
+653081,2025-05-22,USA,Dallas,iPhone,Referral
+538997,2025-11-22,Brazil,São Paulo,iPhone,Instagram
+269930,2025-10-08,USA,Chicago,iPhone,Google Ads
+956572,2025-03-30,Mexico,Cancún,iPhone,TikTok
+309398,2025-04-27,UK,London,iPhone,Instagram
+940181,2025-11-24,USA,Miami,iPhone,Instagram
+734035,2025-07-15,Brazil,Belo Horizonte,Android,Organic
+245121,2025-07-05,USA,Seattle,iPhone,Google Ads
+362147,2025-10-25,Mexico,Guadalajara,iPhone,Organic
+154714,2025-10-14,USA,San Francisco,Android,Instagram
+772324,2025-02-17,Brazil,Salvador,Android,Organic
+603935,2025-05-15,USA,Boston,Web,Instagram
+489244,2025-07-17,USA,Dallas,Android,TikTok
+681478,2025-06-15,USA,Miami,Android,Referral
+207573,2025-03-21,Canada,Calgary,Web,Organic
+845957,2025-12-22,Mexico,Monterrey,iPhone,Organic
+986982,2025-04-21,Canada,Vancouver,Web,TikTok
+640970,2025-11-10,USA,Miami,iPhone,Organic
+992512,2025-10-18,Brazil,Salvador,iPhone,TikTok
+230734,2025-11-18,USA,Chicago,Web,Instagram
+398910,2025-07-06,Brazil,Salvador,Android,Instagram
+187949,2025-05-01,UK,Birmingham,Android,TikTok
+900185,2025-06-14,USA,Dallas,iPhone,Instagram
+268099,2025-03-07,UK,Glasgow,iPhone,TikTok
+386042,2025-02-23,USA,San Francisco,Android,TikTok
+571145,2025-12-26,UK,Leeds,iPhone,TikTok
+638289,2025-05-18,Mexico,Tijuana,Web,Organic
+254506,2025-10-30,Brazil,São Paulo,Android,TikTok
+971415,2025-11-29,Brazil,Rio de Janeiro,iPhone,TikTok
+558723,2025-02-02,USA,Dallas,Android,Instagram
+196168,2025-05-10,Mexico,Mexico City,Web,Organic
+332823,2025-08-09,Canada,Edmonton,iPhone,Instagram
+956375,2025-08-20,Mexico,Guadalajara,Web,Organic
+573041,2025-09-18,USA,Miami,iPhone,Instagram
+466566,2025-10-28,Canada,Vancouver,Android,Referral
+127965,2025-07-03,USA,New York,Web,Organic
+535050,2025-03-24,Mexico,Mexico City,Android,TikTok
+155843,2025-04-02,Mexico,Guadalajara,Web,Google Ads
+515712,2025-03-03,UK,London,Android,TikTok
+626392,2025-12-17,USA,Los Angeles,Web,Instagram
+492127,2025-06-25,Brazil,Salvador,iPhone,TikTok
+347231,2025-05-10,USA,Miami,iPhone,Instagram
+504924,2025-06-29,Brazil,Rio de Janeiro,iPhone,Organic
+185569,2025-02-18,Canada,Edmonton,iPhone,TikTok
+493124,2025-10-13,Brazil,São Paulo,Web,Organic
+335445,2025-09-28,USA,Dallas,iPhone,Organic
+129556,2025-10-18,USA,Dallas,iPhone,Organic
+434165,2025-11-14,Brazil,São Paulo,Web,Organic
+203896,2025-12-16,Brazil,Belo Horizonte,iPhone,TikTok
+979940,2025-08-14,Canada,Ottawa,iPhone,Organic
+849421,2025-08-16,Mexico,Guadalajara,Android,Google Ads
+781533,2025-03-03,USA,New York,Web,Google Ads
+451577,2025-12-16,UK,Birmingham,Web,Organic
+929822,2025-04-09,USA,San Francisco,iPhone,Organic
+253143,2025-12-04,Mexico,Tijuana,Web,Referral
+244283,2025-12-09,Brazil,Salvador,Android,Referral
+140163,2025-09-09,Brazil,Brasília,iPhone,Organic
+400814,2025-09-03,USA,Atlanta,iPhone,Organic
+970068,2025-02-20,UK,Glasgow,Android,Google Ads
+595404,2025-09-27,UK,London,Android,Organic
+829884,2025-10-07,Brazil,Curitiba,Android,TikTok
+971482,2025-04-12,Mexico,Monterrey,iPhone,TikTok
+245534,2025-09-09,USA,Atlanta,iPhone,TikTok
+895702,2025-07-19,USA,Los Angeles,iPhone,TikTok
+839808,2025-09-28,USA,Miami,Android,Instagram
+591897,2025-10-28,UK,Manchester,Web,Organic
+570392,2025-01-25,Mexico,Tijuana,Android,Instagram
+745239,2025-06-30,Brazil,São Paulo,Web,TikTok
+105506,2025-08-11,Canada,Toronto,Web,Instagram
+183074,2025-12-15,Mexico,Tijuana,Web,TikTok
+119927,2025-04-24,Mexico,Guadalajara,iPhone,Referral
+368355,2025-10-20,Mexico,Mexico City,Android,TikTok
+326130,2025-12-19,Mexico,Mexico City,iPhone,TikTok
+975522,2025-06-19,USA,Miami,iPhone,Organic
+256782,2025-07-25,Canada,Calgary,Web,TikTok
+675462,2025-05-13,USA,Chicago,Android,Instagram
+862560,2025-11-17,UK,Liverpool,Android,Instagram
+738457,2025-07-31,USA,Miami,iPhone,Organic
+653408,2025-11-04,USA,Houston,Android,TikTok
+543814,2025-03-07,USA,Atlanta,iPhone,Google Ads
+216587,2025-03-23,Mexico,Guadalajara,iPhone,Organic
+913875,2025-03-27,Canada,Calgary,iPhone,TikTok
+402096,2025-12-22,Canada,Montreal,Web,Instagram
+349183,2025-05-14,Brazil,Belo Horizonte,iPhone,Google Ads
+415779,2025-04-14,USA,Los Angeles,iPhone,Google Ads
+227767,2025-09-23,Canada,Ottawa,Web,Organic
+150068,2025-01-20,Canada,Calgary,Android,Organic
+350021,2025-02-04,UK,Manchester,iPhone,Instagram
+540218,2025-08-15,USA,Boston,iPhone,Instagram
+769989,2025-04-07,Mexico,Mexico City,Android,TikTok
+932463,2025-03-20,UK,Glasgow,iPhone,Instagram
+753064,2025-04-13,USA,Miami,Web,TikTok
+579318,2025-05-30,Canada,Toronto,iPhone,Organic
+165858,2025-12-03,Brazil,Rio de Janeiro,iPhone,Organic
+216242,2025-05-06,Mexico,Mexico City,Web,Organic
+977330,2025-06-12,Mexico,Monterrey,Android,Organic
+624108,2025-11-13,USA,Los Angeles,iPhone,TikTok
+725726,2025-03-15,Mexico,Cancún,Web,TikTok
+662093,2025-10-16,Canada,Edmonton,iPhone,TikTok
+117233,2025-04-25,USA,Atlanta,Android,Organic
+762652,2025-11-29,UK,London,Android,Organic
+640410,2025-05-25,UK,Liverpool,Web,Instagram
+702980,2025-12-16,Mexico,Puebla,Android,Google Ads
+353690,2025-08-21,Brazil,Brasília,iPhone,Referral
+853448,2025-04-25,Brazil,Rio de Janeiro,Android,Google Ads
+250551,2025-05-12,USA,Chicago,Web,TikTok
+405420,2025-06-03,UK,Birmingham,Android,TikTok
+550089,2025-04-27,USA,Seattle,iPhone,Google Ads
+101640,2025-07-27,Canada,Vancouver,Web,TikTok
+744674,2025-07-18,Brazil,Salvador,Android,TikTok
+469954,2025-09-29,Brazil,Brasília,iPhone,TikTok
+352249,2025-12-04,USA,Houston,Android,Instagram
+698384,2025-07-29,UK,Birmingham,Web,TikTok
+536802,2025-02-25,USA,Miami,iPhone,Organic
+296412,2025-11-16,Brazil,Salvador,iPhone,Google Ads
+796643,2025-03-22,Brazil,Rio de Janeiro,iPhone,TikTok
+800674,2025-01-13,Mexico,Tijuana,Android,Referral
+189772,2025-12-15,Mexico,Puebla,Android,Organic
+648913,2025-04-12,Brazil,Rio de Janeiro,Android,Instagram
+478120,2025-03-08,USA,Dallas,Android,Google Ads
+170966,2025-11-10,UK,Liverpool,iPhone,Referral
+651613,2025-02-03,Brazil,Curitiba,Web,Instagram
+670511,2025-06-19,USA,New York,Web,Google Ads
+631971,2025-03-19,UK,Birmingham,Web,TikTok
+924613,2025-06-11,Canada,Montreal,Web,TikTok
+632280,2025-05-29,Mexico,Puebla,Android,Instagram
+681070,2025-03-25,USA,San Francisco,iPhone,Google Ads
+121322,2025-10-15,Brazil,Belo Horizonte,Web,TikTok
+509420,2025-05-08,Brazil,Salvador,Android,Organic
+592972,2025-02-19,Canada,Edmonton,Web,Referral
+145649,2025-09-02,Mexico,Guadalajara,Web,TikTok
+766549,2025-07-05,USA,New York,Android,Referral
+505674,2025-01-11,Canada,Ottawa,Android,TikTok
+491435,2025-02-13,Canada,Edmonton,Android,Google Ads
+365971,2025-12-13,UK,London,iPhone,Instagram
+883618,2025-12-09,Brazil,Rio de Janeiro,iPhone,Referral
+117031,2025-02-12,USA,Dallas,iPhone,Google Ads
+474440,2025-08-02,USA,Seattle,iPhone,Google Ads
+926823,2025-05-24,Canada,Montreal,Web,Organic
+170841,2025-01-27,Canada,Toronto,Android,Referral
+461551,2025-08-10,Mexico,Cancún,iPhone,TikTok
+352838,2025-08-23,USA,Miami,Android,Google Ads
+868544,2025-11-16,Mexico,Monterrey,Android,Organic
+789023,2025-08-29,USA,Boston,iPhone,TikTok
+758775,2025-07-12,Brazil,São Paulo,Android,Organic
+208699,2025-07-28,USA,San Francisco,Web,Google Ads
+908977,2025-10-10,Mexico,Guadalajara,Web,Instagram
+710169,2025-12-10,USA,Miami,iPhone,Referral
+870899,2025-01-12,USA,Dallas,Web,Google Ads
+893435,2025-02-03,UK,London,iPhone,Organic
+448671,2025-01-05,USA,Houston,Android,Google Ads
+239890,2025-11-13,Mexico,Cancún,Android,Google Ads
+146489,2025-08-24,USA,Boston,Android,Google Ads
+469412,2025-03-04,Mexico,Monterrey,Android,Organic
+672536,2025-02-11,USA,Chicago,iPhone,Google Ads
+454992,2025-04-30,USA,Los Angeles,iPhone,Google Ads
+953025,2025-04-09,USA,Los Angeles,iPhone,Instagram
+774020,2025-12-28,Brazil,Rio de Janeiro,Android,TikTok
+283594,2025-02-01,USA,Miami,Android,Instagram
+970720,2025-04-12,Brazil,Belo Horizonte,iPhone,Organic
+916990,2025-03-05,USA,San Francisco,Android,Organic
+817941,2025-04-27,Mexico,Mexico City,iPhone,Google Ads
+587192,2025-11-24,USA,Boston,iPhone,TikTok
+829168,2025-05-04,USA,Atlanta,iPhone,TikTok
+601776,2025-05-25,Brazil,Curitiba,Web,Instagram
+762423,2025-01-31,Mexico,Mexico City,iPhone,TikTok
+291132,2025-08-17,Mexico,Puebla,iPhone,Google Ads
+950916,2025-07-05,USA,Los Angeles,iPhone,Google Ads
+241403,2025-05-15,Mexico,Tijuana,Android,Organic
+166165,2025-09-03,Mexico,Monterrey,Android,Google Ads
+850827,2025-04-08,USA,Miami,Android,Organic
+913894,2025-08-27,USA,Chicago,iPhone,TikTok
+579911,2025-07-26,UK,Birmingham,Web,Google Ads
+138780,2025-07-17,Brazil,Salvador,Android,Organic
+407696,2025-07-15,Brazil,São Paulo,Web,Google Ads
+311383,2025-08-11,Canada,Edmonton,iPhone,TikTok
+145934,2025-04-05,UK,Glasgow,Web,Organic
+929538,2025-06-22,USA,New York,iPhone,Organic
+309159,2025-10-09,USA,Seattle,iPhone,Organic
+143941,2025-08-10,USA,Houston,Android,Instagram
+430926,2025-06-30,Brazil,Rio de Janeiro,Android,Instagram
+425138,2025-11-08,Canada,Toronto,Web,Instagram
+640418,2025-04-21,USA,Houston,Android,TikTok
+517568,2025-06-23,Brazil,São Paulo,Web,Instagram
+955015,2025-11-03,Mexico,Cancún,Android,Instagram
+669408,2025-12-19,USA,Miami,iPhone,TikTok
+596395,2025-01-10,UK,Birmingham,Android,TikTok
+365618,2025-12-19,Brazil,Salvador,iPhone,Referral
+138399,2025-09-01,USA,Dallas,Android,Referral
+889882,2025-12-24,UK,Leeds,iPhone,Google Ads
+778324,2025-10-21,USA,Chicago,Web,Google Ads
+300386,2025-05-08,Canada,Vancouver,Android,Instagram
+400009,2025-02-18,Brazil,Salvador,Web,Organic
+474314,2025-09-09,Brazil,Rio de Janeiro,Android,Organic
+918771,2025-04-09,Brazil,Curitiba,iPhone,TikTok
+150126,2025-01-31,UK,Birmingham,Android,TikTok
+787584,2025-11-14,Brazil,Rio de Janeiro,Android,Organic
+448048,2025-09-06,Brazil,Rio de Janeiro,Android,Referral
+386488,2025-11-27,Canada,Ottawa,Web,Organic
+230521,2025-02-01,USA,Boston,Android,Organic
+938171,2025-05-08,Mexico,Guadalajara,Android,TikTok
+485896,2025-06-02,UK,Liverpool,Android,Google Ads
+558176,2025-11-26,USA,Chicago,iPhone,Organic
+519453,2025-03-17,UK,London,iPhone,Google Ads
+879414,2025-06-10,Brazil,Salvador,Android,Instagram
+561097,2025-11-07,USA,Miami,Android,Organic
+505426,2025-01-09,Brazil,Rio de Janeiro,Android,Organic
+455505,2025-06-11,USA,Dallas,Android,TikTok
+295892,2025-11-27,UK,Liverpool,Android,Instagram
+620306,2025-01-18,USA,Chicago,iPhone,Google Ads
+825686,2025-09-19,Mexico,Monterrey,Android,Instagram
+621691,2025-03-13,USA,Chicago,Android,Referral
+485191,2025-02-17,USA,San Francisco,iPhone,Instagram
+936020,2025-02-05,Mexico,Monterrey,iPhone,TikTok
+644500,2025-07-22,Brazil,Belo Horizonte,iPhone,TikTok
+379676,2025-08-18,Mexico,Tijuana,Web,Google Ads
+940064,2025-12-16,USA,Miami,iPhone,Organic
+186624,2025-09-03,Brazil,São Paulo,Android,Instagram
+862400,2025-03-12,USA,Houston,Android,Referral
+545120,2025-07-22,Brazil,Brasília,iPhone,Instagram
+182760,2025-12-23,USA,Miami,Android,Instagram
+551524,2025-04-17,Brazil,São Paulo,iPhone,Instagram
+731718,2025-10-25,USA,Seattle,iPhone,Instagram
+962287,2025-04-19,UK,Leeds,Web,Organic
+289222,2025-05-25,USA,New York,Web,Google Ads
+671971,2025-04-14,USA,Dallas,Android,Organic
+408036,2025-05-14,Mexico,Monterrey,iPhone,Organic
+436814,2025-11-05,Brazil,Curitiba,iPhone,Organic
+207581,2025-04-05,Canada,Edmonton,Android,TikTok
+183958,2025-04-16,USA,Atlanta,Android,Google Ads
+443848,2025-12-20,USA,Boston,Android,Organic
+793024,2025-01-28,Mexico,Tijuana,Android,TikTok
+410000,2025-05-10,Mexico,Guadalajara,Android,Google Ads
+421384,2025-04-03,USA,New York,iPhone,Organic
+567576,2025-06-17,UK,Manchester,Android,Instagram
+731894,2025-09-09,Brazil,Salvador,Android,Organic
+852524,2025-05-08,Brazil,Belo Horizonte,iPhone,Referral
+546815,2025-11-14,USA,Los Angeles,Web,Google Ads
+274739,2025-06-05,USA,New York,Web,Referral
+823270,2025-01-28,Brazil,Curitiba,Android,Organic
+565471,2025-07-10,USA,Houston,Web,Google Ads
+468623,2025-01-18,USA,Atlanta,Android,Organic
+568849,2025-04-15,UK,Birmingham,iPhone,TikTok
+144412,2025-03-31,USA,New York,Web,Referral
+862120,2025-10-24,USA,Los Angeles,Android,TikTok
+469685,2025-09-03,Mexico,Monterrey,iPhone,Instagram
+744718,2025-07-13,USA,Chicago,iPhone,TikTok
+556068,2025-03-31,USA,Seattle,Android,TikTok
+387892,2025-05-24,Canada,Ottawa,Web,Instagram
+770532,2025-01-13,Mexico,Cancún,Android,Google Ads
+929924,2025-01-01,Mexico,Guadalajara,iPhone,TikTok
+160144,2025-08-11,Canada,Toronto,Web,Google Ads
+178686,2025-01-25,Brazil,Curitiba,Android,Organic
+803787,2025-08-30,USA,Los Angeles,Android,TikTok
+768480,2025-10-10,Brazil,Brasília,Android,TikTok
+525942,2025-03-31,Brazil,Brasília,Android,TikTok
+480959,2025-05-30,Mexico,Monterrey,Android,TikTok
+638009,2025-08-10,USA,Seattle,Android,TikTok
+940010,2025-07-03,USA,Miami,Web,Organic
+886325,2025-03-26,Mexico,Puebla,Android,Google Ads
+812413,2025-11-17,UK,Birmingham,Android,Google Ads
+267758,2025-03-23,USA,Dallas,Android,Google Ads
+132653,2025-04-16,UK,Leeds,iPhone,Google Ads
+249715,2025-02-27,UK,Liverpool,iPhone,TikTok
+989894,2025-01-03,Canada,Ottawa,iPhone,Organic
+737086,2025-04-27,USA,San Francisco,Android,Organic
+811027,2025-07-11,Mexico,Monterrey,Android,Organic
+919264,2025-04-23,Brazil,Salvador,Android,Google Ads
+559457,2025-02-24,Brazil,Curitiba,iPhone,Google Ads
+136489,2025-04-07,USA,Seattle,iPhone,Instagram
+232361,2025-02-06,Mexico,Tijuana,Android,TikTok
+170499,2025-04-18,Mexico,Monterrey,iPhone,TikTok
+347459,2025-01-09,Brazil,São Paulo,Web,Organic
+916332,2025-12-15,USA,Los Angeles,iPhone,Google Ads
+776502,2025-07-03,USA,Miami,Android,Organic
+484123,2025-07-18,Mexico,Mexico City,Android,Organic
+479742,2025-09-02,USA,Miami,iPhone,Instagram
+501451,2025-01-17,Mexico,Tijuana,iPhone,TikTok
+694799,2025-07-16,Brazil,Brasília,iPhone,Instagram
+133958,2025-06-29,Mexico,Mexico City,iPhone,Instagram
+734487,2025-01-20,Canada,Edmonton,Android,Organic
+260891,2025-02-12,Canada,Toronto,Android,TikTok
+812048,2025-05-04,USA,Los Angeles,Android,Google Ads
+571778,2025-12-27,Mexico,Puebla,iPhone,Organic
+488984,2025-12-17,UK,Manchester,Android,Organic
+490084,2025-09-15,USA,New York,Web,TikTok
+565504,2025-10-02,USA,Miami,Android,TikTok
+900152,2025-09-22,Mexico,Mexico City,iPhone,Organic
+180620,2025-05-29,Brazil,Salvador,iPhone,Organic
+701800,2025-02-09,Mexico,Puebla,iPhone,Organic
+244383,2025-12-01,USA,Seattle,iPhone,TikTok
+655178,2025-06-24,Canada,Calgary,iPhone,Organic
+484774,2025-08-16,UK,Leeds,Web,Organic
+517368,2025-11-06,UK,London,iPhone,Organic
+429657,2025-08-09,Brazil,Salvador,Android,Google Ads
+781113,2025-10-06,USA,San Francisco,Web,TikTok
+392227,2025-12-26,USA,Seattle,iPhone,TikTok
+361736,2025-12-07,Brazil,São Paulo,iPhone,Google Ads
+218959,2025-03-12,USA,Atlanta,Android,Organic
+127172,2025-04-11,USA,Chicago,iPhone,Organic
+871411,2025-02-04,Brazil,Belo Horizonte,iPhone,Organic
+295085,2025-10-14,Canada,Edmonton,iPhone,TikTok
+623285,2025-12-26,USA,Houston,iPhone,Organic
+642895,2025-02-27,Brazil,Brasília,iPhone,Google Ads
+505785,2025-03-12,Brazil,Brasília,Android,Organic
+688956,2025-04-07,USA,Houston,Web,Google Ads
+223481,2025-07-18,Mexico,Puebla,Android,Organic
+374492,2025-03-16,Brazil,Curitiba,Android,Google Ads
+912609,2025-09-02,Mexico,Tijuana,iPhone,Google Ads
+372933,2025-07-31,Brazil,São Paulo,Android,Organic
+838237,2025-07-28,UK,Birmingham,Web,Google Ads
+567951,2025-07-22,USA,Atlanta,iPhone,Organic
+324993,2025-04-26,USA,Dallas,iPhone,Instagram
+741599,2025-09-18,Mexico,Guadalajara,Android,Referral
+399449,2025-05-04,UK,Glasgow,Web,Instagram
+827691,2025-11-04,Mexico,Monterrey,Android,Organic
+615060,2025-03-16,USA,Los Angeles,Android,Instagram
+309902,2025-08-26,UK,London,iPhone,TikTok
+228594,2025-06-17,Mexico,Monterrey,iPhone,TikTok
+242321,2025-12-19,Canada,Calgary,Android,TikTok
+994253,2025-12-05,Mexico,Tijuana,Web,Instagram
+177649,2025-09-08,UK,Manchester,Android,Organic
+574001,2025-05-09,Canada,Ottawa,Android,Instagram
+281043,2025-04-27,Mexico,Monterrey,Web,Instagram
+848022,2025-06-28,USA,Dallas,Web,Instagram
+566732,2025-07-30,Canada,Vancouver,Web,TikTok
+192055,2025-11-10,USA,Boston,iPhone,Instagram
+949884,2025-04-08,UK,Manchester,Android,Instagram
+815054,2025-04-15,Mexico,Monterrey,Android,TikTok
+986593,2025-05-30,UK,Leeds,Android,Organic
+435112,2025-06-22,Mexico,Guadalajara,Android,Instagram
+800280,2025-05-19,USA,Seattle,iPhone,TikTok
+464301,2025-11-07,Canada,Calgary,Android,Organic
+844007,2025-07-21,USA,Los Angeles,Web,Google Ads
+168093,2025-09-11,USA,Houston,Android,Organic
+676713,2025-10-18,Brazil,Belo Horizonte,Android,Organic
+668507,2025-09-08,Brazil,Brasília,iPhone,TikTok
+404466,2025-03-13,Mexico,Puebla,Android,Organic
+414527,2025-01-22,USA,Dallas,Android,Referral
+992717,2025-03-07,UK,Birmingham,iPhone,TikTok
+265156,2025-12-05,UK,Glasgow,Android,Organic
+846385,2025-05-22,Brazil,São Paulo,iPhone,Referral
+844031,2025-10-20,USA,Houston,iPhone,Instagram
+834233,2025-01-12,Mexico,Tijuana,iPhone,Organic
+768676,2025-07-16,Brazil,Brasília,Android,Organic
+282547,2025-10-20,USA,Boston,iPhone,Organic
+932250,2025-05-07,Mexico,Monterrey,Android,Organic
+479052,2025-03-30,UK,Manchester,iPhone,Instagram
+633469,2025-06-07,Canada,Montreal,iPhone,Organic
+335134,2025-04-29,Brazil,Belo Horizonte,Web,TikTok
+227257,2025-03-18,USA,Los Angeles,iPhone,TikTok
+310743,2025-01-12,Mexico,Puebla,Web,Google Ads
+930541,2025-08-12,Brazil,Brasília,iPhone,Instagram
+245622,2025-09-17,UK,Leeds,iPhone,Organic
+348235,2025-12-27,Mexico,Puebla,Android,TikTok
+928766,2025-04-22,USA,Atlanta,iPhone,TikTok
+618019,2025-04-29,USA,Atlanta,iPhone,Instagram
+127560,2025-10-16,USA,Seattle,Web,Instagram
+478427,2025-07-19,USA,Los Angeles,Android,Google Ads
+680933,2025-08-17,Brazil,Brasília,iPhone,TikTok
+700076,2025-05-18,Canada,Toronto,Android,TikTok
+486831,2025-10-27,USA,Miami,Android,Organic
+590110,2025-01-19,Mexico,Tijuana,Android,Organic
+942700,2025-12-29,Canada,Montreal,iPhone,Organic
+678443,2025-05-09,Canada,Toronto,Android,TikTok
+236074,2025-08-12,USA,Miami,Android,Organic
+741674,2025-09-24,USA,Chicago,iPhone,Organic
+190403,2025-04-01,USA,Los Angeles,Android,Instagram
+168941,2025-05-01,USA,Seattle,Web,Google Ads
+424314,2025-02-21,USA,Houston,Android,Organic
+517500,2025-10-11,USA,Chicago,Android,Google Ads
+851759,2025-04-06,UK,Glasgow,iPhone,TikTok
+853789,2025-05-20,USA,New York,iPhone,Organic
+601916,2025-07-21,Brazil,São Paulo,Android,Google Ads
+651231,2025-05-04,USA,New York,Android,Google Ads
+530749,2025-05-06,UK,Birmingham,Android,Organic
+906527,2025-11-24,Brazil,Curitiba,iPhone,Organic
+529322,2025-01-01,Mexico,Mexico City,iPhone,TikTok
+963333,2025-07-22,USA,San Francisco,Android,Instagram
+702826,2025-11-28,Brazil,Curitiba,iPhone,TikTok
+177333,2025-07-27,Canada,Montreal,Android,Instagram
+231414,2025-09-13,Mexico,Tijuana,Web,Organic
+432427,2025-07-08,USA,New York,iPhone,Instagram
+773540,2025-07-12,UK,London,Android,TikTok
+177767,2025-01-09,USA,New York,iPhone,Organic
+571832,2025-03-13,USA,Chicago,Android,Instagram
+588461,2025-04-27,Mexico,Monterrey,iPhone,Organic
+813145,2025-08-27,Canada,Montreal,Android,TikTok
+642491,2025-01-27,USA,Houston,Android,TikTok
+461249,2025-06-01,USA,Chicago,Web,Referral
+234568,2025-12-01,USA,Dallas,Android,TikTok
+969325,2025-09-20,UK,London,Android,TikTok
+918164,2025-09-03,Brazil,São Paulo,Web,Google Ads
+678083,2025-03-26,USA,Dallas,iPhone,Referral
+770872,2025-05-19,USA,Los Angeles,iPhone,Instagram
+716338,2025-01-13,USA,San Francisco,iPhone,TikTok
+290802,2025-11-15,Brazil,Brasília,Android,TikTok
+905077,2025-03-05,USA,Dallas,iPhone,TikTok
+235300,2025-12-08,UK,Liverpool,Android,TikTok
+553633,2025-03-20,UK,Glasgow,Android,TikTok
+627290,2025-11-22,Canada,Calgary,iPhone,Instagram
+158104,2025-11-12,USA,Chicago,Android,Organic
+971776,2025-01-07,Brazil,Salvador,iPhone,Organic
+230192,2025-03-19,Canada,Vancouver,iPhone,Organic
+643269,2025-01-01,Brazil,Belo Horizonte,iPhone,Referral
+260448,2025-09-05,Canada,Vancouver,Web,Organic
+418897,2025-12-11,UK,Manchester,Android,Referral
+272655,2025-06-25,Brazil,São Paulo,Android,Google Ads
+269834,2025-05-13,Mexico,Monterrey,Web,Referral
+438334,2025-06-19,Brazil,Belo Horizonte,Web,Google Ads
+843788,2025-10-29,Mexico,Monterrey,Android,Instagram
+336422,2025-05-06,Brazil,Brasília,Android,Google Ads
+462831,2025-09-18,USA,New York,Android,Organic
+644103,2025-05-12,USA,Atlanta,iPhone,Instagram
+397846,2025-04-23,USA,Chicago,Android,Google Ads
+987025,2025-02-20,UK,Manchester,Android,Organic
+182690,2025-08-03,Mexico,Tijuana,iPhone,Google Ads
+362778,2025-09-04,Brazil,Brasília,iPhone,Organic
+305837,2025-01-30,Canada,Edmonton,iPhone,Organic
+765905,2025-01-16,Brazil,Salvador,iPhone,TikTok
+677599,2025-09-09,USA,Dallas,iPhone,Organic
+387782,2025-05-01,Canada,Calgary,Android,TikTok
+231250,2025-11-03,USA,Boston,Android,Organic
+755383,2025-02-12,USA,Atlanta,Web,Organic
+417534,2025-02-17,UK,London,iPhone,TikTok
+744274,2025-01-02,Canada,Edmonton,Android,Referral
+659392,2025-07-07,Brazil,São Paulo,iPhone,Referral
+197966,2025-01-21,Mexico,Cancún,iPhone,Instagram
+626986,2025-10-26,USA,Miami,iPhone,Organic
+772124,2025-04-09,USA,New York,Android,Google Ads
+276827,2025-05-17,UK,Liverpool,Web,TikTok
+720556,2025-11-10,Mexico,Tijuana,Web,Organic
+708851,2025-03-22,USA,Los Angeles,Android,Google Ads
+261684,2025-04-25,Mexico,Cancún,Android,TikTok
+279516,2025-03-25,Mexico,Mexico City,iPhone,Organic
+790731,2025-05-31,Mexico,Puebla,iPhone,TikTok
+754813,2025-06-08,Mexico,Puebla,iPhone,Referral
+855638,2025-03-21,Mexico,Guadalajara,iPhone,Organic
+734534,2025-02-25,USA,New York,Android,Organic
+454019,2025-06-20,Canada,Vancouver,iPhone,Organic
+983456,2025-07-29,Mexico,Tijuana,iPhone,TikTok
+690996,2025-12-30,USA,San Francisco,Android,Organic
+143195,2025-07-20,USA,Seattle,Android,TikTok
+965322,2025-05-10,USA,Los Angeles,iPhone,Google Ads
+129751,2025-12-30,Brazil,Salvador,Android,Referral
+185168,2025-12-29,UK,Liverpool,iPhone,Organic
+147670,2025-12-25,Brazil,Brasília,Web,Google Ads
+772612,2025-09-07,USA,Chicago,Web,TikTok
+908475,2025-05-03,UK,Birmingham,iPhone,Google Ads
+704788,2025-04-03,Brazil,Salvador,Web,Referral
+377511,2025-11-11,Brazil,São Paulo,Android,Instagram
+782759,2025-09-14,USA,New York,iPhone,Google Ads
+321048,2025-09-16,USA,Chicago,iPhone,Instagram
+904214,2025-11-10,USA,Atlanta,Web,Referral
+699929,2025-01-21,Canada,Vancouver,Android,Referral
+536822,2025-08-22,Brazil,Curitiba,Android,Organic
+748133,2025-02-02,USA,Dallas,iPhone,Instagram
+770030,2025-11-08,Brazil,Salvador,Web,Referral
+131757,2025-05-16,Brazil,Brasília,Web,Organic
+622230,2025-10-24,USA,New York,Android,Instagram
+757629,2025-04-24,USA,Miami,iPhone,Organic
+672079,2025-01-25,Canada,Calgary,iPhone,Organic
+403742,2025-08-02,Canada,Montreal,Android,Google Ads
+773088,2025-09-12,USA,Miami,Android,Instagram
+416768,2025-03-01,Canada,Vancouver,Android,TikTok
+606404,2025-10-07,UK,Liverpool,Android,Organic
+356773,2025-11-28,Mexico,Mexico City,Android,Organic
+943776,2025-05-13,USA,Seattle,iPhone,Organic
+946567,2025-08-07,USA,Miami,Android,TikTok
+818264,2025-05-28,USA,Chicago,iPhone,Google Ads
+525818,2025-02-09,USA,San Francisco,Android,Instagram
+411882,2025-05-03,Canada,Toronto,Web,Organic
+575575,2025-08-20,USA,Miami,Web,Organic
+176517,2025-08-27,USA,San Francisco,Android,Google Ads
+822063,2025-02-12,Brazil,Salvador,Android,Organic
+162823,2025-04-07,USA,Los Angeles,iPhone,TikTok
+265759,2025-11-14,Brazil,Brasília,Android,Referral
+560959,2025-06-25,UK,London,Web,Organic
+535810,2025-11-20,USA,San Francisco,iPhone,Referral
+607774,2025-08-10,USA,Dallas,Web,Google Ads
+587002,2025-03-27,USA,San Francisco,Android,TikTok
+313933,2025-02-04,USA,Seattle,Android,Google Ads
+456717,2025-09-11,Canada,Edmonton,iPhone,Instagram
+736129,2025-04-12,Brazil,Salvador,iPhone,Instagram
+250647,2025-07-01,UK,London,Android,Organic
+427766,2025-01-04,USA,Dallas,Android,TikTok
+853258,2025-11-01,Canada,Calgary,iPhone,Google Ads
+434827,2025-10-11,Brazil,São Paulo,Android,TikTok
+869864,2025-01-17,Canada,Edmonton,Android,Organic
+462147,2025-08-06,UK,Glasgow,iPhone,Organic
+518084,2025-03-12,USA,Los Angeles,iPhone,Organic
+237118,2025-07-30,Mexico,Puebla,Web,Organic
+897615,2025-06-03,Canada,Ottawa,iPhone,TikTok
+488539,2025-12-31,Brazil,São Paulo,Web,Organic
+639995,2025-02-21,USA,Chicago,Web,Instagram
+688933,2025-06-12,USA,Los Angeles,Web,Google Ads
+211341,2025-02-10,UK,Manchester,Android,Instagram
+434617,2025-10-05,USA,Miami,iPhone,Google Ads
+353480,2025-10-23,Canada,Toronto,Android,TikTok
+589131,2025-06-02,UK,Leeds,iPhone,TikTok
+228473,2025-08-04,USA,Atlanta,Android,Organic
+380464,2025-02-05,USA,Dallas,iPhone,Organic
+571435,2025-01-22,USA,Boston,iPhone,Google Ads
+359961,2025-03-23,Brazil,Brasília,iPhone,Organic
+247720,2025-06-21,Mexico,Tijuana,Web,Organic
+201514,2025-01-09,USA,Boston,Android,Organic
+153063,2025-12-16,Brazil,Curitiba,Android,Organic
+404309,2025-05-20,Brazil,Salvador,iPhone,TikTok
+502810,2025-10-08,Brazil,Curitiba,Android,Organic
+745270,2025-04-09,USA,Atlanta,iPhone,Instagram
+538446,2025-10-30,UK,Birmingham,iPhone,TikTok
+360330,2025-03-05,Brazil,Belo Horizonte,iPhone,Organic
+267457,2025-02-28,Mexico,Monterrey,Android,TikTok
+952993,2025-10-23,Brazil,Rio de Janeiro,Android,Instagram
+443341,2025-03-09,USA,Boston,iPhone,Instagram
+705748,2025-02-06,Mexico,Guadalajara,Web,Google Ads
+856157,2025-02-27,Mexico,Guadalajara,Web,Organic
+427905,2025-12-23,Brazil,Curitiba,iPhone,Organic
+299055,2025-03-17,USA,Los Angeles,iPhone,TikTok
+900190,2025-07-30,Mexico,Mexico City,Web,Organic
+267082,2025-04-14,USA,San Francisco,Android,TikTok
+622469,2025-12-07,UK,Manchester,iPhone,TikTok
+639728,2025-05-21,UK,Glasgow,iPhone,TikTok
+589491,2025-02-01,Brazil,Brasília,iPhone,TikTok
+622987,2025-04-15,UK,London,Android,TikTok
+423528,2025-08-07,Brazil,Brasília,iPhone,Organic
+621530,2025-10-28,UK,Liverpool,Android,TikTok
+124302,2025-12-19,Brazil,Brasília,Android,TikTok
+194423,2025-09-03,UK,Liverpool,Web,Organic
+512344,2025-09-06,USA,Chicago,iPhone,Organic
+629996,2025-02-26,Brazil,Belo Horizonte,Android,Referral
+579441,2025-05-20,USA,Dallas,Android,Instagram
+352422,2025-01-11,UK,Leeds,Android,Google Ads
+325595,2025-05-06,USA,Los Angeles,iPhone,Organic
+711680,2025-10-22,Mexico,Cancún,Web,Google Ads
+470037,2025-09-28,UK,Leeds,Web,Instagram
+151021,2025-10-11,USA,New York,iPhone,Instagram
+152995,2025-02-25,Brazil,Brasília,iPhone,Organic
+395023,2025-05-20,Mexico,Cancún,Android,Organic
+618934,2025-11-05,Mexico,Cancún,iPhone,Google Ads
+726543,2025-04-11,Brazil,Brasília,iPhone,TikTok
+983791,2025-08-30,UK,Birmingham,iPhone,Organic
+786041,2025-10-15,Mexico,Tijuana,iPhone,Organic
+805188,2025-04-29,USA,Los Angeles,iPhone,Google Ads
+593446,2025-02-07,Brazil,São Paulo,iPhone,TikTok
+399628,2025-04-20,USA,San Francisco,Android,Organic
+662761,2025-10-28,USA,Los Angeles,iPhone,Organic
+108574,2025-04-18,Brazil,Brasília,Android,Google Ads
+988324,2025-05-09,USA,Houston,Android,Organic
+212718,2025-05-04,UK,Leeds,Android,Referral
+551860,2025-12-23,USA,Miami,Android,Instagram
+240440,2025-07-30,Mexico,Puebla,Android,Organic
+377319,2025-10-22,UK,London,iPhone,Instagram
+862847,2025-08-20,USA,Atlanta,Android,Referral
+483545,2025-11-18,Brazil,Rio de Janeiro,iPhone,Organic
+900961,2025-03-22,Brazil,Curitiba,iPhone,Organic
+522842,2025-04-18,USA,New York,Android,Organic
+483713,2025-04-26,USA,Miami,Android,Instagram
+147440,2025-04-15,Mexico,Mexico City,iPhone,Referral
+520040,2025-12-19,USA,Miami,Web,TikTok
+153642,2025-07-11,USA,Chicago,Android,Organic
+697983,2025-02-25,USA,Chicago,Android,Google Ads
+689107,2025-02-25,USA,Chicago,iPhone,Organic
+304110,2025-09-24,Brazil,Curitiba,Android,Organic
+480133,2025-10-30,Mexico,Cancún,Android,Referral
+680096,2025-03-22,UK,Leeds,Web,Google Ads
+402620,2025-08-18,UK,Leeds,Android,Instagram
+177103,2025-06-11,Brazil,Belo Horizonte,Web,TikTok
+505116,2025-01-11,USA,Houston,Web,Google Ads
+628750,2025-02-16,USA,Miami,iPhone,TikTok
+572230,2025-01-28,UK,London,Android,Organic
+901535,2025-09-03,USA,San Francisco,Web,Organic
+676566,2025-03-11,Brazil,Curitiba,Android,Instagram
+393308,2025-03-06,USA,Chicago,Android,Organic
+965401,2025-02-07,USA,New York,Android,Instagram
+753516,2025-02-17,USA,San Francisco,iPhone,TikTok
+813449,2025-01-23,USA,Dallas,Android,Google Ads
+740725,2025-12-24,Brazil,Rio de Janeiro,iPhone,Google Ads
+224582,2025-08-05,Mexico,Tijuana,iPhone,TikTok
+234913,2025-08-24,Mexico,Tijuana,iPhone,Google Ads
+201377,2025-01-17,USA,Miami,Web,Organic
+513037,2025-01-16,UK,London,Android,Instagram
+491326,2025-10-27,USA,Chicago,Android,Google Ads
+933510,2025-08-13,USA,Houston,Android,Google Ads
+455556,2025-11-19,UK,Leeds,Android,Organic
+684929,2025-06-30,Mexico,Tijuana,iPhone,Organic
+483366,2025-05-29,USA,Los Angeles,Android,TikTok
+891638,2025-03-17,Mexico,Monterrey,iPhone,TikTok
+251275,2025-09-25,Mexico,Tijuana,Android,Organic
+308727,2025-05-28,Canada,Toronto,iPhone,Google Ads
+731728,2025-09-17,Brazil,São Paulo,iPhone,TikTok
+633853,2025-12-05,Brazil,São Paulo,iPhone,Organic
+520884,2025-02-15,USA,Houston,iPhone,Instagram
+624369,2025-07-13,USA,San Francisco,iPhone,Organic
+142210,2025-09-19,Brazil,Rio de Janeiro,iPhone,Google Ads
+147504,2025-06-08,USA,Dallas,iPhone,Organic
+140804,2025-01-21,UK,Leeds,iPhone,Organic
+243693,2025-11-05,Mexico,Mexico City,iPhone,Organic
+848255,2025-01-09,UK,Leeds,Android,TikTok
+449218,2025-09-27,UK,Glasgow,Web,Google Ads
+943019,2025-03-04,USA,Los Angeles,iPhone,Google Ads
+596756,2025-10-12,UK,Birmingham,Web,Organic
+644559,2025-05-13,Canada,Edmonton,iPhone,Instagram
+579187,2025-09-13,Canada,Edmonton,iPhone,Referral
+256175,2025-04-07,UK,Manchester,Android,TikTok
+735710,2025-12-11,Brazil,São Paulo,iPhone,Organic
+640546,2025-03-29,USA,Atlanta,Android,Organic
+246570,2025-07-28,Brazil,Curitiba,Android,Instagram
+443897,2025-03-08,USA,New York,iPhone,TikTok
+742848,2025-05-09,USA,San Francisco,Android,Organic
+434002,2025-11-20,USA,New York,Web,Organic
+512042,2025-05-29,Brazil,Brasília,Web,TikTok
+746447,2025-12-12,UK,London,iPhone,Google Ads
+875232,2025-01-12,USA,San Francisco,Android,Organic
+983532,2025-05-24,Mexico,Puebla,iPhone,TikTok
+413769,2025-09-16,UK,Leeds,Android,Google Ads
+722565,2025-07-08,Canada,Toronto,Android,Instagram
+452713,2025-05-22,USA,San Francisco,Android,Google Ads
+631958,2025-02-01,USA,Chicago,Android,Google Ads
+968524,2025-01-30,Mexico,Monterrey,iPhone,Instagram
+634473,2025-04-17,Canada,Montreal,iPhone,Referral
+658198,2025-10-28,Canada,Montreal,iPhone,TikTok
+613641,2025-03-14,USA,Los Angeles,iPhone,Organic
+843167,2025-09-27,UK,London,iPhone,Instagram
+690268,2025-04-12,Brazil,São Paulo,Android,Instagram
+414353,2025-04-21,USA,Los Angeles,Android,Organic
+597960,2025-07-28,USA,Dallas,Web,Organic
+955374,2025-11-10,UK,Glasgow,iPhone,Organic
+117445,2025-07-19,UK,Liverpool,Android,Organic
+486251,2025-09-26,USA,San Francisco,Web,Google Ads
+447329,2025-01-14,UK,London,Web,Organic
+806537,2025-08-01,Canada,Toronto,Android,Organic
+214928,2025-01-07,USA,Chicago,Web,TikTok
+536774,2025-09-12,USA,Atlanta,iPhone,Instagram
+712056,2025-08-01,USA,Miami,Web,Instagram
+422623,2025-11-09,Canada,Ottawa,Android,TikTok
+935457,2025-11-06,UK,Manchester,Web,Organic
+860557,2025-10-22,USA,Los Angeles,Web,Instagram
+821466,2025-09-29,USA,San Francisco,iPhone,Organic
+759827,2025-07-28,Brazil,São Paulo,Android,Google Ads
+127941,2025-09-16,USA,Chicago,Web,Instagram
+725905,2025-08-03,USA,Houston,Android,Organic
+597643,2025-05-31,USA,Miami,Web,Instagram
+378428,2025-07-07,USA,San Francisco,iPhone,Google Ads
+787436,2025-08-08,Mexico,Monterrey,iPhone,Referral
+920934,2025-03-01,Brazil,Curitiba,iPhone,Instagram
+913864,2025-01-22,Mexico,Puebla,Android,Organic
+706574,2025-07-19,Canada,Toronto,Android,Organic
+705693,2025-01-14,Brazil,Belo Horizonte,iPhone,Google Ads
+338596,2025-04-19,Brazil,Curitiba,Android,Organic
+856442,2025-06-24,USA,Chicago,Android,Organic
+153849,2025-10-20,USA,Atlanta,Android,Organic
+711868,2025-03-15,USA,Seattle,iPhone,Instagram
+603787,2025-01-21,Mexico,Tijuana,Web,Organic
+278794,2025-09-28,USA,Miami,Web,Organic
+649697,2025-12-08,Canada,Vancouver,iPhone,Organic
+759580,2025-01-24,Canada,Edmonton,Web,Organic
+749840,2025-02-22,USA,Dallas,Android,Organic
+912233,2025-01-25,Mexico,Puebla,Android,Organic
+982027,2025-05-29,Brazil,Belo Horizonte,Android,Organic
+498658,2025-08-20,USA,Chicago,Web,Instagram
+254954,2025-11-03,Canada,Ottawa,Android,TikTok
+961574,2025-11-16,Mexico,Tijuana,Web,TikTok
+813793,2025-10-10,Brazil,Salvador,Web,Instagram
+353961,2025-08-22,Mexico,Tijuana,Android,Instagram
+133104,2025-07-07,USA,San Francisco,iPhone,TikTok
+700383,2025-06-19,Brazil,Curitiba,Web,Organic
+834549,2025-06-08,Brazil,Brasília,iPhone,TikTok
+215233,2025-02-25,Brazil,Rio de Janeiro,Web,Google Ads
+300051,2025-08-09,USA,Houston,iPhone,Organic
+119857,2025-11-15,Brazil,Belo Horizonte,Web,Organic
+562462,2025-03-02,Mexico,Tijuana,Android,TikTok
+428930,2025-08-15,Brazil,Salvador,Web,Organic
+539122,2025-04-27,USA,Houston,iPhone,Referral
+258787,2025-07-05,Brazil,Rio de Janeiro,iPhone,Instagram
+533020,2025-01-09,Mexico,Tijuana,iPhone,Google Ads
+824042,2025-07-28,UK,Birmingham,Web,Google Ads
+313795,2025-10-17,UK,London,Web,Referral
+530311,2025-03-17,Mexico,Monterrey,iPhone,Google Ads
+626195,2025-12-05,Brazil,Brasília,Android,Organic
+912617,2025-07-28,USA,San Francisco,iPhone,TikTok
