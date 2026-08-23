@@ -78,8 +78,9 @@ Each question has its own SQL file so the progression of the analysis can be fol
 
 ## Key Findings
 
-* Monthly Active Users increased throughout 2025, with no month experiencing a decline.
-* The largest month-over-month increase in MAU occurred between June and July.
+* Monthly Active Users increased throughout 2025, with no month experiencing a decline. 
+  The largest month-over-month increase in MAU occurred between June and July.
+  ![Monthly Active Users](images/monthly_active_users.png)
 * Monthly retention remained relatively stable at around 60%.
 * October had the highest retention rate at 67%, while February had the lowest at 52%.
 * The number of retained users generally increased throughout the year.
