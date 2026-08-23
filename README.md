@@ -79,8 +79,7 @@ Each question has its own SQL file so the progression of the analysis can be fol
 ## Key Findings
 
 * Monthly Active Users increased throughout 2025, with no month experiencing a decline. 
-  The largest month-over-month increase in MAU occurred between June and July.
-  ![Monthly Active Users](images/monthly_active_users.png)
+* The largest month-over-month increase in MAU occurred between June and July.
 * Monthly retention remained relatively stable at around 60%.
 * October had the highest retention rate at 67%, while February had the lowest at 52%.
 * The number of retained users generally increased throughout the year.
@@ -90,6 +89,36 @@ Each question has its own SQL file so the progression of the analysis can be fol
 * The United States generated the most subscription revenue by a noticeable margin, followed by Brazil and Mexico.
 * Brasília had the highest Premium conversion rate among the cities analyzed.
 * Premium conversion rates were relatively similar across Web, Android, and iPhone users.
+
+### Monthly Active Users
+
+Monthly Active Users increased throughout 2025, with the largest
+month-over-month increase occurring between June and July.
+
+![Monthly Active Users](images/monthly_active_users.png)
+
+### Monthly Retention Rate
+
+Monthly retention remained relatively stable at around 60%.
+October had the highest retention rate at 67%, while February
+had the lowest at 52%.
+
+![Monthly Retention Rate](images/monthly_retention_rate.png)
+
+### Churn vs. Reactivation
+
+Churn occurred throughout the year alongside continued user growth.
+Reactivated users were also present across multiple months, showing
+that previously inactive users returned to the platform.
+
+![Monthly Churn vs Reactivated Users](images/churn_vs_reactivated.png)
+
+### Subscription Revenue by Country
+
+The United States generated the most subscription revenue by a
+noticeable margin, followed by Brazil and Mexico.
+
+![Subscription Revenue by Country](images/revenue_by_country.png)
 
 ## Tools & SQL Skills
 
