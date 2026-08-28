@@ -126,6 +126,7 @@ noticeable margin, followed by Brazil and Mexico.
 
 * SQLite
 * GitHub
+* Tableau Public
 * CSV
 
 **SQL concepts used**
