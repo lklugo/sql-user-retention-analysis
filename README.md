@@ -155,12 +155,18 @@ noticeable margin, followed by Brazil and Mexico.
 ├── database/
 │   └── streaming_retention.db
 │
+│── images/
+│   └── churn_vs_reactivated.png
+│   ├── monthly_active_users.png
+│   └── monthly_retention_rate.png
+│   └── revenue_by_country.png
+│
 ├── sql/
-│   ├── 01_duplicate_login_events.sql
-│   ├── 02_missing_invalid_values.sql
+│   ├── 01_data_quality_duplicates.sql
+│   ├── 02_data_quality_check.sql
 │   ├── ...
-│   ├── 14_device_premium_conversion.sql
-│   └── 15_executive_dashboard.sql
+│   ├── 14_premium_conversion_rate_by_device.sql
+│   └── 15_user_dashboard.sql
 │
 └── README.md
 ```
