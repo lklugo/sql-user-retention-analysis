@@ -4,7 +4,7 @@
 - New user registrations remained relatively consistent.
 - Retention rates were generally stable across the year.
 - Reactivated users appeared in many of the months, showing that some inactive users returned.
-- Churn occurred every month, indicating a normal level of user attrition.
+- Churn occurred throughout the year, showing continued user attrition alongside overall user growth.
 
 This dashboard provides a consolidated monthly view of user growth, engagement, retention, and churn. 
 It can be used by stakeholders to monitor platform health and identify trends that may require further investigation.
