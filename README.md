@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project analyzes user activity and subscription data for a simulated music streaming service. The goal of the project is to understand user growth, engagement, retention, churn, reactivation, and Premium subscription performance.
+For this project I analyze user activity and subscription data for a simulated music streaming service. The goal of the project is to understand user growth, engagement, retention, churn, reactivation, and Premium subscription performance.
 
-The dataset contains 3,000 users and 30,000 login records from 2025. Using SQLite, I analyzed user behavior across multiple dimensions including time, location, device type, marketing channel, and subscription status.
+The dataset contains 3,000 users and 30,000 login records from 2025. Using SQLite, I analyzed user behavior across various aspects including time, location, device type, marketing channel, and subscription status.
 
 This project was created to strengthen my SQL and data analysis skills by working through business questions that become progressively more complex.
 
@@ -81,10 +81,10 @@ Each question has its own SQL file so the progression of the analysis can be fol
 * Monthly Active Users increased throughout 2025, with no month experiencing a decline. 
 * The largest month-over-month increase in MAU occurred between June and July.
 * Monthly retention remained relatively stable at around 60%.
-* October had the highest retention rate at 67%, while February had the lowest at 52%.
+* I Saw that October had the highest retention rate at 67%, while February had the lowest at 52%.
 * The number of retained users generally increased throughout the year.
-* Reactivated users were present across multiple months, with a particularly large increase between November and December.
-* Android had the highest number of active users, although iPhone followed closely.
+* Reactivated users were present across multiple months, with a large increase between November and December.
+* Android had the highest number of active users, while iPhone followed closely.
 * Organic generated the largest number of Premium subscribers.
 * The United States generated the most subscription revenue by a noticeable margin, followed by Brazil and Mexico.
 * Brasília had the highest Premium conversion rate among the cities analyzed.
